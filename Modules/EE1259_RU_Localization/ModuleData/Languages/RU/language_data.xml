@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData id="Русский" name="Русский" subtitle_extension="ru" supported_iso="ru,rus,ru-ru,ru-md" text_processor="TaleWorlds.Localization.TextProcessor.LanguageProcessors.RussianTextProcessor" under_development="false">
+  <LanguageFile xml_path="RU/core.xml" />
+  <LanguageFile xml_path="RU/items.xml" />
+  <LanguageFile xml_path="RU/settlements.xml" />
+  <LanguageFile xml_path="RU/module_strings.xml" />
+  <LanguageFile xml_path="RU/wanderer_strings.xml" />
+  <LanguageFile xml_path="RU/wanderers.xml" />
+  <LanguageFile xml_path="RU/npc_troops.xml" />
+  <LanguageFile xml_path="RU/clans.xml" />
+  <LanguageFile xml_path="RU/npc_lords.xml" />
+  <LanguageFile xml_path="RU/kingdoms.xml" />
+  <LanguageFile xml_path="RU/religions.xml" />
+  <LanguageFile xml_path="RU/ships.xml" />
+  <LanguageFile xml_path="RU/culture/crusader.xml" />
+  <LanguageFile xml_path="RU/culture/danish.xml" />
+  <LanguageFile xml_path="RU/culture/estonian.xml" />
+  <LanguageFile xml_path="RU/culture/latvian.xml" />
+  <LanguageFile xml_path="RU/culture/lithuanian.xml" />
+  <LanguageFile xml_path="RU/culture/polish.xml" />
+  <LanguageFile xml_path="RU/culture/rus.xml" />
+  <LanguageFile xml_path="RU/culture/swedish.xml" />
+</LanguageData>

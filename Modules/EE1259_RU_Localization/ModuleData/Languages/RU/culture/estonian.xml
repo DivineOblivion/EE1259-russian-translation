@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Русский" />
+  </tags>
+  <strings>
+
+    <!--
+
+        ███████ ███████ ████████  ██████  ███    ██ ██  █████  ███    ██      ██████ ██    ██ ██      ████████ ██    ██ ██████  ███████ 
+        ██      ██         ██    ██    ██ ████   ██ ██ ██   ██ ████   ██     ██      ██    ██ ██         ██    ██    ██ ██   ██ ██      
+        █████   ███████    ██    ██    ██ ██ ██  ██ ██ ███████ ██ ██  ██     ██      ██    ██ ██         ██    ██    ██ ██████  █████   
+        ██           ██    ██    ██    ██ ██  ██ ██ ██ ██   ██ ██  ██ ██     ██      ██    ██ ██         ██    ██    ██ ██   ██ ██      
+        ███████ ███████    ██     ██████  ██   ████ ██ ██   ██ ██   ████      ██████  ██████  ███████    ██     ██████  ██   ██ ███████ 
+
+    -->
+
+    <string id="Ahas" text="{.MA}Ахас"/>
+    <string id="Aht" text="{.MA}Ахт"/>
+    <string id="Aim" text="{.MA}Айм"/>
+    <string id="Ain" text="{.MA}Айн"/>
+    <string id="Alo" text="Ало"/>
+    <string id="Aopelg" text="{.MA}Аопельг"/>
+    <string id="Aotõiv" text="{.MA}Аотыйв"/>
+    <string id="Cake" text="Каке"/>
+    <string id="Culle" text="Кулле"/>
+    <string id="Enu" text="Эну"/>
+    <string id="Hallik" text="{.MA}Халлик"/>
+    <string id="Heameel" text="{.MA}Хеамеэль"/>
+    <string id="Heatõiv" text="{.MA}Хеатыйв"/>
+    <string id="Helmetõiv" text="{.MA}Хельметыйв"/>
+    <string id="Hoovatõiv" text="{.MA}Хооватыйв"/>
+    <string id="Igalemb" text="{.MA}Игалемб"/>
+    <string id="Ihavald" text="{.MA}Ихавальд"/>
+    <string id="Ilmar" text="{.MA}Ильмар"/>
+    <string id="Kahru" text="Кахру"/>
+    <string id="Kalju" text="Калью"/>
+    <string id="Kaljuvald" text="Кальювальд"/>
+    <string id="Kaomeel" text="{.MA}Каомеэль"/>
+    <string id="Kaur" text="{.MA}Каур"/>
+    <string id="Kirn" text="{.MA}Кирн"/>
+    <string id="Koit" text="{.MA}Койт"/>
+    <string id="Kuma" text="{.MA}Кума"/>
+    <string id="Lehis" text="{.MA}Лехис"/>
+    <string id="Lembit" text="{.MA}Лембит"/>
+    <string id="Lembitu" text="Лембиту"/>
+    <string id="Lible" text="Либле"/>
+    <string id="Loit" text="{.MA}Лойт"/>
+    <string id="Manivald" text="{.MA}Манивальд"/>
+    <string id="Maru" text="Мару"/>
+    <string id="Melete" text="Мелете"/>
+    <string id="Muntelene" text="Мунтелене"/>
+    <string id="Ohetõiv" text="{.MA}Охетыйв"/>
+    <string id="Pikne" text="Пикне"/>
+    <string id="Raho" text="Рахо"/>
+    <string id="Raju" text="Раю"/>
+    <string id="Susi" text="Суси"/>
+    <string id="Sutemeel" text="{.MA}Сутемеэль"/>
+    <string id="Sälg" text="{.MA}Сяльг"/>
+    <string id="Tabaja" text="{.MA}Табая"/>
+    <string id="Tappete" text="Таппете"/>
+    <string id="Tart" text="{.MA}Тарт"/>
+    <string id="Tasuja" text="{.MA}Тасуя"/>
+    <string id="Toom" text="{.MA}Тоом"/>
+    <string id="Tuglas" text="{.MA}Туглас"/>
+    <string id="Tõeleid" text="{.MA}Тыэлайд"/>
+    <string id="Tõiv" text="{.MA}Тыйв"/>
+    <string id="Tõnn" text="{.MA}Тынн"/>
+    <string id="Töll" text="{.MA}Тёлль"/>
+    <string id="Uku" text="Уку"/>
+    <string id="Vapper" text="{.MA}Ваппер"/>
+    <string id="Veli" text="Вели"/>
+    <string id="Vello" text="Велло"/>
+    <string id="Vihavald" text="{.MA}Вихавальд"/>
+    <string id="Viidik" text="{.MA}Вийдик"/>
+    <string id="Yalde" text="Ялде"/>
+    <string id="Ylle" text="Юлле"/>
+    <string id="Õigemeel" text="{.MA}Ыйгемеэль"/>
+
+    <string id="Ait" text="Айт"/>
+    <string id="Allik" text="Аллик"/>
+    <string id="Arm" text="Арм"/>
+    <string id="Armas" text="Армас"/>
+    <string id="Ebe" text="Эбе"/>
+    <string id="Eha" text="{.FA}Эха"/>
+    <string id="Haab" text="Хааб"/>
+    <string id="Hea" text="{.FA}Хeа"/>
+    <string id="Helemeel" text="Хелемеэль"/>
+    <string id="Heli" text="Хели"/>
+    <string id="Hämar" text="Хямар"/>
+    <string id="Hõbe" text="Хыбе"/>
+    <string id="Ida" text="{.FA}Ида"/>
+    <string id="Ilp" text="Ильп"/>
+    <string id="Ilus" text="Илус"/>
+    <string id="Imme" text="Имме"/>
+    <string id="Jumi" text="Юми"/>
+    <string id="Jumikas" text="Юмикас"/>
+    <string id="Kail" text="Кайль"/>
+    <string id="Kaja" text="{.FA}Кая"/>
+    <string id="Kessu" text="Кессу"/>
+    <string id="Kähr" text="Кяхр"/>
+    <string id="Kõlav" text="Кылав"/>
+    <string id="Lagle" text="Лагле"/>
+    <string id="Laine" text="Лайне"/>
+    <string id="Laul" text="Лаул"/>
+    <string id="Lee" text="Лее"/>
+    <string id="Lemm" text="Лемм"/>
+    <string id="Lättelemb" text="Ляттелемб"/>
+    <string id="Neitsit" text="Нейтсит"/>
+    <string id="Ninn" text="Нинн"/>
+    <string id="Otelemb" text="Отелемб"/>
+    <string id="Pisike" text="Писике"/>
+    <string id="Päevalemb" text="Пяэвалемб"/>
+    <string id="Rõõmus" text="Рыымус"/>
+    <string id="Salme" text="Сальме"/>
+    <string id="Suvi" text="Суви"/>
+    <string id="Säde" text="Сяде"/>
+    <string id="Sõmer" text="Сымер"/>
+    <string id="Sõstar" text="Сыстар"/>
+    <string id="Teder" text="Тедер"/>
+    <string id="Tiiu" text="Тийу"/>
+    <string id="Tõivulemb" text="Тыйвулемб"/>
+    <string id="Ude" text="Уде"/>
+    <string id="Undse" text="Ундсе"/>
+    <string id="Uure" text="Ууре"/>
+    <string id="Varjelemb" text="Варьелемб"/>
+    <string id="Vililemb" text="Вилилемб"/>
+    <string id="Virmaline" text="Вирмалине"/>
+    <string id="Virve" text="Вирве"/>
+    <string id="Äke" text="Яке"/>
+    <string id="Õis" text="Ыйс"/>
+    <string id="Öö" text="Ёё"/>
+  </strings>
+</base>

@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Русский" />
+  </tags>
+  <strings>
+
+    <!--
+
+        ███    ██ ██████   ██████     ██       ██████  ██████  ██████  ███████ 
+        ████   ██ ██   ██ ██          ██      ██    ██ ██   ██ ██   ██ ██      
+        ██ ██  ██ ██████  ██          ██      ██    ██ ██████  ██   ██ ███████ 
+        ██  ██ ██ ██      ██          ██      ██    ██ ██   ██ ██   ██      ██ 
+        ██   ████ ██       ██████     ███████  ██████  ██   ██ ██████  ███████ 
+
+    -->
+
+    <string id="lord_rus_1_1" text="{.MA}Василий{.nn} {.MA}Всеволодович{.nn}"/>
+    <string id="lord_rus_1_2" text="{.FA}Марина{.nn} {.FA}Олеговна{.nn}"/>
+    <string id="lord_rus_1_3" text="{.MA}Андрей{.nn} {.MA}Владимирович{.nn} {.MA}Углицкий{.aj}"/>
+    <string id="lord_rus_1_4" text="{.FA}Надежда{.nn} {.FA}Ингваревна{.nn} {.FA}Углицкий{.aj}"/>
+    <string id="lord_rus_1_5" text="{.MA}Роман{.nn} {.MA}Владимирович{.nn} {.MA}Углицкий{.aj}"/>
+    <string id="lord_rus_1_6" text="{.FA}Аксинья{.nn} {.FA}Ярославский{.aj}"/>
+    <string id="lord_rus_1_7" text="{.FA}Мария{.nn} {.FA}Васильевна{.nn}"/>
+    <string id="lord_rus_2_1" text="{.MA}Борис{.nn} {.MA}Василькович{.nn}"/>
+    <string id="lord_rus_2_2" text="{.FA}Мария{.nn} {.FA}Ярославна{.nn} {.FA}Муромский{.aj}"/>
+    <string id="lord_rus_2_3" text="{.MA}Дмитрий{.nn} {.MA}Борисович{.nn}"/>
+    <string id="lord_rus_2_4" text="{.FA}Мария{.nn} {.FA}Михайловна{.nn}"/>
+    <string id="lord_rus_2_5" text="{.MA}Константин{.nn} {.MA}Борисович{.nn}"/>
+    <string id="lord_rus_3_1" text="{.MA}Глеб{.nn} {.MA}Василькович{.nn}"/>
+    <string id="lord_rus_3_2" text="{.FA}Феодора{.nn} {.FA}Сартаковна{.nn}"/>
+    <string id="lord_rus_3_3" text="{.MA}Демьян{.nn} {.MA}Федорович{.nn}"/>
+    <string id="lord_rus_3_4" text="{.FA}Аграфена{.nn} {.FA}Ярославна{.nn}"/>
+    <string id="lord_rus_4_1" text="{.MA}Ярослав{.nn} {.MA}Ярославич{.nn}"/>
+    <string id="lord_rus_4_2" text="{.FA}Ксения{.nn} {.FA}Юрьевна{.nn} {.FA}Ростовский{.aj}"/>
+    <string id="lord_rus_4_3" text="{.MA}Святослав{.nn} {.MA}Ярославич{.nn}"/>
+    <string id="lord_rus_4_4" text="{.MA}Михаил{.nn} {.MA}Ярославич{.nn}"/>
+    <string id="lord_rus_4_5" text="{.MA}Ратибор{.nn} {.MA}Клуксович{.nn}"/>
+    <string id="lord_rus_4_6" text="{.FA}Мария{.nn} {.FA}Глебовна{.nn} {.FA}Переславский{.aj}"/>
+    <string id="lord_rus_5_1" text="{.MA}Акинф{.nn} {.MA}Гаврилович{.nn}"/>
+    <string id="lord_rus_5_2" text="{.MA}Иван{.nn} {.MA}Гаврилович{.nn} {.MA}Морхиня{.nn}"/>
+    <string id="lord_rus_5_3" text="{.FA}Анна{.nn} {.FA}Кашинский{.aj}"/>
+    <string id="lord_rus_5_4" text="{.MA}Федор{.nn} {.MA}Акинфеевич{.nn}"/>
+    <string id="lord_rus_6_1" text="{.MA}Давыд{.nn} {.MA}Мстиславич{.nn}"/>
+    <string id="lord_rus_6_2" text="{.FA}Анастасия{.nn} {.FA}Глебовна{.nn}"/>
+    <string id="lord_rus_6_3" text="{.MA}Мстислав{.nn} {.MA}Давыдович{.nn}"/>
+    <string id="lord_rus_6_4" text="{.FA}Василиса{.nn} {.FA}Борисовна{.nn}"/>
+    <string id="lord_rus_6_5" text="{.MA}Всеволод{.nn} {.MA}Давыдович{.nn}"/>
+    <string id="lord_rus_6_6" text="{.FA}Евфросинья{.nn} {.FA}Давыдовна{.nn}"/>
+    <string id="lord_rus_7_1" text="{.MA}Иван{.nn} {.MA}Михайлович{.nn}"/>
+    <string id="lord_rus_7_2" text="{.FA}Софья{.nn} {.FA}Ростиславна{.nn}"/>
+    <string id="lord_rus_7_3" text="{.MA}Семён{.nn} {.MA}Иванович{.nn}"/>
+    <string id="lord_rus_8_1" text="{.MA}Юрий{.nn} II {.MA}Андреевич{.nn}"/>
+    <string id="lord_rus_8_2" text="{.FA}Феофания{.nn} {.FA}Ростиславна{.nn}"/>
+    <string id="lord_rus_8_3" text="{.MA}Семён{.nn} {.MA}Юрьевич{.nn}"/>
+    <string id="lord_rus_8_4" text="{.MA}Борис{.nn} {.MA}Андреевич{.nn} {.MA}Стародубский{.aj}"/>
+    <string id="lord_rus_8_5" text="{.FA}Анастасия{.nn} {.FA}Мстиславна{.nn}"/>
+    <string id="lord_rus_8_6" text="{.FA}Елена{.nn} {.FA}Борисовна{.nn} {.FA}Стародубский{.aj}"/>
+    <string id="lord_rus_9_1" text="{.MA}Михаил{.nn} {.MA}Владимирович{.nn} {.MA}Пинский{.aj}"/>
+    <string id="lord_rus_9_2" text="{.FA}Анастасия{.nn} {.FA}Даниловна{.nn}"/>
+    <string id="lord_rus_9_3" text="{.MA}Фёдор{.nn} {.MA}Владимирович{.nn}"/>
+    <string id="lord_rus_9_4" text="{.FA}Евдокия{.nn} {.FA}Ярославна{.nn}"/>
+    <string id="lord_rus_9_5" text="{.MA}Юрий{.nn} {.MA}Владимирович{.nn}"/>
+    <string id="lord_rus_9_6" text="{.FA}Аграфена{.nn} {.FA}Мстиславна{.nn}"/>
+    <string id="lord_rus_9_7" text="{.MA}Демид{.nn} {.MA}Владимирович{.nn}"/>
+    <string id="lord_rus_10_1" text="{.MA}Глеб{.nn} {.MA}Ростиславич{.nn}"/>
+    <string id="lord_rus_10_2" text="{.FA}Анна{.nn} {.FA}Всеволодовна{.nn}"/>
+    <string id="lord_rus_10_3" text="{.MA}Иван{.nn} {.MA}Глебович{.nn}"/>
+    <string id="lord_rus_10_4" text="{.MA}Юрий{.nn} {.MA}Ярославич{.nn}"/>
+    <string id="lord_rus_10_5" text="{.FA}Мария{.nn} {.FA}Федоровна{.nn}"/>
+    <string id="lord_rus_10_6" text="{.MA}Ярослав{.nn} {.MA}Юрьевич{.nn}"/>
+    <string id="lord_rus_11_1.name" text="{.MA}Глеб{.nn} {.MA}Ростиславич{.nn}"/>
+    <string id="lord_rus_11_2.name" text="{.FA}Анастасия{.nn} {.FA}Вячеславна{.nn}"/>
+    <string id="lord_rus_11_3.name" text="{.MA}Святослав{.nn} {.MA}Глебович{.nn}"/>
+    <string id="lord_rus_11_4.name" text="{.MA}Александр{.nn} {.MA}Глебович{.nn}"/>
+    <string id="lord_rus_11_5.name" text="{.MA}Роман{.nn} {.MA}Глебович{.nn}"/>
+    <string id="lord_rus_11_6.name" text="{.MA}Ростислав{.nn} {.MA}Всеволодович{.nn}"/>
+    <string id="lord_rus_11_7.name" text="{.MA}Федор{.nn} {.MA}Ростиславич{.nn} {.MA}Чермный{.aj}"/>
+    <string id="lord_rus_12_1.name" text="{.MA}Михаил{.nn} {.MA}Ростиславич{.nn}"/>
+    <string id="lord_rus_12_2.name" text="{.FA}Анна{.nn} {.FA}Михайловна{.nn}"/>
+    <string id="lord_rus_12_3.name" text="{.MA}Федор{.nn} {.MA}Михайлович{.nn}"/>
+    <string id="lord_rus_12_4.name" text="{.MA}Константин{.nn} {.MA}Ростиславич{.nn}"/>
+    <string id="lord_rus_12_5.name" text="{.FA}Предслава"/>
+    <string id="lord_rus_13_1.name" text="{.MA}Андрей{.nn} {.MA}Владимирович{.nn}"/>
+    <string id="lord_rus_13_2.name" text="{.FA}Ольга{.nn} {.FA}Романовна{.nn}"/>
+    <string id="lord_rus_13_3.name" text="{.MA}Андрей{.nn} {.MA}Андреевич{.nn}"/>
+    <string id="lord_rus_13_4.name" text="{.MA}Иван{.nn} {.MA}Владимирович{.nn}"/>
+    <string id="lord_rus_13_5.name" text="{.FA}Пелагея"/>
+    <string id="lord_rus_14_1.name" text="{.MA}Александр{.nn} {.MA}Ярославич{.nn} {.MA}Невский{.aj}"/>
+    <string id="lord_rus_14_2.name" text="{.FA}Параскева{.nn} {.FA}Брячиславна{.nn} {.FA}Полоцкий{.aj}"/>
+    <string id="lord_rus_14_3.name" text="{.MA}Андрей{.nn} {.MA}Александрович{.nn}"/>
+    <string id="lord_rus_14_4.name" text="{.MA}Дмитрий{.nn} {.MA}Александрович{.nn}"/>
+    <string id="lord_rus_15_1.name" text="{.MA}Ростислав{.nn} {.MA}Изяславич{.nn}"/>
+    <string id="lord_rus_15_2.name" text="{.FA}Верхуслава{.nn} {.FA}Всеволодовна{.nn}"/>
+    <string id="lord_rus_15_3.name" text="{.MA}Василий{.nn} {.MA}Ростиславич{.nn}"/>
+    <string id="lord_rus_15_4.name" text="{.FA}Мария{.nn} {.FA}Ростиславна{.nn}"/>
+    <string id="lord_rus_15_5.name" text="{.MA}Кучуг"/>
+    <string id="lord_rus_15_6.name" text="{.FA}Кончака"/>
+    <string id="lord_rus_15_7.name" text="Боксу"/>
+    <string id="lord_rus_16_1.name" text="{.MA}Владимир{.nn} {.MA}Изяславич{.nn}"/>
+    <string id="lord_rus_16_2.name" text="{.FA}Софья"/>
+    <string id="lord_rus_16_3.name" text="{.MA}Изяслав{.nn} {.MA}Владимирович{.nn}"/>
+    <string id="lord_rus_16_4.name" text="{.MA}Юрий{.nn} {.MA}Владимирович{.nn}"/>
+    <string id="lord_rus_16_5.name" text="{.FA}Ксенья{.nn} {.FA}Владимировна{.nn}"/>
+    <string id="lord_rus_16_6.name" text="{.MA}Борис{.nn} {.MA}Межибожский{.aj}"/>
+    <string id="lord_rus_16_7.name" text="{.FA}Аграфена"/>
+    <string id="lord_rus_17_1.name" text="{.MA}Даниил{.nn} {.MA}Романович{.nn} {.MA}Галицкий{.aj}"/>
+    <string id="lord_rus_17_2.name" text="{.FA}Юрате"/>
+    <string id="lord_rus_17_3.name" text="{.MA}Сваромир{.nn} {.MA}Данилович{.nn} Шварно"/>
+    <string id="lord_rus_17_4.name" text="Рамуне Миндаугайте"/>
+    <string id="lord_rus_17_5.name" text="{.MA}Иван{.nn} {.MA}Глебович{.nn}"/>
+    <string id="lord_rus_17_6.name" text="{.FA}Марина"/>
+    <string id="lord_rus_17_7.name" text="{.MA}Константин{.nn} {.MA}Положишил{.nn}"/>
+    <string id="lord_rus_17_8.name" text="{.MA}Дионисий{.nn} {.MA}Павлович{.nn}"/>
+    <string id="lord_rus_18_1.name" text="{.MA}Василько{.nn} {.MA}Романович{.nn}"/>
+    <string id="lord_rus_18_2.name" text="{.FA}Добрава{.nn} {.FA}Юрьевна{.nn}"/>
+    <string id="lord_rus_18_3.name" text="{.MA}Владимир{.nn} {.MA}Василькович{.nn}"/>
+    <string id="lord_rus_18_4.name" text="{.MA}Алексей{.nn} {.MA}Дворский{.aj}"/>
+    <string id="lord_rus_18_5.name" text="{.FA}Любава"/>
+    <string id="lord_rus_18_6.name" text="{.MA}Дмитрий{.nn} {.MA}Алексеевич{.nn}"/>
+    <string id="lord_rus_18_7.name" text="{.MA}Степан{.nn} {.MA}Медушкин{.nn}"/>
+    <string id="lord_rus_18_8.name" text="{.MA}Юрий"/>
+    <string id="lord_rus_18_9.name" text="{.MA}Желислав"/>
+    <string id="lord_rus_19_1.name" text="{.MA}Лев{.nn} {.MA}Данилович{.nn}"/>
+    <string id="lord_rus_19_2.name" text="{.FA}Констанция{.nn} {.FA}Венгерский{.aj}"/>
+    <string id="lord_rus_19_3.name" text="{.MA}Юрий{.nn} {.MA}Львович{.nn}"/>
+    <string id="lord_rus_19_4.name" text="{.MA}Дмитрий{.nn} {.MA}Андреевич{.nn}"/>
+    <string id="lord_rus_19_5.name" text="{.FA}Анна"/>
+    <string id="lord_rus_19_6.name" text="{.MA}Андрей{.nn} {.MA}Путивлич{.nn}"/>
+    <string id="lord_rus_20_1.name" text="{.MA}Роман{.nn} {.MA}Данилович{.nn}"/>
+    <string id="lord_rus_20_2.name" text="{.FA}Елена{.nn} {.FA}Глебовна{.nn} {.FA}Волковыйский{.aj}"/>
+    <string id="lord_rus_20_3.name" text="{.MA}Михаил{.nn} {.MA}Романович{.nn}"/>
+    <string id="lord_rus_20_4.name" text="{.MA}Василько{.nn} {.MA}Романович{.nn}"/>
+    <string id="lord_rus_20_5.name" text="{.MA}Борис{.nn} {.MA}Ярославич{.nn}"/>
+    <string id="lord_rus_20_6.name" text="{.FA}Василиса"/>
+    <string id="lord_rus_20_7.name" text="{.MA}Андрей{.nn} {.MA}Борисович{.nn}"/>
+    <string id="lord_rus_20_8.name" text="{.MA}Изяслав{.nn} {.MA}Владимирович{.nn}"/>
+    <string id="lord_rus_20_9.name" text="{.FA}Агафья"/>
+    <string id="lord_rus_21_1.name" text="{.MA}Мстислав{.nn} {.MA}Данилович{.nn}"/>
+    <string id="lord_rus_21_2.name" text="{.FA}Анастасия"/>
+    <string id="lord_rus_21_3.name" text="{.MA}Даниил{.nn} {.MA}Мстиславич{.nn}"/>
+    <string id="lord_rus_21_4.name" text="{.MA}Володислав{.nn} {.MA}Ломоносый{.aj}"/>
+    <string id="lord_rus_21_5.name" text="{.FA}Софья"/>
+    <string id="lord_rus_22_1.name" text="{.MA}Всеволод{.nn} {.MA}Александрович{.nn}"/>
+    <string id="lord_rus_22_2.name" text="{.FA}Марина{.nn} {.FA}Владимировна{.nn}"/>
+    <string id="lord_rus_22_3.name" text="{.MA}Андрей{.nn} {.MA}Всеволодович{.nn}"/>
+
+    <string id="dead_lord_rus_1_1" text="{.MA}Всеволод{.nn} {.MA}Константинович{.nn} {.MA}Ярославский{.aj}"/>
+    <string id="dead_lord_rus_1_2" text="{.MA}Владимир{.nn} {.MA}Константинович{.nn} {.MA}Углицкий{.aj}"/>
+    <string id="dead_lord_rus_2_1" text="{.MA}Василько{.nn} {.MA}Константинович{.nn}"/>
+    <string id="dead_lord_rus_5_1" text="{.MA}Гаврила{.nn} {.MA}Алексич{.nn}"/>
+    <string id="dead_lord_rus_9_1" text="{.MA}Владимир{.nn} {.MA}Святополчич{.nn}"/>
+    <string id="dead_lord_rus_11_1.name" text="{.MA}Ростислав{.nn} {.MA}Мстиславич{.nn}"/>
+    <string id="dead_lord_rus_11_2.name" text="{.MA}Всеволод{.nn}"/>
+    <string id="dead_lord_rus_13_1.name" text="{.MA}Владимир{.nn} {.MA}Мстиславич{.nn}"/>
+    <string id="dead_lord_rus_14_1.name" text="{.MA}Ярослав{.nn} {.MA}Всеволодович{.nn}"/>
+    <string id="dead_lord_rus_14_2.name" text="{.FA}Ростислава{.nn} {.FA}Мстиславна{.nn}"/>
+    <string id="dead_lord_rus_17_1.name" text="{.MA}Роман{.nn} {.MA}Мстиславич{.nn}"/>
+    <string id="dead_lord_rus_17_2.name" text="{.FA}Анна{.nn}"/>
+    <string id="dead_lord_rus_17_3.name" text="{.FA}Анна{.nn} {.FA}Мстиславна{.nn}"/>
+    <string id="dead_lord_rus_17_4.name" text="{.MA}Глеб{.nn} {.MA}Ростиславич{.nn} {.MA}Волковыйский{.aj}"/>
+    <string id="dead_lord_rus_20_1.name" text="{.MA}Ингвар{.nn} {.MA}Ярославич{.nn}"/>
+    <string id="dead_lord_rus_20_2.name" text="{.MA}Ярослав{.nn} {.MA}Ингваревич{.nn}"/>
+    <string id="dead_lord_rus_20_3.name" text="{.MA}Владимир{.nn} {.MA}Ингваревич{.nn}"/>
+    <string id="dead_lord_rus_22_1.name" text="{.MA}Александр{.nn} {.MA}Всеволодович{.nn}"/>
+
+    <string id="lord_nov_1_1.name" text="{.MA}Михаил{.nn} {.MA}Фёдорович{.nn}"/>
+    <string id="lord_nov_1_2.name" text="{.MA}Жидята{.nn} {.MA}Домажирович{.nn}"/>
+    <string id="lord_nov_1_3.name" text="{.FA}Евдоксия"/>
+    <string id="lord_nov_1_4.name" text="{.MA}Яков{.nn} {.MA}Михайлович{.nn}"/>
+    <string id="lord_nov_1_5.name" text="{.MA}Дмитрий{.nn} {.MA}Александрович{.nn}"/>
+    <string id="lord_nov_2_1.name" text="{.MA}Сбыслав{.nn} {.MA}Якунович{.nn}"/>
+    <string id="lord_nov_2_2.name" text="{.MA}Федор{.nn} {.MA}Сбыславич{.nn}"/>
+    <string id="lord_nov_2_3.name" text="{.FA}Ефросинья"/>
+    <string id="lord_nov_2_4.name" text="{.MA}Елферий{.nn} {.MA}Сбыславич{.nn}"/>
+    <string id="lord_nov_2_5.name" text="{.FA}Устинья"/>
+    <string id="lord_nov_3_1.name" text="{.MA}Михаил{.nn} {.MA}Мишинич{.nn}"/>
+    <string id="lord_nov_3_2.name" text="{.MA}Юрий{.nn} {.MA}Мишинич{.nn}"/>
+    <string id="lord_nov_3_3.name" text="{.FA}Ольга"/>
+    <string id="lord_nov_3_4.name" text="{.FA}Ульяна"/>
+    <string id="lord_nov_4_1.name" text="{.MA}Андрей{.nn} {.MA}Климович{.nn}"/>
+    <string id="lord_nov_4_2.name" text="{.MA}Семен{.nn} {.MA}Климович{.nn}"/>
+    <string id="lord_nov_4_3.name" text="{.FA}Василиса"/>
+    <string id="lord_nov_4_4.name" text="{.FA}Мария"/>
+    <string id="lord_nov_4_5.name" text="{.FA}Ирина"/>
+    <string id="lord_nov_5_1.name" text="{.MA}Павша{.nn} {.MA}Онаньинич{.nn}"/>
+    <string id="lord_nov_5_2.name" text="{.MA}Жирослав{.nn} {.MA}Давидович{.nn}"/>
+    <string id="lord_nov_5_3.name" text="{.FA}Домна"/>
+    <string id="lord_nov_5_4.name" text="{.MA}Михаил{.nn} {.MA}Павшинич{.nn}"/>
+    <string id="lord_nov_6_1.name" text="{.MA}Семен{.nn} {.MA}Михайлович{.nn}"/>
+    <string id="lord_nov_6_2.name" text="{.MA}Степан{.nn} {.MA}Микулич{.nn}"/>
+    <string id="lord_nov_6_3.name" text="{.FA}Сбыслава"/>
+    <string id="lord_nov_6_4.name" text="{.FA}Аксинья"/>
+    <string id="lord_nov_6_5.name" text="{.MA}Матвей{.nn} {.MA}Семенович{.nn}"/>
+    <string id="lord_nov_7_1.name" text="{.MA}Василий{.nn} {.MA}Александрович{.nn}"/>
+    <string id="lord_nov_7_2.name" text="{.MA}Дорогомил{.nn} {.MA}Гаврилович{.nn}"/>
+    <string id="lord_nov_7_3.name" text="{.FA}Прасковья"/>
+    <string id="lord_nov_7_4.name" text="{.MA}Иван{.nn} {.MA}Дорогомилович{.nn}"/>
+    <string id="lord_nov_8_1.name" text="{.MA}Иван{.nn} {.MA}Ярославич{.nn}"/>
+    <string id="lord_nov_8_2.name" text="{.MA}Сбыслав{.nn} {.MA}Степанич{.nn}"/>
+    <string id="lord_nov_8_3.name" text="{.FA}Всеслава"/>
+    <string id="lord_nov_8_4.name" text="{.MA}Владимир{.nn} {.MA}Иванович{.nn}"/>
+    <string id="lord_nov_9_1.name" text="{.MA}Ярослав{.nn} {.MA}Владимирович{.nn}"/>
+    <string id="lord_nov_9_2.name" text="{.MA}Борис{.nn} {.MA}Якимович{.nn}"/>
+    <string id="lord_nov_9_3.name" text="{.FA}Евпраксия"/>
+    <string id="lord_nov_9_4.name" text="{.FA}Арина"/>
+
+    <string id="lord_plc_1_1.name" text="{.MA}Братислав{.nn} {.MA}Василькович{.nn}"/>
+    <string id="lord_plc_1_2.name" text="{.MA}Константин{.nn} {.MA}Братиславич{.nn}"/>
+    <string id="lord_plc_1_3.name" text="{.MA}Василько{.nn} {.MA}Братиславич{.nn}"/>
+    <string id="lord_plc_1_4.name" text="{.MA}Ростислав{.nn} {.MA}Братиславич{.nn}"/>
+    <string id="lord_plc_1_5.name" text="{.FA}Ирина"/>
+    <string id="lord_plc_1_6.name" text="{.FA}Василиса"/>
+    <string id="lord_plc_1_7.name" text="{.MA}Ярослав{.nn} {.MA}Василькович{.nn}"/>
+    <string id="lord_plc_1_8.name" text="{.FA}Ольга"/>
+    <string id="lord_plc_1_9.name" text="{.FA}Феофания{.nn} {.FA}Константиновна{.nn}"/>
+    <string id="lord_plc_2_1.name" text="{.MA}Изяслав{.nn} {.MA}Братиславич{.nn}"/>
+    <string id="lord_plc_2_2.name" text="{.FA}Добромила"/>
+    <string id="lord_plc_2_3.name" text="{.MA}Изяслав{.nn} {.MA}Изяславич{.nn}"/>
+    <string id="lord_plc_3_1.name" text="{.MA}Борис{.nn} {.MA}Давыдович{.nn}"/>
+    <string id="lord_plc_3_2.name" text="{.MA}Василько{.nn} {.MA}Борисович{.nn}"/>
+    <string id="lord_plc_3_3.name" text="{.FA}Людмила"/>
+    <string id="lord_plc_3_4.name" text="{.FA}Власта{.nn} {.FA}Васильковна{.nn}"/>
+    <string id="lord_plc_3_5.name" text="{.MA}Вячеслав{.nn} {.MA}Борисович{.nn}"/>
+    <string id="lord_plc_3_6.name" text="{.FA}Переяслава"/>
+    <string id="lord_plc_3_7.name" text="{.FA}София{.nn} {.FA}Померанский{.aj}"/>
+    <string id="lord_plc_3_8.name" text="{.MA}Воислав{.nn} {.MA}Борисович{.nn}"/>
+    <string id="lord_plc_3_9.name" text="{.FA}Ульяна"/>
+
+    <string id="dead_lord_plc_3_1.name" text="{.FA}Весна"/> 
+
+    <string id="lord_pol_1_1.name" text="{.MA}Святополк{.nn} II {.MA}Великий{.aj}"/>
+    <string id="lord_pol_1_2.name" text="{.MA}Мстивой{.nn} II"/>
+    <string id="lord_pol_1_4.name" text="{.FA}Ютта{.nn} фон Веттин"/>
+    <string id="lord_pol_1_6.name" text="{.FA}Эрменгарда{.nn} фон Шверин"/>
+    <string id="lord_pol_1_7.name" text="{.MA}Вартислав{.nn} II"/>
+    <string id="lord_pol_2_1.name" text="{.MA}Свенца{.nn} {.MA}Старший{.aj}"/>
+    <string id="lord_pol_3_1.name" text="{.MA}Якса{.nn} {.MA}Огоньчик{.nn}"/>
+    <string id="lord_pol_3_2.name" text="{.FA}Добрава{.nn} {.FA}Куявская{.aj}"/>
+    <string id="lord_pol_3_3.name" text="{.MA}Ярост{.nn} {.MA}Якса{.nn}"/>
+    <string id="lord_pol_3_4.name" text="{.FA}Збыслава{.nn} {.FA}Огоньчик{.nn}"/>
+    <string id="lord_pol_4_1.name" text="{.MA}Земовит{.nn} I"/>
+    <string id="lord_pol_4_2.name" text="{.FA}Переяслава{.nn} {.FA}Галицкая{.aj}"/>
+    <string id="lord_pol_4_3.name" text="{.MA}Конрад{.nn} II"/>
+    <string id="lord_pol_4_4.name" text="{.MA}Болеслав{.nn} II"/>
+    <string id="lord_pol_5_1.name" text="{.MA}Казимир{.nn} I"/>
+    <string id="lord_pol_5_2.name" text="{.MA}Лешек{.nn} II {.MA}Чёрный{.aj}"/>
+    <string id="lord_pol_5_4.name" text="{.FA}Евфросинья{.nn} {.FA}Опольская{.aj}"/>
+    <string id="lord_pol_7_1.name" text="{.MA}Вавжинец{.nn} {.MA}Корвин{.nn}"/>
+    <string id="lord_pol_8_1.name" text="{.MA}Болеслав{.nn} V {.MA}Стыдливый{.aj}"/>
+    <string id="lord_pol_8_2.name" text="{.FA}Кинга{.nn} {.FA}Венгерская{.aj}"/>
+    <string id="lord_pol_8_3.name" text="{.FA}Саломея{.nn} {.FA}Польская{.aj}"/>
+    <string id="lord_pol_9_1.name" text="{.MA}Клеменс{.nn} {.MA}Латошинский{.aj}"/>
+    <string id="lord_pol_9_2.name" text="{.FA}Вислава"/>
+    <string id="lord_pol_9_3.name" text="{.MA}Марек{.nn} из Латошина"/>
+    <string id="lord_pol_9_4.name" text="{.FA}Богуслава{.nn} {.FA}Латошинская{.aj}"/>
+    <string id="lord_pol_9_5.name" text="{.MA}Сулислав{.nn} из Браниц"/>
+    <string id="lord_pol_9_6.name" text="{.FA}Мирослава"/>
+    <string id="lord_pol_9_7.name" text="{.FA}Вержбента{.nn} из Рущи"/>
+    <string id="lord_pol_10_1.name" text="{.MA}Сенгнев{.nn} {.MA}Гротович{.nn}"/>
+    <string id="lord_pol_10_2.name" text="{.FA}Сулислава"/>
+    <string id="lord_pol_10_3.name" text="{.MA}Грот{.nn} {.MA}Сенгневич{.nn}"/>
+    <string id="lord_pol_10_4.name" text="{.MA}Варш{.nn} {.MA}Гротович{.nn}"/>
+    <string id="lord_pol_10_5.name" text="{.FA}Навоя"/>
+    <string id="lord_pol_10_6.name" text="{.FA}Прандота{.nn} {.FA}Варшович{.nn}"/>
+    <string id="lord_pol_11_1.name" text="{.MA}Добеслав{.nn} {.MA}Сондович{.nn}"/>
+    <string id="lord_pol_11_2.name" text="{.FA}Звинислава{.nn} {.FA}Самборовна{.nn}"/>
+    <string id="lord_pol_11_3.name" text="{.MA}Анджей{.nn} {.MA}Добеславич{.nn}"/>
+    <string id="lord_pol_11_4.name" text="{.MA}Ян{.nn} {.MA}Прандота{.nn} из Бялачува"/>
+
+    <string id="dead_lord_pol_1_1.name" text="{.MA}Мстивой{.nn} I"/>
+    <string id="dead_lord_pol_4_1.name" text="{.MA}Конрад{.nn} I"/>
+    <string id="dead_lord_pol_8_1.name" text="{.MA}Лешек{.nn} {.MA}Белый{.aj}"/>
+    <string id="dead_lord_pol_8_2.name" text="{.FA}Гремислава{.nn} {.FA}Луцкий{.aj}"/>
+    <string id="dead_lord_pol_9_1.name" text="{.MA}Клеменс{.nn} из Рущи"/>
+    <string id="dead_lord_pol_9_2.name" text="{.FA}Рацлава{.nn} из Рущи"/>
+    <string id="dead_lord_pol_10_1.name" text="{.MA}Грот"/>
+    <string id="dead_lord_pol_10_2.name" text="{.FA}Госьцислава"/>
+    <string id="dead_lord_pol_11_1.name" text="{.MA}Сонд{.nn} {.MA}Добеславович{.nn}"/>
+    <string id="dead_lord_pol_11_2.name" text="NN из Коньске"/>
+
+    <string id="lord_visby_1_1" text="{.MA}Хокан{.nn} {.MA}Стенбальк{.nn}"/>
+    <string id="lord_visby_1_2" text="Ингрид Кеттильсдоттер"/>
+    <string id="lord_visby_1_4" text="{.MA}Никлас{.nn} {.MA}Хоканссон{.nn}"/>
+    <string id="lord_visby_1_5" text="Ингегерд Эриксдоттер"/>
+    <string id="lord_visby_1_6" text="Рагнхильд Хокансдоттер"/>
+    <string id="lord_visby_2_1" text="{.MA}Людольф{.nn} фон дер Дорне"/>
+    <string id="lord_visby_2_2" text="{.FA}Гертруда{.nn} фон Брёмзе"/>
+    <string id="lord_visby_2_3" text="{.MA}Дитрих{.nn} фон дер Дорне"/>
+    <string id="lord_visby_2_4" text="Элизабет фон дер Дорне"/>
+    <string id="lord_visby_3_1" text="{.MA}Герман{.nn} {.MA}Вульфлам{.nn}"/>
+    <string id="lord_visby_3_2" text="{.FA}Руна{.nn} Сигурдсдоттер"/>
+    <string id="lord_visby_3_4" text="{.MA}Ульрих{.nn} {.MA}Вульфлам{.nn}"/>
+    <string id="lord_visby_3_5" text="Альхейдис Вульфлам"/>
+
+    <string id="dead_lord_visby_1_1" text="{.MA}Магнус{.nn} {.MA}Стенбальк{.nn}"/>
+    <string id="dead_lord_visby_3_1" text="{.MA}Сигурд{.nn} {.MA}Гримссон{.nn}"/>
+
+    <string id="lord_crus_1_1.name" text="Анно фон {.MA}Зангерхаузен{.nn}"/>
+    <string id="lord_crus_1_2.name" text="{.MA}Хартман{.nn} фон {.MA}Хельдрунген{.nn}"/>
+    <string id="lord_crus_1_3.name" text="{.MA}Герман{.nn} фон {.MA}Хельдрунген{.nn}"/>
+    <string id="lord_crus_1_4.name" text="{.MA}Дитрих{.nn} фон {.MA}Грюнинген{.nn}"/>
+    <string id="lord_crus_1_5.name" text="Поппо фон {.MA}Остерна{.nn}"/>
+    <string id="lord_crus_1_6.name" text="{.MA}Конрад{.nn} фон {.MA}Тирберг{.nn} {.MA}Старший{.aj}"/>
+    <string id="lord_crus_1_7.name" text="{.MA}Вернер{.nn} III фон {.MA}Баттенберг{.nn}"/>
+    <string id="lord_crus_1_8.name" text="{.MA}Фридрих{.nn} фон {.MA}Иберкинген{.nn}"/>
+    <string id="lord_crus_1_9.name" text="{.MA}Конрад{.nn} фон {.MA}Урзензоллен{.nn}"/>
+    <string id="lord_crus_1_10.name" text="{.MA}Конрад{.nn} Вельцо"/>
+    <string id="lord_crus_1_11.name" text="Отто фон {.MA}Роденштайн{.nn}"/>
+    <string id="lord_crus_2_1.name" text="{.MA}Бурхард{.nn} фон {.MA}Хорнхаузен{.nn}"/>
+    <string id="lord_crus_2_2.name" text="{.MA}Генрих{.nn} {.MA}Ботель{.nn}"/>
+    <string id="lord_crus_2_3.name" text="{.MA}Георг{.nn} фон {.MA}Айхштэтт{.nn}"/>
+    <string id="lord_crus_2_4.name" text="{.MA}Конрад{.nn} фон {.MA}Мандерн{.nn}"/>
+    <string id="lord_crus_2_5.name" text="{.MA}Вернер{.nn} фон {.MA}Брайтхаузен{.nn}"/>
+    <string id="lord_crus_2_6.name" text="{.MA}Андреас{.nn} фон {.MA}Фельбен{.nn}"/>
+    <string id="lord_crus_2_7.name" text="{.MA}Рудольф{.nn} фон {.MA}Кассель{.nn}"/>
+    <string id="lord_crus_3_1.name" text="{.MA}архиепископ{.nn} {.MA}Альберт{.nn} {.MA}Зуэрбеер{.nn}"/>
+    <string id="lord_crus_3_2.name" text="{.MA}Вольфрам{.nn} фон {.MA}Адельмансфельден{.nn}"/>
+    <string id="lord_crus_4_1.name" text="{.MA}епископ{.nn} {.MA}Готфрид{.nn}"/>
+    <string id="lord_crus_4_2.name" text="{.MA}Генрих{.nn} {.MA}Милосердный{.aj}"/>  <!-- Heinrich gen. Karitas -->
+    <string id="lord_crus_5_1.name" text="{.MA}епископ{.nn} {.MA}Генрих{.nn} I из Доминиканского ордена"/>
+    <string id="lord_crus_5_2.name" text="{.MA}Фридрих{.nn} фон {.MA}Гинген{.nn}"/>
+    <string id="lord_crus_6_1.name" text="{.MA}епископ{.nn} {.MA}Генрих{.nn} фон {.MA}Лютцельбург{.nn}"/>
+    <string id="lord_crus_6_2.name" text="{.MA}Эдмунд{.nn} фон {.MA}Верт{.nn}"/>
+
+    <string id="dead_lord_crus_1_1.name" text="{.MA}Зигфрид{.nn} фон {.MA}Хельдрунген{.nn}"/>
+
+    <string id="lord_dest_1_1.name" text="{.MA}Вице-регент{.nn} {.MA}Якоб{.nn} {.MA}Рамессун{.nn}"/>
+    <string id="lord_dest_1_2.name" text="{.MA}епископ{.nn} {.MA}Торкилл{.nn}"/>
+    <string id="lord_dest_1_3.name" text="{.MA}управляющий{.aj} Саксе {.MA}Огесен{.nn}"/>
+    <string id="lord_dest_2_1.name" text="{.MA}Дитрих"/>
+    <string id="lord_dest_2_2.name" text="{.MA}Вальтер"/>
+    <string id="lord_dest_2_3.name" text="{.MA}Герман"/>
+    <string id="lord_dest_3_1.name" text="{.MA}Иоганн"/>
+    <string id="lord_dest_3_2.name" text="{.MA}Одевар"/>
+    <string id="lord_dest_3_3.name" text="{.MA}Генрих"/>
+    <string id="lord_dest_4_1.name" text="Отто"/>
+    <string id="lord_dest_4_2.name" text="{.MA}Хильта"/>
+    <string id="lord_dest_4_3.name" text="{.MA}Вольдемар"/>
+
+    <string id="lord_lit_1_1.name" text="{.MA}Король{.nn} {.MA}Миндовг{.nn}"/>
+    <string id="lord_lit_1_1.text" text="Король Литвы Миндовг (Миндаугас) — почитаемый первый король Литвы, известный своей стратегической дальновидностью и дипломатическим искусством, благодаря которым ему удалось объединить литовские племена под своей властью в 1253 году. По состоянию на 1259 год он продолжает укреплять свои владения посредством как союзов, так и завоеваний, стремясь упрочить своё королевство и расширить его влияние по всей Восточной Европе."/>
+    <string id="lord_lit_1_2.name" text="{.FA}Марта{.nn}"/>
+    <string id="lord_lit_1_2.text" text="Марта (Морта), стала королевой Литвы после восшествия на престол своего мужа, короля Миндовга. Она является второй женой Миндовга. В 1251 году в борьбе за власть он убил ее первого мужа Висмантаса из рода Булайчяй. Морта - способная женщина, которая консультирует своего мужа в политических вопросах и является яростной защитницей западного христианства."/>
+    <string id="lord_lit_1_3.name" text="{.MA}Рукель"/>
+    <string id="lord_lit_1_4.name" text="{.MA}Репих"/>
+    <string id="lord_lit_1_5.name" text="{.MA}Войшелк"/>
+    <string id="lord_lit_1_6.name" text="{.MA}Парбус"/>
+    <string id="lord_lit_1_7.name" text="{.MA}Лугвен"/>
+    <string id="lord_lit_1_8.name" text="Бикши"/>
+    <string id="lord_lit_2_1.name" text="{.MA}Тройден"/>
+    <string id="lord_lit_2_2.name" text="{.MA}Свелкен"/>
+    <string id="lord_lit_2_3.name" text="{.MA}Лесий"/>
+    <string id="lord_lit_2_4.name" text="{.MA}Сирпутий"/>
+    <string id="lord_lit_3_1.name" text="{.MA}Довмонт"/>
+    <string id="lord_lit_3_2.name" text="{.FA}Агна"/>
+    <string id="lord_lit_3_3.name" text="Суксе"/>
+    <string id="lord_lit_4_1.name" text="{.MA}Товтивил"/>
+    <string id="lord_lit_4_2.name" text="{.MA}Гердень"/>
+    <string id="lord_lit_4_3.name" text="{.MA}Готарт"/>
+    <string id="lord_lit_4_4.name" text="{.FA}Габия"/>
+    <string id="lord_lit_4_5.name" text="{.FA}Светлана"/>
+    <string id="lord_lit_5_1.name" text="{.MA}Тройнат"/>
+    <string id="lord_lit_5_2.name" text="{.MA}Алмин"/>
+    <string id="lord_lit_5_3.name" text="Сауле"/>
+    <string id="lord_lit_5_4.name" text="Гайле"/>
+    <string id="lord_lit_6_1.name" text="{.MA}Вембут"/>
+    <string id="lord_lit_6_2.name" text="Айшвно"/>
+    <string id="lord_lit_6_3.name" text="{.MA}Сирвид"/>
+    <string id="lord_lit_6_4.name" text="{.MA}Вяльжис"/>
+
+    <string id="dead_lord_lit_1_1.name" text="{.MA}Рингольд"/>
+    <string id="dead_lord_lit_1_2.name" text="{.FA}Вилия"/>
+    <string id="dead_lord_lit_1_3.name" text="Лингайле"/>
+    <string id="dead_lord_lit_2_1.name" text="{.MA}Витас 'Волк'"/>
+    <string id="dead_lord_lit_3_1.name" text="{.MA}Саумантас"/>
+    <string id="dead_lord_lit_3_2.name" text="{.MA}Наумантас"/>
+    <string id="dead_lord_lit_4_1.name" text="{.MA}Довспрунг"/>
+    <string id="dead_lord_lit_4_2.name" text="{.MA}Гедвидас"/>
+    <string id="dead_lord_lit_5_1.name" text="{.MA}Югинтас"/>
+    <string id="dead_lord_lit_5_2.name" text="Юрате"/>
+    <string id="dead_lord_lit_5_3.name" text="{.MA}Викинт"/>
+    <string id="dead_lord_lit_5_4.name" text="{.MA}Эрдивил"/>
+    <string id="dead_lord_lit_5_5.name" text="Гаудвиде"/>
+
+    <string id="lord_balttr_1_1" text="{.MA}Скуманд"/>
+    <string id="lord_balttr_1_2.name" text="{.MA}Гедетас"/>
+    <string id="lord_balttr_1_3.name" text="{.MA}Кантигирдас"/>
+    <string id="lord_balttr_1_4.name" text="{.MA}Скурда"/>
+    <string id="lord_balttr_1_5.name" text="{.MA}Юндил"/>
+    <string id="lord_balttr_1_6.name" text="{.MA}Рукалс"/>
+    <string id="lord_balttr_1_7.name" text="{.MA}Гедестас"/>
+    <string id="lord_balttr_1_8.name" text="{.MA}Гальмс"/>
+    <string id="lord_balttr_1_9.name" text="{.FA}Лиепа"/>
+    <string id="lord_balttr_1_10.name" text="Скайсте"/>
+    <string id="lord_balttr_1_11.name" text="Жиманте"/>
+    <string id="lord_balttr_1_12.name" text="Рутайле"/>
+    <string id="lord_balttr_1_13" text="{.FA}Милда"/>
+    <string id="lord_balttr_2_1" text="{.MA}Сарейка"/>
+    <string id="lord_balttr_2_2.name" text="{.MA}Сурбантас"/>
+    <string id="lord_balttr_2_3.name" text="{.MA}Сурдета"/>
+    <string id="lord_balttr_2_4.name" text="{.MA}Свирдета"/>
+    <string id="lord_balttr_2_5.name" text="Стейнегеле"/>
+    <string id="lord_balttr_2_6.name" text="Ругиле"/>
+    <string id="lord_balttr_2_7.name" text="Вингайле"/>
+    <string id="lord_balttr_2_8.name" text="{.FA}Неринга"/>
+    <string id="lord_balttr_2_9" text="{.MA}Аудра"/>
+    <string id="lord_balttr_3_1" text="{.MA}Шабис"/>
+    <string id="lord_balttr_3_2.name" text="{.MA}Намейсис"/>
+    <string id="lord_balttr_3_3.name" text="{.FA}Даугава"/>
+    <string id="lord_balttr_3_4.name" text="{.FA}Байба"/>
+    <string id="lord_balttr_4_1" text="{.MA}Ламекин"/>
+    <string id="lord_balttr_4_2.name" text="Локеро"/>
+    <string id="lord_balttr_4_3.name" text="Индре"/>
+    <string id="lord_balttr_4_4.name" text="{.FA}Вайга"/>
+    <string id="lord_balttr_4_5" text="{.FA}Айна"/>
+
+    <string id="lord_prus_1_1" text="{.MA}Геркус{.nn} {.MA}Мантас{.nn}"/>
+    <string id="lord_prus_1_1.text" text="Геркус Мантас, известный на латыни как Herkus Monte, был видным представителем знати прусского племени натангов в середине XIII века. В детстве он был взят Тевтонским орденом в заложники и отправлен в Магдебург, где получил христианское образование и познакомился с немецким языком и военной тактикой. К середине века напряжённость между прусскими племенами и Тевтонским орденом нарастала, особенно после поражений Ордена в сражениях с соседними силами. Геркус Мантас вернулся в Пруссию и стал одним из ведущих деятелей среди натангов, пользуясь уважением как благодаря знанию западного военного дела, так и своему знатному происхождению.{newline}{newline}В годы после 1259 года Геркус Мантас стал главным предводителем натангов во время Великого прусского восстания, одержав несколько побед над тевтонскими рыцарями, в том числе в известных битвах при Покарвисе и Любаве. Несмотря на первоначальные успехи, восстание постепенно стало угасать под натиском непрерывных походов Ордена. К 1272 году Геркус был захвачен в плен и казнён, а к 1274 году восстание было подавлено, что ознаменовало подчинение прусских племён власти Тевтонского ордена."/>
+    <string id="lord_prus_1_2.name" text="Годекко"/>
+    <string id="lord_prus_1_2.text" text="Годекко был натангским знатным человеком и местным вождём, действовавшим в середине XIII века. К 1259 году он обладал влиянием в Натангии, где вместе со своей семьёй сопротивлялся растущему присутствию Тевтонского ордена, по мере того как рыцари расширяли свои укрепления и территориальные притязания. Хотя сведения о нём ограниченны, он был известен среди натангской знати как один из защитников своих земель, сохранявших местную власть в условиях усиливавшегося давления со стороны крестоносцев.{newline}{newline}В годы после 1259 года Годекко и двое его сыновей сражались против Тевтонского ордена в ходе продолжавшихся походов в Натангии. В конечном итоге они погибли, защищая укрепления близ Вонсдорфа, когда Орден укреплял свой контроль над территорией натангов."/>
+    <string id="lord_prus_1_3.name" text="Данге"/>
+    <string id="lord_prus_1_4.name" text="Керту"/>
+    <string id="lord_prus_1_5" text="{.FA}Рагнеда"/>
+    <string id="lord_prus_2_1" text="{.MA}Ауктума"/>
+    <string id="lord_prus_2_2.name" text="{.MA}Линкус"/>
+    <string id="lord_prus_2_3" text="{.FA}Гинта"/>
+    <string id="lord_prus_3_1" text="Синко"/>
+    <string id="lord_prus_3_1.text" text="Синко был помезанским знатным человеком и воином, действовавшим в середине XIII века. К 1259 году он занимал влиятельное положение среди помезанцев, хотя конкретные сведения о его ранней жизни или руководящей роли до Великого прусского восстания в хрониках остаются скудными. Вероятно, он был вовлечён в нараставшее недовольство расширением Тевтонского ордена и укреплением территории Помезании, что создало предпосылки для его последующей заметной роли в восстании.{newline}{newline}В годы после 1259 года Синко стал одним из предводителей помезанских сил во время Великого прусского восстания против Тевтонского ордена, участвуя в набегах и сражениях, направленных на возвращение территорий и сопротивление власти крестоносцев. Хроники не дают подробного описания его окончательной судьбы, поэтому обстоятельства его дальнейшей жизни и смерти остаются неизвестными."/>
+    <string id="lord_prus_3_2.name" text="{.FA}Гинтара"/>
+    <string id="lord_prus_4_1" text="Глаппо"/>
+    <string id="lord_prus_4_1.text" text="Глаппо был вармийским знатным человеком, выдвинувшимся как видный предводитель в середине XIII века. К 1259 году прямых сведений о его деятельности или руководящих должностях нет, хотя, вероятно, он принадлежал к племенной знати Вармии и, возможно, уже обладал местным влиянием в период нарастания напряжённости в отношениях с Тевтонским орденом. Конкретные сведения о его ранней жизни, родственных связях или деяниях до Великого прусского восстания в современных ему хрониках не сохранились.{newline}{newline}В годы после 1259 года Глаппо стал одним из главных предводителей вармийцев во время Великого прусского восстания. Согласно источникам, он возглавлял набеги и захватывал высокопоставленных представителей Тевтонского ордена, включая командира Балги и кастеляна Бранденбурга. Несмотря на первоначальные успехи, восстание в конечном итоге потерпело поражение, а окончательная судьба Глаппо в сохранившихся хрониках ясно не описана."/>
+    <string id="lord_prus_4_2.name" text="{.MA}Стейнавас"/>
+    <string id="lord_prus_4_3.name" text="{.FA}Гайлида"/>
+    <string id="lord_prus_4_4" text="{.FA}Вайда"/>
+    <string id="lord_prus_5_1.name" text="{.MA}Дивон{.nn} «{.MA}Медведь{.nn}»"/>
+    <string id="lord_prus_5_1.text" text="Дивон (лат. Divanus) был знатным представителем бартов, выдвинувшимся в середине XIII века. К 1259 году конкретных сведений о его деятельности или положении нет, хотя, вероятно, он занимал положение местного предводителя среди бартов, испытывавших всё возрастающее давление со стороны Тевтонского ордена. Хроники не сообщают сведений о его ранней жизни, происхождении или деяниях до Великого прусского восстания.{newline}{newline}В годы после 1259 года Дивон стал одним из заметных предводителей бартов во время Великого прусского восстания против Тевтонского ордена. Он руководил набегами и сопротивлением в Бартии, добившись первоначальных успехов. В конечном итоге он погиб в бою, когда Орден постепенно подавлял восстание."/>
+    <string id="lord_prus_5_2.name" text="{.MA}Гирдавас"/>
+    <string id="lord_prus_5_3.name" text="{.FA}Ална"/>
+    <string id="lord_prus_5_4.name" text="{.FA}Банга"/>
+    <string id="lord_prus_6_1.name" text="Гланде"/>
+    <string id="lord_prus_6_1.text" text="Гланде был самбийским знатным человеком, который в середине XIII века выдвинулся в качестве племенного вождя. К 1259 году конкретных сведений о его деятельности или положении не сохранилось, хотя, вероятно, он пользовался влиянием среди самбийцев по мере нарастания напряжённости между прусскими племенами и Тевтонским орденом. Хроники ничего не сообщают о его ранней жизни, родственных связях или конкретных действиях до Великого прусского восстания.{newline}{newline}В годы после 1259 года Гланде стал князем самбийцев и возглавил их силы во время Великого прусского восстания против Тевтонского ордена. Он руководил набегами и сопротивлением, но в конечном итоге погиб в бою, сражённый копьём во время битвы с рыцарями. Его смерть значительно подорвала боевой дух самбийцев, способствуя постепенному угасанию восстания."/>
+    <string id="lord_prus_6_2.name" text="Свайно"/>
+    <string id="lord_prus_6_3.name" text="Вайдевуте"/>
+    <string id="lord_prus_6_4.name" text="{.FA}Лаймена"/>
+  </strings>
+</base>

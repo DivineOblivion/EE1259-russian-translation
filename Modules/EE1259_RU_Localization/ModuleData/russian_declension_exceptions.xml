@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RussianDeclensionExceptions>
+    <Word value="городец">
+        <Form case=".p" value="городцы" />
+        <Form case=".g" value="городца" />
+        <Form case=".gp" value="городцов" />
+        <Form case=".d" value="городцу" />
+        <Form case=".dp" value="городцам" />
+        <Form case=".a" value="городец" />
+        <Form case=".ap" value="городцы" />
+        <Form case=".i" value="городцом" />
+        <Form case=".ip" value="городцами" />
+        <Form case=".l" value="городце" />
+        <Form case=".lp" value="городцах" />
+    </Word>
+
+    <Word value="торопец">
+        <Form case=".p" value="торопцы" />
+        <Form case=".g" value="торопца" />
+        <Form case=".gp" value="торопцов" />
+        <Form case=".d" value="торопцу" />
+        <Form case=".dp" value="торопцам" />
+        <Form case=".a" value="торопец" />
+        <Form case=".ap" value="торопцы" />
+        <Form case=".i" value="торопцом" />
+        <Form case=".ip" value="торопцами" />
+        <Form case=".l" value="торопце" />
+        <Form case=".lp" value="торопцах" />
+    </Word>
+
+    <Word value="литовец">
+        <Form case=".p" value="литовцы" />
+        <Form case=".g" value="литовца" />
+        <Form case=".gp" value="литовцев" />
+        <Form case=".d" value="литовцу" />
+        <Form case=".dp" value="литовцам" />
+        <Form case=".a" value="литовца" />
+        <Form case=".ap" value="литовцев" />
+        <Form case=".i" value="литовцем" />
+        <Form case=".ip" value="литовцами" />
+        <Form case=".l" value="литовце" />
+        <Form case=".lp" value="литовцах" />
+    </Word>
+
+    <Word value="эстонец">
+        <Form case=".p" value="эстонцы" />
+        <Form case=".g" value="эстонца" />
+        <Form case=".gp" value="эстонцев" />
+        <Form case=".d" value="эстонцу" />
+        <Form case=".dp" value="эстонцам" />
+        <Form case=".a" value="эстонца" />
+        <Form case=".ap" value="эстонцев" />
+        <Form case=".i" value="эстонцем" />
+        <Form case=".ip" value="эстонцами" />
+        <Form case=".l" value="эстонце" />
+        <Form case=".lp" value="эстонцах" />
+    </Word>
+
+    <Word value="немец">
+        <Form case=".p" value="немцы" />
+        <Form case=".g" value="немца" />
+        <Form case=".gp" value="немцев" />
+        <Form case=".d" value="немцу" />
+        <Form case=".dp" value="немцам" />
+        <Form case=".a" value="немца" />
+        <Form case=".ap" value="немцев" />
+        <Form case=".i" value="немцем" />
+        <Form case=".ip" value="немцами" />
+        <Form case=".l" value="немце" />
+        <Form case=".lp" value="немцах" />
+    </Word>
+
+    <Word value="крестоносец">
+        <Form case=".p" value="крестоносцы" />
+        <Form case=".g" value="крестоносца" />
+        <Form case=".gp" value="крестоносцев" />
+        <Form case=".d" value="крестоносцу" />
+        <Form case=".dp" value="крестоносцам" />
+        <Form case=".a" value="крестоносца" />
+        <Form case=".ap" value="крестоносцев" />
+        <Form case=".i" value="крестоносцем" />
+        <Form case=".ip" value="крестоносцами" />
+        <Form case=".l" value="крестоносце" />
+        <Form case=".lp" value="крестоносцах" />
+    </Word>
+
+    <Word value="эзелец">
+        <Form case=".p" value="эзельцы" />
+        <Form case=".g" value="эзельца" />
+        <Form case=".gp" value="эзельцев" />
+        <Form case=".d" value="эзельцу" />
+        <Form case=".dp" value="эзельцам" />
+        <Form case=".a" value="эзельца" />
+        <Form case=".ap" value="эзельцев" />
+        <Form case=".i" value="эзельцем" />
+        <Form case=".ip" value="эзельцами" />
+        <Form case=".l" value="эзельце" />
+        <Form case=".lp" value="эзельцах" />
+    </Word>
+
+    <Word value="Еванец">
+        <Form case=".p" value="Еванцы" />
+        <Form case=".g" value="Еванца" />
+        <Form case=".gp" value="Еванцев" />
+        <Form case=".d" value="Еванцу" />
+        <Form case=".dp" value="Еванцам" />
+        <Form case=".a" value="Еванца" />
+        <Form case=".ap" value="Еванцев" />
+        <Form case=".i" value="Еванцем" />
+        <Form case=".ip" value="Еванцами" />
+        <Form case=".l" value="Еванце" />
+        <Form case=".lp" value="Еванцах" />
+    </Word>
+
+    <Word value="Федец">
+        <Form case=".p" value="Федцы" />
+        <Form case=".g" value="Федца" />
+        <Form case=".gp" value="Федцев" />
+        <Form case=".d" value="Федцу" />
+        <Form case=".dp" value="Федцам" />
+        <Form case=".a" value="Федца" />
+        <Form case=".ap" value="Федцев" />
+        <Form case=".i" value="Федцем" />
+        <Form case=".ip" value="Федцами" />
+        <Form case=".l" value="Федце" />
+        <Form case=".lp" value="Федцах" />
+    </Word>
+
+    <Word value="Игнатец">
+        <Form case=".p" value="Игнатцы" />
+        <Form case=".g" value="Игнатца" />
+        <Form case=".gp" value="Игнатцев" />
+        <Form case=".d" value="Игнатцу" />
+        <Form case=".dp" value="Игнатцам" />
+        <Form case=".a" value="Игнатца" />
+        <Form case=".ap" value="Игнатцев" />
+        <Form case=".i" value="Игнатцем" />
+        <Form case=".ip" value="Игнатцами" />
+        <Form case=".l" value="Игнатце" />
+        <Form case=".lp" value="Игнатцах" />
+    </Word>
+
+    <Word value="Яковец">
+        <Form case=".p" value="Яковцы" />
+        <Form case=".g" value="Яковца" />
+        <Form case=".gp" value="Яковцев" />
+        <Form case=".d" value="Яковцу" />
+        <Form case=".dp" value="Яковцам" />
+        <Form case=".a" value="Яковца" />
+        <Form case=".ap" value="Яковцев" />
+        <Form case=".i" value="Яковцем" />
+        <Form case=".ip" value="Яковцами" />
+        <Form case=".l" value="Яковце" />
+        <Form case=".lp" value="Яковцах" />
+    </Word>
+
+    <Word value="Юрец">
+        <Form case=".p" value="Юрцы" />
+        <Form case=".g" value="Юрца" />
+        <Form case=".gp" value="Юрцев" />
+        <Form case=".d" value="Юрцу" />
+        <Form case=".dp" value="Юрцам" />
+        <Form case=".a" value="Юрца" />
+        <Form case=".ap" value="Юрцев" />
+        <Form case=".i" value="Юрцем" />
+        <Form case=".ip" value="Юрцами" />
+        <Form case=".l" value="Юрце" />
+        <Form case=".lp" value="Юрцах" />
+    </Word>
+
+    <Word value="Максимец">
+        <Form case=".p" value="Максимцы" />
+        <Form case=".g" value="Максимца" />
+        <Form case=".gp" value="Максимцев" />
+        <Form case=".d" value="Максимцу" />
+        <Form case=".dp" value="Максимцам" />
+        <Form case=".a" value="Максимца" />
+        <Form case=".ap" value="Максимцев" />
+        <Form case=".i" value="Максимцем" />
+        <Form case=".ip" value="Максимцами" />
+        <Form case=".l" value="Максимце" />
+        <Form case=".lp" value="Максимцах" />
+    </Word>
+
+    <Word value="Михалец">
+        <Form case=".p" value="Михалцы" />
+        <Form case=".g" value="Михалца" />
+        <Form case=".gp" value="Михалцев" />
+        <Form case=".d" value="Михалцу" />
+        <Form case=".dp" value="Михалцам" />
+        <Form case=".a" value="Михалца" />
+        <Form case=".ap" value="Михалцев" />
+        <Form case=".i" value="Михалцем" />
+        <Form case=".ip" value="Михалцами" />
+        <Form case=".l" value="Михалце" />
+        <Form case=".lp" value="Михалцах" />
+    </Word>
+
+    <Word value="Семёнец">
+        <Form case=".p" value="Семёнцы" />
+        <Form case=".g" value="Семёнца" />
+        <Form case=".gp" value="Семёнцев" />
+        <Form case=".d" value="Семёнцу" />
+        <Form case=".dp" value="Семёнцам" />
+        <Form case=".a" value="Семёнца" />
+        <Form case=".ap" value="Семёнцев" />
+        <Form case=".i" value="Семёнцем" />
+        <Form case=".ip" value="Семёнцами" />
+        <Form case=".l" value="Семёнце" />
+        <Form case=".lp" value="Семёнцах" />
+    </Word>
+
+    <Word value="Степанец">
+        <Form case=".p" value="Степанцы" />
+        <Form case=".g" value="Степанца" />
+        <Form case=".gp" value="Степанцев" />
+        <Form case=".d" value="Степанцу" />
+        <Form case=".dp" value="Степанцам" />
+        <Form case=".a" value="Степанца" />
+        <Form case=".ap" value="Степанцев" />
+        <Form case=".i" value="Степанцем" />
+        <Form case=".ip" value="Степанцами" />
+        <Form case=".l" value="Степанце" />
+        <Form case=".lp" value="Степанцах" />
+    </Word>
+
+    <Word value="павел">
+        <Form case=".p" value="павлы" />
+        <Form case=".g" value="павла" />
+        <Form case=".gp" value="павлов" />
+        <Form case=".d" value="павлу" />
+        <Form case=".dp" value="павлам" />
+        <Form case=".a" value="павла" />
+        <Form case=".ap" value="павлов" />
+        <Form case=".i" value="павлом" />
+        <Form case=".ip" value="павлами" />
+        <Form case=".l" value="павле" />
+        <Form case=".lp" value="павлах" />
+    </Word>
+
+    <Word value="лев">
+        <Form case=".p" value="львы" />
+        <Form case=".g" value="льва" />
+        <Form case=".gp" value="львов" />
+        <Form case=".d" value="льву" />
+        <Form case=".dp" value="львам" />
+        <Form case=".a" value="льва" />
+        <Form case=".ap" value="львов" />
+        <Form case=".i" value="львом" />
+        <Form case=".ip" value="львами" />
+        <Form case=".l" value="льве" />
+        <Form case=".lp" value="львах" />
+    </Word>
+
+    <Word value="варм">
+        <Form case=".p" value="вармы" />
+    </Word>
+
+    <Word value="вульфлам">
+        <Form case=".p" value="вульфламы" />
+    </Word>
+
+    <Word value="Скиталец">
+        <Form case=".p" value="Скитальцы" />
+        <Form case=".g" value="Скитальца" />
+        <Form case=".gp" value="Скитальцев" />
+        <Form case=".d" value="Скитальцу" />
+        <Form case=".dp" value="Скитальцам" />
+        <Form case=".a" value="Скитальца" />
+        <Form case=".ap" value="Скитальцев" />
+        <Form case=".i" value="Скитальцем" />
+        <Form case=".ip" value="Скитальцами" />
+        <Form case=".l" value="Скитальце" />
+        <Form case=".lp" value="Скитальцах" />
+    </Word>
+
+    <Word value="Оборванец">
+        <Form case=".p" value="Оборванцы" />
+        <Form case=".g" value="Оборванца" />
+        <Form case=".gp" value="Оборванцев" />
+        <Form case=".d" value="Оборванцу" />
+        <Form case=".dp" value="Оборванцам" />
+        <Form case=".a" value="Оборванца" />
+        <Form case=".ap" value="Оборванцев" />
+        <Form case=".i" value="Оборванцем" />
+        <Form case=".ip" value="Оборванцами" />
+        <Form case=".l" value="Оборванце" />
+        <Form case=".lp" value="Оборванцах" />
+    </Word>
+
+    <Word value="княжество">
+        <Form case=".gp" value="княжеств" />
+    </Word>
+</RussianDeclensionExceptions>

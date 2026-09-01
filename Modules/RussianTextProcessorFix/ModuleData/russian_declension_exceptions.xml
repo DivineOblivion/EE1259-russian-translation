@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RussianDeclensionExceptions>
+    <Word value="купец">
+        <Form case=".p" value="купцы" />
+        <Form case=".g" value="купца" />
+        <Form case=".gp" value="купцов" />
+        <Form case=".d" value="купцу" />
+        <Form case=".dp" value="купцам" />
+        <Form case=".a" value="купца" />
+        <Form case=".ap" value="купцов" />
+        <Form case=".i" value="купцом" />
+        <Form case=".ip" value="купцами" />
+        <Form case=".l" value="купце" />
+        <Form case=".lp" value="купцах" />
+    </Word>
+
+    <Word value="торговец">
+        <Form case=".p" value="торговцы" />
+        <Form case=".g" value="торговца" />
+        <Form case=".gp" value="торговцев" />
+        <Form case=".d" value="торговцу" />
+        <Form case=".dp" value="торговцам" />
+        <Form case=".a" value="торговца" />
+        <Form case=".ap" value="торговцев" />
+        <Form case=".i" value="торговцем" />
+        <Form case=".ip" value="торговцами" />
+        <Form case=".l" value="торговце" />
+        <Form case=".lp" value="торговцах" />
+    </Word>
+
+    <Word value="палец">
+        <Form case=".p" value="палцы" />
+        <Form case=".g" value="палца" />
+        <Form case=".gp" value="палцев" />
+        <Form case=".d" value="палцу" />
+        <Form case=".dp" value="палцам" />
+        <Form case=".a" value="палца" />
+        <Form case=".ap" value="палцев" />
+        <Form case=".i" value="палцем" />
+        <Form case=".ip" value="палцами" />
+        <Form case=".l" value="палце" />
+        <Form case=".lp" value="палцах" />
+    </Word>
+
+    <Word value="щитоносец">
+        <Form case=".p" value="щитоносцы" />
+        <Form case=".g" value="щитоносца" />
+        <Form case=".gp" value="щитоносцев" />
+        <Form case=".d" value="щитоносцу" />
+        <Form case=".dp" value="щитоносцам" />
+        <Form case=".a" value="щитоносца" />
+        <Form case=".ap" value="щитоносцев" />
+        <Form case=".i" value="щитоносцем" />
+        <Form case=".ip" value="щитоносцами" />
+        <Form case=".l" value="щитоносце" />
+        <Form case=".lp" value="щитоносцах" />
+    </Word>
+
+    <Word value="жеребец">
+        <Form case=".p" value="жеребцы" />
+        <Form case=".g" value="жеребца" />
+        <Form case=".gp" value="жеребцов" />
+        <Form case=".d" value="жеребцу" />
+        <Form case=".dp" value="жеребцам" />
+        <Form case=".a" value="жеребца" />
+        <Form case=".ap" value="жеребцов" />
+        <Form case=".i" value="жеребцом" />
+        <Form case=".ip" value="жеребцами" />
+        <Form case=".l" value="жеребце" />
+        <Form case=".lp" value="жеребцах" />
+    </Word>
+
+    <Word value="трезубец">
+        <Form case=".p" value="трезубцы" />
+        <Form case=".g" value="трезубца" />
+        <Form case=".gp" value="трезубцев" />
+        <Form case=".d" value="трезубцу" />
+        <Form case=".dp" value="трезубцам" />
+        <Form case=".a" value="трезубца" />
+        <Form case=".ap" value="трезубцев" />
+        <Form case=".i" value="трезубцем" />
+        <Form case=".ip" value="трезубцами" />
+        <Form case=".l" value="трезубце" />
+        <Form case=".lp" value="трезубцах" />
+    </Word>
+
+    <Word value="вдовотворец">
+        <Form case=".p" value="вдовотворцы" />
+        <Form case=".g" value="вдовотворца" />
+        <Form case=".gp" value="вдовотворцев" />
+        <Form case=".d" value="вдовотворцу" />
+        <Form case=".dp" value="вдовотворцам" />
+        <Form case=".a" value="вдовотворца" />
+        <Form case=".ap" value="вдовотворцев" />
+        <Form case=".i" value="вдовотворцем" />
+        <Form case=".ip" value="вдовотворцами" />
+        <Form case=".l" value="вдовотворце" />
+        <Form case=".lp" value="вдовотворцах" />
+    </Word>
+
+    <Word value="сапог">
+        <Form case=".gp" value="сапог" />
+    </Word>
+</RussianDeclensionExceptions>

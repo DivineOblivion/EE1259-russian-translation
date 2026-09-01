@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Русский" />
+  </tags>
+  <strings>
+    <string id="kXVHwjoV" text="Вы прибыли в свое владение – {SETTLEMENT_LINK}. {PROSPERITY_INFO} {MORALE_INFO}" />
+    <string id="M5iR1e5h" text="Вы прибыли в свое владение – {SETTLEMENT_LINK}. {PROSPERITY_INFO}" />
+    <string id="C0llOApK" text="{.FI}Армия{.nn} {HERO}{.g}" />
+    <string id="0bPb5btR" text="{LORD.NAME} является членом клана {CLAN_NAME} ({CLAN_DESCRIPTION} в составе {FACTION_NAME}{.g}), поддерживающего {RULER}{.a} в гражданской войне. {REPUTATION} – так о {?LORD.GENDER}ней{?}нем{\?} говорят." />
+    <string id="JuPUG5wX" text="{LORD.NAME} – {._}{TITLE} {FACTION_NAME}{.g} и глава клана {CLAN_NAME} ({CLAN_DESCRIPTION}), который поддерживает {RULER}{.a} в гражданской войне. {REPUTATION} – так о {?LORD.GENDER}ней{?}нем{\?} говорят." />
+    <string id="Cae69FRp" text="{SETTLEMENT} находится под защитой {PARTY}{.g}." />
+    <string id="patrolPartyName" text="{.MI}Патруль{.nn} {SETTLEMENT}{.g}" />
+    <string id="shL0WElC" text="{.MI}Отряд{.nn} {TROOP.NAME}{.g}" />
+    <string id="u4jhIFwG" text="{.MI}Отряд{.nn} {GANG_LEADER}{.g}" />
+    <string id="P5YtNXHR" text="{.MI}Отряд{.nn} {LEADER.NAME}{.g}" />
+
+    <!-- RuFix -->
+
+    <string id="U7etPQA2" text="{FIRSTNAME}{.nn} {JOB_NAME}" />
+
+    <string id="2F7ogNWD" text="{FIRSTNAME}{.nn} {.MA}Пустой{.aj} {.MA}Карман{.nn}" />
+    <string id="5pg6xOMt" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Рыбачка{.nn}{?}{.MA}Рыбак{.nn}{\?}" />
+    <string id="egl6AesM" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Покорительница{.nn}{?}{.MA}Покоритель{.nn}{\?} Вод" />
+    <string id="MfnZpdYk" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Речной{.aj}{?}{.MA}Речной{.aj}{\?}" />
+    <string id="R7X6b1X9" text="{FIRSTNAME}{.nn} Дитя Востока" />
+    <string id="sOYrkdtV" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Мореплавательница{.nn}{?}{.MA}Мореплаватель{.nn}{\?}" />
+    <string id="uMAsIxKK" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Морской{.aj} {.FA}Разбойница{.nn}{?}{.MA}Морской{.aj} {.MA}Разбойник{.nn}{\?}" />
+    <string id="uZAOKLKI" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Боцманша{.nn}{?}{.MA}Боцман{.nn}{\?}" />
+    <string id="xEkSwZML" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Беспокойный{.aj}{?}{.MA}Беспокойный{.aj}{\?}" />
+    <string id="Y9NpqqQu" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Дочь{.nn}{?}{.MA}Сын{.nn}{\?} Тролля" />
+    <string id="YDaO8MAc" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Кораблестроительница{.nn}{?}{.MA}Корабел{.nn}{\?}" />
+    
+    <string id="1OZBZZCi" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Кабаниха{.nn}{?}{.MA}Вепрь{.nn}{\?}" />
+    <string id="28tWEFNi" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Странница{.nn}{?}{.MA}Странник{.nn}{\?}" />
+    <string id="2U2Hy2Su" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Светловолосый{.aj}{?}{.MA}Светловолосый{.aj}{\?}" />
+    <string id="3wzexaA7" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Волчица{.nn}{?}{.MA}Волк{.nn}{\?}" />
+    <string id="4GIoPUen" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Мечница{.nn}{?}{.MA}Мечник{.nn}{\?}" />
+    <string id="6CAbkgS4" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Тележница{.nn}{?}{.MA}Тележник{.nn}{\?}" />
+    <string id="7apnGFz7" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Черный{.aj}{?}{.MA}Черный{.aj}{\?}" />
+    <string id="7lg12a57" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Храбрый{.aj}{?}{.MA}Храбрый{.aj}{\?}" />
+    <string id="8o5SDCCJ" text="{FIRSTNAME}{.nn} {.FA}Акула{.nn}" />
+    <string id="ACqta1a5" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Умелый{.aj}{?}{.MA}Умелый{.aj}{\?}" />
+    <string id="aE8abvsQ" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Счастливый{.aj}{?}{.MA}Счастливый{.aj}{\?}" />
+    <string id="agS5lIg7" text="{FIRSTNAME}{.nn} {.MA}Сирота{.nn}" />
+    <string id="akALDUs0" text="{FIRSTNAME}{.nn} {.MA}Длинный{.aj} {.MA}Нож{.nn}" />
+    <string id="bvjFhiDr" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Ученый{.aj}{?}{.MA}Ученый{.aj}{\?}" />
+    <string id="CQOlMayc" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Оборванка{.nn}{?}{.MA}Оборвыш{.nn}{\?}" />
+    <string id="cud22JY1" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Целительница{.nn}{?}{.MA}Лекарь{.nn}{\?}" />
+    <string id="e84pvBYI" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Обездоленный{.aj}{?}{.MA}Обездоленный{.aj}{\?}" />
+    <string id="fJmGKlaO" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Конокрадка{.nn}{?}{.MA}Конокрад{.nn}{\?}" />
+    <string id="G8mawcBV" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Знахарка{.nn}{?}{.MA}Знахарь{.nn}{\?}" />
+    <string id="hrMatilh" text="{FIRSTNAME}{.nn} {.MA}Кузнец{.nn}" />
+    <string id="Ivx4uJVp" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Молчаливый{.aj}{?}{.MA}Молчаливый{.aj}{\?}" />
+    <string id="j2nVPqIX" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Скопа{.nn}{?}{.MA}Ястреб{.nn}{\?}" />
+    <string id="KnTl4ESh" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Скотокрадка{.nn}{?}{.MA}Скотокрад{.nn}{\?}" />
+    <string id="KY2zbWkj" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Быстрый{.aj}{?}{.MA}Быстрый{.aj}{\?}" />
+    <string id="LmlL8fVu" text="{FIRSTNAME}{.nn} {.MA}Кровавый{.aj} {.MA}Топор{.nn}" />
+    <string id="muC2SGlM" text="{FIRSTNAME}{.nn} из Пустошей" />
+    <string id="N4taBJyx" text="{FIRSTNAME}{.nn} {.MA}Следопыт{.nn}" />
+    <string id="nDtjEazo" text="{FIRSTNAME}{.nn} {.MA}Могучий{.aj} {.MA}Вздох{.nn}" />
+    <string id="nqE62lQW" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Чернозубый{.aj}{?}{.MA}Чернозубый{.aj}{\?}" />
+    <string id="NSaetzNJ" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Углежуйка{.nn}{?}{.MA}Углежуй{.nn}{\?}" />
+    <string id="ntkipfCV" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Громкий{.aj}{?}{.MA}Громкий{.aj}{\?}" />
+    <string id="NWuGUi4p" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Леопардица{.nn}{?}{.MA}Леопард{.nn}{\?}" />
+    <string id="OArAImbM" text="{FIRSTNAME}{.nn} с Холмов" />
+    <string id="OFWvD0xe" text="{FIRSTNAME}{.nn} {.FA}Гиена{.nn}" />
+    <string id="OIXub6bS" text="{FIRSTNAME}{.nn} {.MA}Одиночка{.nn}" />
+    <string id="PQkMcfAW" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Изгнанница{.nn}{?}{.MA}Изгнанник{.nn}{\?}" />
+    <string id="pTuZB1Hj" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Железнобрюхий{.aj}{?}{.MA}Железнобрюхий{.aj}{\?}" />
+    <string id="pZSAdyC0" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Мясничиха{.nn}{?}{.MA}Мясник{.nn}{\?}" />
+    <string id="q5QjQyde" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Безумный{.aj}{?}{.MA}Безумный{.aj}{\?}" />
+    <string id="qslA0bVb" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Рыжий{.aj}{?}{.MA}Рыжий{.aj}{\?}" />
+    <string id="QWbgE4bw" text="{FIRSTNAME}{.nn} {.MA}Железный{.aj} {.MA}Глаз{.nn}" />
+    <string id="QyQPJJ9B" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Проклятый{.aj}{?}{.MA}Проклятый{.aj}{\?}" />
+    <string id="rgdi5Sxa" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Принцесса{.nn}{?}{.MA}Принц{.nn}{\?}" />
+    <string id="rtsnnL2J" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Дева{.nn} Щита{?}{.MA}Щитоносец{.nn}{\?}" />
+    <string id="sdzaip5J" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Знающий{.aj}{?}{.MA}Знающий{.aj}{\?}" />
+    <string id="seS9ZZUW" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Серый{.aj} {.FA}Соколица{.nn}{?}{.MA}Серый{.aj} {.MA}Сокол{.nn}{\?}" />
+    <string id="t9e34kgH" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Грабительница{.nn}{?}{.MA}Грабитель{.nn}{\?}" />
+    <string id="TyxXbqVw" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Соколица{.nn}{?}{.MA}Сокол{.nn}{\?}" />
+    <string id="vtXRptVa" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Золотой{.aj}{?}{.MA}Золотой{.aj}{\?}" />
+    <string id="W7aa22Yl" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Череполомка{.nn}{?}{.MA}Череполом{.nn}{\?}" />
+    <string id="w9u2RUgm" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Злосчастный{.aj}{?}{.MA}Злосчастный{.aj}{\?}" />
+    <string id="WU5GnkvR" text="{FIRSTNAME}{.nn} {.FA}Рыба{.nn}" />
+    <string id="WvwWX4me" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Широкогрудый{.aj}{?}{.MA}Широкогрудый{.aj}{\?}" />
+    <string id="XBJtv4mD" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Торговка{.nn} Пряностями{?}{.MA}Торгаш{.nn} Пряностями{\?}" />
+    <string id="xTQPfmS9" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Корова{.nn}{?}{.MA}Бык{.nn}{\?}" />
+    <string id="XuxARPTM" text="{FIRSTNAME}{.nn} {.FA}Горчинка{.nn}" />
+    <string id="ykTARD4b" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Изгнанница{.nn}{?}{.MA}Изгнанник{.nn}{\?}" />
+    <string id="yr5pa0hs" text="{FIRSTNAME}{.nn} {.FA}Ивовый{.aj} {.FA}Кора{.nn}" />
+    <string id="ZCc3VFat" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Седовласый{.aj}{?}{.MA}Седовласый{.aj}{\?}" />
+    <string id="zoaTZMm7" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Охотница{.nn}{?}{.MA}Охотник{.nn}{\?}" />
+    <string id="zXjdb1zT" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Хладнобородый{.aj}{?}{.MA}Хладнобородый{.aj}{\?}" />
+  
+    <string id="0B6HlgnN" text="{FIRSTNAME}{.nn} {.FA}Ящерица{.nn}" />
+    <string id="1gMfbcaO" text="{FIRSTNAME}{.nn} {.MA}Шест{.nn}" />
+    <string id="1Tft1d4A" text="{FIRSTNAME}{.nn} {.MA}Булыжник{.nn}" />
+    <string id="2wixoeOF" text="{FIRSTNAME}{.nn} {.FA}Густой{.aj} {.FA}Грива{.nn}" />
+    <string id="36ZmyM8V" text="{FIRSTNAME}{.nn} {.MA}Щедрый{.aj} {.MA}Урожай{.nn}" />
+    <string id="3JOd0l1N" text="{FIRSTNAME}{.nn} {.MA}Паук{.nn}" />
+    <string id="3NROvpcO" text="{FIRSTNAME}{.nn} {.MA}Копуша{.nn}" />
+    <string id="3qjJzjZb" text="{FIRSTNAME}{.nn} {.MA}Жучара{.nn}" />
+    <string id="3raSG4Mi" text="{FIRSTNAME}{.nn} {.FA}Клятва{.nn}" />
+    <string id="3TIbxe5d" text="{FIRSTNAME}{.nn} {.FA}Бочка{.nn}" />
+    <string id="3WYVggyD" text="{FIRSTNAME}{.nn} {?FEMALE}{?COASTAL}{.FA}Морячка{.nn}{?}{.FA}Лошадница{.nn}{\?}{?}{?COASTAL}{.MA}Моряк{.nn}{?}{.MA}Лошадник{.nn}{\?}{\?}" />
+    <string id="4ATx01zS" text="{FIRSTNAME}{.nn} {.FA}Скала{.nn}" />
+    <string id="4RWpqxwE" text="{FIRSTNAME}{.nn} {.MA}Барыш{.nn}" />
+    <string id="4t5zOiVF" text="{FIRSTNAME}{.nn} {.MA}Столп{.nn}" />
+    <string id="4z1t75be" text="{FIRSTNAME}{.nn} из клана {CLAN_NAME}" />
+    <string id="5utDJYUv" text="{FIRSTNAME}{.nn} {.MA}Нож{.nn}" />
+    <string id="6ALN43LY" text="{FIRSTNAME}{.nn} {.MA}Звонарь{.nn}" />
+    <string id="6gjSupBN" text="{FIRSTNAME}{.nn} {.MA}Пастуший{.aj} {.MA}Пирог{.nn}" />
+    <string id="6jrl3Rbb" text="{FIRSTNAME}{.nn} {.MA}Рассол{.nn}" />
+    <string id="6M3mbAHQ" text="{FIRSTNAME}{.nn} {.FA}Роза{.nn}" />
+    <string id="6qssnVgo" text="{FIRSTNAME}{.nn} {.MA}Гранат{.nn}" />
+    <string id="7h3wBoIt" text="{?FEMALE}{.FA}Кровавый{.aj}{?}{.MA}Кровавый{.aj}{\?} {FIRSTNAME}{.nn}" />
+    <string id="6tBhhNaC" text="{FIRSTNAME}{.nn} {.MA}Гнилозуб{.nn}" />
+    <string id="8trsbRav" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Вдова{.nn}{?}{.MA}Сирота{.nn}{\?}" />
+    <string id="9Sa3bzlE" text="{FIRSTNAME}{.nn} {.FA}Наковальня{.nn}" />
+    <string id="A5Gw3GNn" text="{FIRSTNAME}{.nn} {.FA}Чума{.nn}" />
+    <string id="aa1lM2MV" text="{FIRSTNAME}{.nn} {.MA}Ангел{.nn}" />
+    <string id="AhiGlNRG" text="{FIRSTNAME}{.nn} {?FEMALE}{?NORTHERN}{.FA}Торговка{.nn} мехом{?}{.FA}Торговка{.nn} ладаном{\?}{?}{?NORTHERN}{.MA}Торговец{.nn} мехом{?}{.MA}Торговец{.nn} ладаном{\?}{\?}" />
+    <string id="aIaRIsw4" text="{FIRSTNAME}{.nn} {.FA}Чесотка{.nn}" />
+    <string id="ajePb62s" text="{FIRSTNAME}{.nn} {.FA}Ртуть{.nn}" />
+    <string id="aqp9ZtXb" text="{FIRSTNAME}{.nn} {.FA}Бородавка{.nn}" />
+    <string id="asePjBVy" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Вольноотпущенница{.nn}{?}{.MA}Вольноотпущенник{.nn}{\?}" />
+    <string id="awCsv4UM" text="{.FA}Малютка{.nn} {FIRSTNAME}{.nn}" />
+    <string id="AZbJuZwF" text="{FIRSTNAME}{.nn} {.FA}Свинчатка{.nn}" />
+    <string id="BC4BC0ZC" text="{FIRSTNAME}{.nn} {.FA}Специя{.nn}" />
+    <string id="Bk62qb7O" text="{FIRSTNAME}{.nn} {.MA}Железный{.aj} {.MA}Череп{.nn}" />
+    <string id="bP3XdKK3" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Рассветный{.aj}{?}{.MA}Рассветный{.aj}{\?}" />
+    <string id="bqXpBNvF" text="{FIRSTNAME}{.nn} {.FA}Корица{.nn}" />
+    <string id="Bsp30p3g" text="{FIRSTNAME}{.nn} {.FA}Кадушка{.nn}" />
+    <string id="bu2rmgY1" text="{FIRSTNAME}{.nn} {.FA}Ива{.nn}" />
+    <string id="c7cdMWA3" text="{FIRSTNAME}{.nn} {.MA}Кефир{.nn}" />
+    <string id="chiIHo4b" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Вшивый{.aj}{?}{.MA}Вшивый{.aj}{\?}" />
+    <string id="CpafrIbY" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Мельничиха{.nn}{?}{.MA}Мельник{.nn}{\?}" />
+    <string id="CQWKrd0a" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Ткачиха{.nn}{?}{.MA}Ткач{.nn}{\?}" />
+    <string id="DCF2JOiJ" text="{FIRSTNAME}{.nn} {.FA}Каменный{.aj} {.FA}Башка{.nn}" />
+    <string id="EnaT6Ma3" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Кошка{.nn}{?}{.MA}Кот{.nn}{\?}" />
+    <string id="EUJlNTrf" text="{?FEMALE}{.FA}Красавица{.nn}{?}{.MA}Красавчик{.nn}{\?} {FIRSTNAME}{.nn}" />
+    <string id="fh1auwJW" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Волчица{.nn}{?}{.MA}Жеребец{.nn}{\?}" />
+    <string id="FrLta5zf" text="{FIRSTNAME}{.nn} {.MA}Кулак{.nn}" />
+    <string id="FSa61zD4" text="{FIRSTNAME}{.nn} {.MA}Молот{.nn}" />
+    <string id="fYe25aEt" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Колодезница{.nn}{?}{.MA}Колодезник{.nn}{\?}" />
+    <string id="fZXEqTIP" text="{FIRSTNAME}{.nn} {.MA}Пахарь{.nn}" />
+    <string id="G6BC8HXY" text="{FIRSTNAME}{.nn} {.FA}Закваска{.nn}" />
+    <string id="gbAztaSq" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Потрошительница{.nn}{?}{.MA}Потрошитель{.nn}{\?}" />
+    <string id="glTzcivI" text="{FIRSTNAME}{.nn} {.MA}Ручей{.nn}" />
+    <string id="gSmXyxue" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Кожевница{.nn}{?}{.MA}Кожевник{.nn}{\?}" />
+    <string id="iCSVZj2e" text="{FIRSTNAME}{.nn} {?FEMALE}{?NORTHERN}{.FI}Дальнеходящий{.aj}{?}{.FA}Караванщица{.nn}{\?}{?}{?NORTHERN}{.MA}Дальнеходящий{?}{.MA}Караванщик{.nn}{\?}{\?}" />
+    <string id="JiAmC0NZ" text="{FIRSTNAME}{.nn} {.MA}Мул{.nn}" />
+    <string id="Jin8cj45" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Чеканщица{.nn}{?}{.MA}Чеканщик{.nn}{\?}" />
+    <string id="K4MRSU6i" text="{FIRSTNAME}{.nn} {.MA}Соня{.nn}" />
+    <string id="KDOFexQb" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Свечница{.nn}{?}{.MA}Свечник{.nn}{\?}" />
+    <string id="kiJxwqVh" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Колесничиха{.nn}{?}{.MA}Колесник{.nn}{\?}" />
+    <string id="KiUVswtx" text="{FIRSTNAME}{.nn} {.MA}Бархат{.nn}" />
+    <string id="kJlOvZEm" text="{?FEMALE}{.FA}Хозяйка{.nn}{?}{.MA}Хозяин{.nn}{\?} {FIRSTNAME}{.nn}" />
+    <string id="KQ1js10G" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Оценщица{.nn}{?}{.MA}Оценщик{.nn}{\?}" />
+    <string id="L6N2YLa6" text="{FIRSTNAME}{.nn} {.MA}Палец{.nn}" />
+    <string id="lkLNrscj" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Служанка{.nn}{?}{.MA}Дворецкий{.nn}{\?}" />
+    <string id="lwLhrGWV" text="{FIRSTNAME}{.nn} {.FA}Галета{.nn}" />
+    <string id="MaK0r9as" text="{FIRSTNAME}{.nn} {.FA}Дубина{.nn}" />
+    <string id="MRJ06SU7" text="{FIRSTNAME}{.nn} {.FA}Колючка{.nn}" />
+    <string id="N6DvC4hN" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Зеркальный{.aj}{?}{.MA}Зеркальный{.aj}{\?}" />
+    <string id="nNUZOwhb" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Красноглазый{.aj}{?}{.MA}Красноглазый{.aj}{\?}" />
+    <string id="npuC7IBM" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Красильщица{.nn}{?}{.MA}Красильщик{.nn}{\?}" />
+    <string id="NTPVzs9z" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Паршивый{.aj}{?}{.MA}Паршивый{.aj}{\?}" />
+    <string id="nunbdOY1" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Поставщица{.nn}{?}{.MA}Поставщик{.nn}{\?}" />
+    <string id="Oq3OFXyC" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Удачливый{.aj}{?}{.MA}Удачливый{.aj}{\?}" />
+    <string id="pbDr5JFs" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Наместница{.nn}{?}{.MA}Наместник{.nn}{\?}" />
+    <string id="pL3s39hv" text="{?FEMALE}{.FA}Умница{.nn}{?}{.MA}Умник{.nn}{\?} {FIRSTNAME}{.nn}" />
+    <string id="qezuzVuY" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Коза{.nn}{?}{.MA}Козел{.nn}{\?}" />
+    <string id="qhe6SGa3" text="{FIRSTNAME}{.nn} Рагу" />
+    <string id="qmwv27To" text="{FIRSTNAME}{.nn} {.FA}Мышь{.nn}" />
+    <string id="QskefraA" text="{FIRSTNAME}{.nn} {.MA}Таран{.nn}" />
+    <string id="QUFmBtbk" text="{FIRSTNAME}{.nn} {.FA}Сандалия{.nn}" />
+    <string id="r9Tp4UGy" text="{FIRSTNAME}{.nn} {.MA}Медоуст{.nn}" />
+    <string id="rFESkhK0" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Ломтерезка{.nn}{?}{.MA}Ломтерез{.nn}{\?}" />
+    <string id="SdK678BT" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Пещерный{.aj}{?}{.MA}Пещерный{.aj}{\?}" />
+    <string id="T3x9hVg9" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Чашница{.nn}{?}{.MA}Чашник{.nn}{\?}" />
+    <string id="t968gMty" text="{?FEMALE}{.FA}Леди{.nn}{?}{.MA}Бастард{.nn}{\?} {FIRSTNAME}{.nn}" />
+    <string id="TaouqUu7" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Степной{.aj}{?}{.MA}Степной{.aj}{\?}" />
+    <string id="tI8aoxXC" text="{FIRSTNAME}{.nn} {.FA}Иголка{.nn}" />
+    <string id="TJKi43Hv" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Книжница{.nn}{?}{.MA}Книжник{.nn}{\?}" />
+    <string id="TOGBPjmO" text="{FIRSTNAME}{.nn} {.MA}Тюлень{.nn}" />
+    <string id="TrGGbtS4" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Голубка{.nn}{?}{.MA}Голубь{.nn}{\?}" />
+    <string id="TtaEimaV" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Мостовой{.aj}{?}{.MA}Мостовой{.aj}{\?}" />
+    <string id="tTFUSJoe" text="{FIRSTNAME}{.nn} {.MA}Кузнец{.nn}" />
+    <string id="TVRbkuhC" text="{FIRSTNAME}{.nn} {.MA}Трезубец{.nn}" />
+    <string id="TW4iKHCt" text="{FIRSTNAME}{.nn} {.FA}Вонючка{.nn}" />
+    <string id="TX48zCzF" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Плотница{.nn}{?}{.MA}Плотник{.nn}{\?}" />
+    <string id="tx7iJMnc" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Шелковница{.nn}{?}{.MA}Шелковник{.nn}{\?}" />
+    <string id="tzuN76ma" text="{FIRSTNAME}{.nn} {.MA}Рубака{.nn}" />
+    <string id="u9LBrZnr" text="{FIRSTNAME}{.nn} {.FA}Акула{.nn}" />
+    <string id="UAXaL9ro" text="{FIRSTNAME}{.nn} {.MA}Тормоз{.nn}" />
+    <string id="UBk50qwW" text="{FIRSTNAME}{.nn} {.MA}Курган{.nn}" />
+    <string id="uBT9fuIi" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Змееглазый{.aj}{?}{.MA}Змееглазый{.aj}{\?}" />
+    <string id="ubZmYdMn" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Гадкий{.aj}{?}{.MA}Гадкий{.aj}{\?}" />
+    <string id="ujDbk6Qa" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Вдова{.nn}{?}{.MA}Вдовотворец{.nn}{\?}" />
+    <string id="uO99raT7" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Соплячка{.nn}{?}{.MA}Сопляк{.nn}{\?}" />
+    <string id="UuypR3B4" text="{FIRSTNAME}{.nn} {.FA}Тыква{.nn}" />
+    <string id="uyTmrmCW" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Болотница{.nn}{?}{.MA}Болотник{.nn}{\?}" />
+    <string id="vp0FClX1" text="{FIRSTNAME}{.nn} {.MA}Грузовоз{.nn}" />
+    <string id="VtjMGTWH" text="{FIRSTNAME}{.nn} {.MA}Скорпион{.nn}" />
+    <string id="w290a2DV" text="{FIRSTNAME}{.nn} {?FEMALE}{?IMPERIAL}{.FA}Маркитантка{.nn}{?}{.FA}Гусятница{.nn}{\?}{?}{?IMPERIAL}{.MA}Маркитант{.nn}{?}{.MA}Гусятник{.nn}{\?}{\?}" />
+    <string id="wuMJobac" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Посредница{.nn}{?}{.MA}Посредник{.nn}{\?}" />
+    <string id="WzBo28iT" text="{FIRSTNAME}{.nn} {.FA}Коса{.nn}" />
+    <string id="xdmhzukY" text="{FIRSTNAME}{.nn} {.MA}Очаг{.nn}" />
+    <string id="xTtHdTsS" text="{?FEMALE}{.FA}Ядовитый{.aj}{?}{.MA}Ядовитый{.aj}{\?} {FIRSTNAME}{.nn}" />
+    <string id="xudfzjgJ" text="{?FEMALE}{.FA}Крошка{.nn}{?}{.MA}Малыш{.nn}{\?} {FIRSTNAME}{.nn}" />
+    <string id="y4vyNZxg" text="{FIRSTNAME}{.nn} {.FA}Оскомина{.nn}" />
+    <string id="yG0JIiaS" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Шакалиха{.nn}{?}{.MA}Шакал{.nn}{\?}" />
+    <string id="ynwbmuoG" text="{FIRSTNAME}{.nn} {.FA}Гадюка{.nn}" />
+    <string id="YTAdoNHW" text="{FIRSTNAME}{.nn} из {VILLAGE_NAME}{.g}" />
+    <string id="YYYBGdh5" text="{FIRSTNAME}{.nn} {.FA}Лампада{.nn}" />
+    <string id="YYyoYwH2" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Пастушка{.nn}{?}{.MA}Пастух{.nn}{\?}" />
+    <string id="Z48lYHBl" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Овечка{.nn}{?}{.MA}Ягненок{.nn}{\?}" />
+    <string id="z8LbFyNA" text="{FIRSTNAME}{.nn} {.FA}Собачья{.nn} {.FA}Морда{.nn}" />
+    <string id="zE3sKAb2" text="{FIRSTNAME}{.nn} {.MA}Гончар{.nn}" />
+    <string id="zo13Dkoh" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Пальцеломка{.nn}{?}{.MA}Пальцелом{.nn}{\?}" />
+    <string id="zrDWbEJR" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Привратница{.nn}{?}{.MA}Привратник{.nn}{\?}" />
+    
+    <string id="eS6nGak1" text="{.MA}Ткач{.nn} шерсти" />
+    <string id="IO7Jgato" text="{.MA}Плотник{.nn}" />
+    <string id="ousGnzju" text="{.MA}Кожевник{.nn}" />
+    <string id="PdvjpThP" text="{.MA}Винодел{.nn}" />
+    <string id="pVjxlT1f" text="{.MA}Пивовар{.nn}" />
+    <string id="RLz2b53X" text="{.MA}Портной{.aj}" />
+    <string id="silversmithworker" text="{.MA}Серебряник{.nn}" />
+    <string id="wCuAxt4m" text="{.MA}Маслобойщик{.nn}" />
+    <string id="wLTQpbIM" text="{.MA}Гончар{.nn}" />
+  </strings>
+</base>

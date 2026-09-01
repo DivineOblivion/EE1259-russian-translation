@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Русский" />
+  </tags>
+  <strings>
+
+    <!--
+
+        ██ ████████ ███████ ███    ███ ███████ 
+        ██    ██    ██      ████  ████ ██      
+        ██    ██    █████   ██ ████ ██ ███████ 
+        ██    ██    ██      ██  ██  ██      ██ 
+        ██    ██    ███████ ██      ██ ███████ 
+
+    -->
+
+    <string id="lt_mail_mitten_c.name" text="{.MI}Кольчужный{.ajp} {.FI}рукавицы{.nnp} - {.FI}блестящий{.ajp}"/>
+    <string id="lt_mail_chausses_a.name" text="{.MI}Кольчужный{.ajp} {.MI}шоссы{.nnp} - {.MI}блестящий{.ajp}"/>
+    <string id="lt_mail_chausses_a_spurs1" text="{.MI}Кольчужный{.ajp} {.MI}шоссы{.nnp} со шпорами"/>
+    <string id="lt_mail_chausses_a_spurs2" text="{.MI}Кольчужный{.ajp} {.MI}шоссы{.nnp} со шпорами"/>
+    <string id="lt_mortas_crown_with_wimple.name" text="{.FI}Корона{.nn} Марты с убрусом"/>
+    <string id="lt_mindaugas_crown.name" text="{.FI}Корона{.nn} Миндовга"/>
+    <string id="lt_maciejowski_helmet.name" text="{.MI}Шлем{.nn} Мациевского"/>
+    <string id="lt_maciejowski_helmet_with_brim.name" text="{.MI}Шлем{.nn} Мациевского - с окантовкой"/>
+    <string id="lt_surcoat_over_mail_custom.name" text="Сюрко поверх кольчуги со знаменем клана"/>
+    <string id="lt_surcoat_over_mail_white_cross.name" text="{.MI}Тевтонский{.aj} сюрко поверх кольчуги - Белый/Крест"/>
+    <string id="lt_surcoat_over_mail_white_cross2.name" text="{.MI}Тевтонский{.aj} сюрко поверх кольчуги - Белый/Крест 2"/>
+    <string id="lt_surcoat_over_mail_white_cross3.name" text="{.MI}Тевтонский{.aj} сюрко поверх кольчуги - Белый/Крест 3"/>
+    <string id="lt_surcoat_over_mail_grey_cross.name" text="{.MI}Тевтонский{.aj} сюрко поверх кольчуги - Серый/Крест"/>
+    <string id="lt_surcoat_over_mail_grey_cross2.name" text="{.MI}Тевтонский{.aj} сюрко поверх кольчуги - Серый/Крест 2"/>
+    <string id="lt_surcoat_over_mail_grey_cross3.name" text="{.MI}Тевтонский{.aj} сюрко поверх кольчуги - Серый/Крест 3"/>
+    <string id="lt_surcoat_over_mail_grey_tau.name" text="{.MI}Тевтонский{.aj} сюрко поверх кольчуги - Серый/Тау-крест"/>
+    <string id="lt_surcoat_over_full_mail_custom.name" text="Сюрко поверх полной кольчуги со знаменем клана"/>
+    <string id="lt_surcoat_over_full_mail_white_cross.name" text="{.MI}Тевтонский{.aj} сюрко поверх полной кольчуги - Белый/Крест"/>
+    <string id="lt_surcoat_over_full_mail_white_cross2.name" text="{.MI}Тевтонский{.aj} сюрко поверх полной кольчуги - Белый/Крест 2"/>
+    <string id="lt_surcoat_over_full_mail_white_cross3.name" text="{.MI}Тевтонский{.aj} сюрко поверх полной кольчуги - Белый/Крест 3"/>
+    <string id="lt_surcoat_over_full_mail_grey_cross.name" text="{.MI}Тевтонский{.aj} сюрко поверх полной кольчуги - Серый/Крест"/>
+    <string id="lt_surcoat_over_full_mail_grey_cross2.name" text="{.MI}Тевтонский{.aj} сюрко поверх полной кольчуги - Серый/Крест 2"/>
+    <string id="lt_surcoat_over_full_mail_grey_cross3.name" text="{.MI}Тевтонский{.aj} сюрко поверх полной кольчуги - Серый/Крест 3"/>
+    <string id="lt_surcoat_over_full_mail_grey_tau.name" text="{.MI}Тевтонский{.aj} сюрко поверх полной кольчуги - Серый/Тау-крест"/>
+    <string id="lt_surcoat_over_full_mail_destonian.name" text="Сюрко поверх закрытой кольчуги - Датско-эстонский"/>
+
+    <string id="lt_mail_mantle_round.name" text="{.NI}Кольчужный{.ajp} {.NI}оплечье{.nn} - Округлое"/>
+    <string id="lt_mail_mantle_square.name" text="{.NI}Кольчужный{.ajp} {.NI}оплечье{.nn} - Квадратное"/>
+    <string id="lt_mail_mantle_rectangle.name" text="{.NI}Кольчужный{.ajp} {.NI}оплечье{.nn} - Прямоугольное"/>
+    <string id="lt_mail_mantle_triangle.name" text="{.NI}Кольчужный{.ajp} {.NI}оплечье{.nn} - Треугольное"/>
+    <string id="lt_mail_mantle_round_with_cross.name" text="{.NI}Кольчужный{.ajp} {.NI}оплечье{.nn} - Округлое с крестом"/>
+    <string id="lt_mail_mantle_square_with_cross.name" text="{.NI}Кольчужный{.ajp} {.NI}оплечье{.nn} - Квадратное с крестом"/>
+    <string id="lt_mail_mantle_rectangle_with_cross.name" text="{.NI}Кольчужный{.ajp} {.NI}оплечье{.nn} - Прямоугольное с крестом"/>
+    <string id="lt_mail_mantle_triangle_with_cross.name" text="{.NI}Кольчужный{.ajp} {.NI}оплечье{.nn} - Треугольное с крестом"/>
+
+    <string id="lt_caparison_teuton1.name" text="{.FI}Тевтонский{.aj} {.FI}попона{.nn}"/>
+    <string id="lt_caparison_teuton2.name" text="{.FI}Тевтонский{.aj} {.FI}попона{.nn}"/>
+    <string id="lt_caparison_teuton3.name" text="{.FI}Тевтонский{.aj} {.FI}попона{.nn}"/>
+    <string id="lt_caparison_teuton4.name" text="{.FI}Тевтонский{.aj} {.FI}попона{.nn}"/>
+    <string id="lt_caparison_teuton5.name" text="{.FI}Тевтонский{.aj} {.FI}попона{.nn}"/>
+    <string id="lt_caparison_teuton6.name" text="{.FI}Тевтонский{.aj} {.FI}попона{.nn}"/>
+    <string id="lt_caparison_danish_estonia.name" text="{.FI}Попона{.nn} Эстонского герцогства"/>
+    <string id="lt_caparison_danish_kyvel.name" text="{.FI}Попона{.nn} рода Кивель"/>
+    <string id="lt_caparison_danish_lode.name" text="{.FI}Попона{.nn} рода Лоде"/>
+    <string id="lt_caparison_danish_rosen.name" text="{.FI}Попона{.nn} рода Розен"/>
+    <string id="lt_caparison_black.name" text="{.FI}Попона{.nn} - Черная"/>
+    <string id="lt_caparison_grey.name" text="{.FI}Попона{.nn} - Серая"/>
+    <string id="lt_caparison_white.name" text="{.FI}Попона{.nn} - Белая"/>
+    <string id="lt_caparison_blue.name" text="{.FI}Попона{.nn} - Синяя"/>
+    <string id="lt_caparison_brown.name" text="{.FI}Попона{.nn} - Коричневая"/>
+    <string id="lt_caparison_dark_red.name" text="{.FI}Попона{.nn} - Темно-красная"/>
+    <string id="lt_caparison_green.name" text="{.FI}Попона{.nn} - Зеленая"/>
+    <string id="lt_caparison_orange.name" text="{.FI}Попона{.nn} - Оранжевая"/>
+    <string id="lt_caparison_red.name" text="{.FI}Попона{.nn} - Красная"/>
+    <string id="lt_caparison_yellow.name" text="{.FI}Попона{.nn} - Желтая"/>
+    <string id="lt_caparison_tc1" text="{.FI}Попона{.nn} - TC1"/>
+    <string id="lt_caparison_tc10" text="{.FI}Попона{.nn} - TC10"/>
+    <string id="lt_caparison_tc11" text="{.FI}Попона{.nn} - TC11"/>
+    <string id="lt_caparison_tc11b" text="{.FI}Попона{.nn} - TC11B"/>
+    <string id="lt_caparison_tc11c" text="{.FI}Попона{.nn} - TC11C"/>
+    <string id="lt_caparison_tc12" text="{.FI}Попона{.nn} - TC12"/>
+    <string id="lt_caparison_tc12b" text="{.FI}Попона{.nn} - TC12B"/>
+    <string id="lt_caparison_tc13" text="{.FI}Попона{.nn} - TC13"/>
+    <string id="lt_caparison_tc13b" text="{.FI}Попона{.nn} - TC13B"/>
+    <string id="lt_caparison_tc14" text="{.FI}Попона{.nn} - TC14"/>
+    <string id="lt_caparison_tc14b" text="{.FI}Попона{.nn} - TC14B"/>
+    <string id="lt_caparison_tc15" text="{.FI}Попона{.nn} - TC15"/>
+    <string id="lt_caparison_tc16" text="{.FI}Попона{.nn} - TC16"/>
+    <string id="lt_caparison_tc16pl" text="{.FI}Попона{.nn} - TC16PL"/>
+    <string id="lt_caparison_tc17" text="{.FI}Попона{.nn} - TC17"/>
+    <string id="lt_caparison_tc18" text="{.FI}Попона{.nn} - TC18"/>
+    <string id="lt_caparison_tc18b" text="{.FI}Попона{.nn} - TC18B"/>
+    <string id="lt_caparison_tc18c" text="{.FI}Попона{.nn} - TC18C"/>
+    <string id="lt_caparison_tc19" text="{.FI}Попона{.nn} - TC19"/>
+    <string id="lt_caparison_tc2" text="{.FI}Попона{.nn} - TC2"/>
+    <string id="lt_caparison_tc20" text="{.FI}Попона{.nn} - TC20"/>
+    <string id="lt_caparison_tc20pl" text="{.FI}Попона{.nn} - TC20PL"/>
+    <string id="lt_caparison_tc21" text="{.FI}Попона{.nn} - TC21"/>
+    <string id="lt_caparison_tc21b" text="{.FI}Попона{.nn} - TC21B"/>
+    <string id="lt_caparison_tc21bpl" text="{.FI}Попона{.nn} - TC21BPL"/>
+    <string id="lt_caparison_tc22" text="{.FI}Попона{.nn} - TC22"/>
+    <string id="lt_caparison_tc22pl" text="{.FI}Попона{.nn} - TC22PL"/>
+    <string id="lt_caparison_tc2b" text="{.FI}Попона{.nn} - TC2B"/>
+    <string id="lt_caparison_tc2c" text="{.FI}Попона{.nn} - TC2C"/>
+    <string id="lt_caparison_tc2d" text="{.FI}Попона{.nn} - TC2D"/>
+    <string id="lt_caparison_tc2e" text="{.FI}Попона{.nn} - TC2E"/>
+    <string id="lt_caparison_tc3" text="{.FI}Попона{.nn} - TC3"/>
+    <string id="lt_caparison_tc3b" text="{.FI}Попона{.nn} - TC3B"/>
+    <string id="lt_caparison_tc3c" text="{.FI}Попона{.nn} - TC3C"/>
+    <string id="lt_caparison_tc3d" text="{.FI}Попона{.nn} - TC3D"/>
+    <string id="lt_caparison_tc3e" text="{.FI}Попона{.nn} - TC3E"/>
+    <string id="lt_caparison_tc4" text="{.FI}Попона{.nn} - TC4"/>
+    <string id="lt_caparison_tc4b" text="{.FI}Попона{.nn} - TC4B"/>
+    <string id="lt_caparison_tc4c" text="{.FI}Попона{.nn} - TC4C"/>
+    <string id="lt_caparison_tc5" text="{.FI}Попона{.nn} - TC5"/>
+    <string id="lt_caparison_tc5b" text="{.FI}Попона{.nn} - TC5B"/>
+    <string id="lt_caparison_tc5c" text="{.FI}Попона{.nn} - TC5C"/>
+    <string id="lt_caparison_tc6" text="{.FI}Попона{.nn} - TC6"/>
+    <string id="lt_caparison_tc6b" text="{.FI}Попона{.nn} - TC6B"/>
+    <string id="lt_caparison_tc7" text="{.FI}Попона{.nn} - TC7"/>
+    <string id="lt_caparison_tc7b" text="{.FI}Попона{.nn} - TC7B"/>
+    <string id="lt_caparison_tc8" text="{.FI}Попона{.nn} - TC8"/>
+    <string id="lt_caparison_tc9" text="{.FI}Попона{.nn} - TC9"/>
+
+    <string id="lt_mail_coif_open.name" text="{.MI}Кольчужный{.aj} {.MI}койф{.nn} - Открытый"/>
+    <string id="lt_mail_coif.name" text="{.MI}Кольчужный{.aj} {.MI}койф{.nn}"/>
+    <string id="lt_mail_shirt_short_short.name" text="{.FI}Кольчужный{.aj} {.FI}рубашка{.nn}"/>
+    <string id="lt_mail_shirt_short_short_baltic.name" text="{.FI}Кольчужный{.aj} {.FI}рубашка{.nn} - Балтская"/>
+
+    <string id="great_helm_base.name" text="{.MI}Топфхельм{.nn}"/>
+    <string id="winged_great_helm_base.name" text="{.MI}Топфхельм{.nn} - Крылатый"/>
+    <string id="great_helm_brass.name" text="{.MI}Топфхельм{.nn} - Латунный"/>
+    <string id="winged_great_helm_brass.name" text="{.MI}Топфхельм{.nn} - Крылатый/Латунный"/>
+    <string id="great_helm_dark.name" text="{.MI}Топфхельм{.nn} - Чернёный"/>
+    <string id="winged_great_helm_dark.name" text="{.MI}Топфхельм{.nn} - Крылатый/Чернёный"/>
+    <string id="great_prankh_helm.name" text="{.MI}Топфхельм{.nn} - Округлый верх"/>
+    <string id="great_prankh_helm_crest.name" text="{.MI}Топфхельм{.nn} - Округлый верх/С нашлемником"/>
+    <string id="great_prankh_helm_winged.name" text="{.MI}Топфхельм{.nn} - Округлый верх/Крылатый"/>
+    <string id="great_prankh_helm_horns.name" text="{.MI}Топфхельм{.nn} - Округлый верх/Рогатый"/>
+    <string id="great_prankh_helm_royal.name" text="{.MI}Топфхельм{.nn} - Округлый верх/Королевский"/>
+
+    <string id="lt_slonim_helmet.name" text="{.MI}Слонимский{.aj} {.MI}Шлем{.nn}"/>
+    <string id="lt_slonim_with_mail_coif.name" text="{.MI}Слонимский{.aj} {.MI}Шлем{.nn} с кольчужным койфом"/>
+    <string id="lt_slonim_with_mail_coif_open.name" text="{.MI}Слонимский{.aj} {.MI}Шлем{.nn} с открытым кольчужным койфом"/>
+    <string id="lt_slonim_helmet_with_padded_cap.name" text="{.MI}Слонимский{.aj} {.MI}Шлем{.nn} со стёганым подшлемником"/>
+    <string id="lt_slonim_with_leather_coif.name" text="{.MI}Слонимский{.aj} {.MI}Шлем{.nn} с кожаным койфом"/>
+    <string id="lt_slonim_with_aventail" text="{.MI}Слонимский{.aj} {.MI}Шлем{.nn} с бармицей"/>
+    <string id="lt_slonim_with_aventail_gold" text="{.MI}Шлем{.nn} Суксе"/>
+
+    <string id="lt_baltic_spangenhelm_with_padded_cap.name" text="{.MI}Балтский{.aj} {.MI}шпангенхельм{.nn} со стёганым подшлемником"/>
+    <string id="lt_baltic_spangenhelm_with_leather_coif.name" text="{.MI}Балтский{.aj} {.MI}шпангенхельм{.nn} с кожаным койфом"/>
+    <string id="lt_vaisvilkas_helmet.name" text="{.MI}Шлем{.nn} Войшелка"/>
+    <string id="lt_treniotas_helmet.name" text="{.MI}Шлем{.nn} Тройната"/>
+    <string id="lt_baltic_spangenhelm_with_aventail" text="{.MI}Балтский{.aj} {.MI}шпангенхельм{.nn} с бармицей"/>
+    <string id="lt_baltic_spangenhelm_with_aventail_gold" text="{.MI}Шлем{.nn} Герденя"/>
+    <string id="lt_baltic_spangenhelm.name" text="{.MI}Балтский{.aj} {.MI}шпангенхельм{.nn}"/>
+    <string id="lt_baltic_spangenhelm_with_mail_coif.name" text="{.MI}Балтский{.aj} {.MI}шпангенхельм{.nn} с кольчужным койфом"/>
+    <string id="lt_baltic_spangenhelm_with_mail_coif_open.name" text="{.MI}Балтский{.aj} {.MI}шпангенхельм{.nn} с открытым кольчужным койфом"/>
+
+
+    <string id="lt_helmet_pakalniskiai" text="{.MI}Пакальнишкяйский{.aj} {.MI}шлем{.nn}"/>
+    <string id="lt_helmet_pakalniskiai_with_padded_cap" text="{.MI}Пакальнишкяйский{.aj} {.MI}шлем{.nn} со стёганым подшлемником"/>
+    <string id="lt_helmet_pakalniskiai_with_leather_coif" text="{.MI}Пакальнишкяйский{.aj} {.MI}шлем{.nn} с кожаным койфом"/>
+    <string id="lt_helmet_pakalniskiai_with_aventail" text="{.MI}Пакальнишкяйский{.aj} {.MI}шлем{.nn} с бармицей"/>
+    <string id="lt_helmet_pakalniskiai_with_aventail_gold" text="{.MI}Шлем{.nn} Довмонта"/>
+    <string id="lt_helmet_pakalniskiai_with_mail_coif_open" text="{.MI}Пакальнишкяйский{.aj} {.MI}шлем{.nn} с открытым кольчужным койфом"/>
+    <string id="lt_helmet_pakalniskiai_with_mail_coif" text="{.MI}Пакальнишкяйский{.aj} {.MI}шлем{.nn} с кольчужным койфом"/>
+    <string id="lt_helmet_pakalniskiai_with_mail_coif_gold" text="{.MI}Шлем{.nn} Товтивила"/>
+
+    <string id="lt_helmet_rusiai" text="{.MI}Русяйский{.aj} {.MI}шлем{.nn}"/>
+    <string id="lt_helmet_rusiai_with_padded_cap" text="{.MI}Русяйский{.aj} {.MI}шлем{.nn} со стёганым подшлемником"/>
+    <string id="lt_helmet_rusiai_with_leather_coif" text="{.MI}Русяйский{.aj} {.MI}шлем{.nn} с кожаным койфом"/>
+    <string id="lt_helmet_rusiai_with_aventail" text="{.MI}Русяйский{.aj} {.MI}шлем{.nn} с бармицей"/>
+    <string id="lt_helmet_rusiai_with_aventail_gold" text="{.MI}Шлем{.nn} Альминаса"/>
+    <string id="lt_helmet_rusiai_with_mail_coif_open" text="{.MI}Русяйский{.aj} {.MI}шлем{.nn} с открытым кольчужным койфом"/>
+    <string id="lt_helmet_rusiai_with_mail_coif" text="{.MI}Русяйский{.aj} {.MI}шлем{.nn} с кольчужным койфом"/>
+    <string id="lt_helmet_rusiai_with_mail_coif_gold" text="{.MI}Шлем{.nn} Сирвидаса"/>
+
+    <string id="lt_verhneyanchenkov" text="{.MI}Верхне-Янченковский{.aj} {.MI}шлем{.nn}"/>
+    <string id="lt_verhneyanchenkov_with_padded_cap" text="{.MI}Верхне-Янченковский{.aj} {.MI}шлем{.nn} со стёганым подшлемником"/>
+    <string id="lt_verhneyanchenkov_with_leather_coif" text="{.MI}Верхне-Янченковский{.aj} {.MI}шлем{.nn} с кожаным койфом"/>
+    <string id="lt_verhneyanchenkov_with_aventail" text="{.MI}Верхне-Янченковский{.aj} {.MI}шлем{.nn} с бармицей"/>
+    <string id="lt_verhneyanchenkov_with_aventail_copper1" text="{.MI}Шлем{.nn} Василька Братиславича"/>
+    <string id="lt_verhneyanchenkov_with_mail_coif_open" text="{.MI}Верхне-Янченковский{.aj} {.MI}шлем{.nn} с открытым кольчужным койфом"/>
+    <string id="lt_verhneyanchenkov_with_mail_coif" text="{.MI}Верхне-Янченковский{.aj} {.MI}шлем{.nn} с кольчужным койфом"/>
+    <string id="lt_verhneyanchenkov_with_mail_coif_copper2" text="{.MI}Шлем{.nn} Изяслава Брячиславича"/>
+
+    <string id="lt_babichi" text="{.MI}Бабичский{.aj} {.MI}шлем{.nn}"/>
+    <string id="lt_babichi_with_padded_cap" text="{.MI}Бабичский{.aj} {.MI}шлем{.nn} со стёганым подшлемником"/>
+    <string id="lt_babichi_with_leather_coif" text="{.MI}Бабичский{.aj} {.MI}шлем{.nn} с кожаным койфом"/>
+    <string id="lt_babichi_with_aventail" text="{.MI}Бабичский{.aj} {.MI}шлем{.nn} с бармицей"/>
+    <string id="lt_babichi_with_aventail_copper" text="{.MI}Шлем{.nn} Бориса Давыдовича"/>
+    <string id="lt_babichi_with_mail_coif_open" text="{.MI}Бабичский{.aj} {.MI}шлем{.nn} с открытым кольчужным койфом"/>
+    <string id="lt_babichi_with_mail_coif" text="{.MI}Бабичский{.aj} {.MI}шлем{.nn} с кольчужным койфом"/>
+    <string id="lt_babichi_with_mail_coif_copper" text="{.MI}Шлем{.nn} Константина Безрукого"/>
+
+    <string id="lt_blackmound.name" text="{.MI}Шлем{.nn} Чёрная Могила"/>
+    <string id="lt_blackmound_with_padded_cap.name" text="{.MI}Шлем{.nn} Чёрная Могила со стёганым подшлемником"/>
+    <string id="lt_blackmound_with_leather_coif.name" text="{.MI}Шлем{.nn} Чёрная Могила с кожаным койфом"/>
+    <string id="lt_blackmound_with_aventail" text="{.MI}Шлем{.nn} Чёрная Могила с бармицей"/>
+    <string id="lt_blackmound_with_aventail_gold" text="{.MI}Шлем{.nn} Данилы Друцкого"/>
+    <string id="lt_blackmound_with_mail_coif_open.name" text="{.MI}Шлем{.nn} Чёрная Могила с открытым кольчужным койфом"/>
+    <string id="lt_blackmound_with_mail_coif.name" text="{.MI}Шлем{.nn} Чёрная Могила с кольчужным койфом"/>
+    <string id="lt_blackmound_with_mail_coif_gold.name" text="{.MI}Шлем{.nn} Романа Борисовича"/>
+
+    <string id="lt_helmet_kodasoo" text="{.MI}Кодасооский{.aj} {.MI}шлем{.nn}"/>
+    <string id="lt_helmet_kodasoo_with_padded_cap" text="{.MI}Кодасооский{.aj} {.MI}шлем{.nn} со стёганым подшлемником"/>
+    <string id="lt_helmet_kodasoo_with_leather_coif" text="{.MI}Кодасооский{.aj} {.MI}шлем{.nn} с кожаным койфом"/>
+    <string id="lt_helmet_kodasoo_with_mail_coif_open" text="{.MI}Кодасооский{.aj} {.MI}шлем{.nn} с открытым кольчужным койфом"/>
+    <string id="lt_helmet_kodasoo_with_mail_coif" text="{.MI}Кодасооский{.aj} {.MI}шлем{.nn} с кольчужным койфом"/>
+
+    <string id="lt_pavirvytegudai" text="{.MI}Павирвите-Гудайский{.aj} {.MI}шлем{.nn}"/>
+    <string id="lt_pavirvytegudai_with_padded_cap" text="{.MI}Павирвите-Гудайский{.aj} {.MI}шлем{.nn} со стёганым подшлемником"/>
+    <string id="lt_pavirvytegudai_with_leather_coil" text="{.MI}Павирвите-Гудайский{.aj} {.MI}шлем{.nn} с кожаным койфом"/>
+    <string id="lt_pavirvytegudai_with_aventail" text="{.MI}Павирвите-Гудайский{.aj} {.MI}шлем{.nn} с бармицей"/>
+    <string id="lt_pavirvytegudai_with_aventail_copper" text="{.MI}Шлем{.nn} Локеро"/>
+    <string id="lt_pavirvytegudai_with_mail_coif_open" text="{.MI}Павирвите-Гудайский{.aj} {.MI}шлем{.nn} с открытым кольчужным койфом"/>
+    <string id="lt_pavirvytegudai_with_mail_coif" text="{.MI}Павирвите-Гудайский{.aj} {.MI}шлем{.nn} с кольчужным койфом"/>
+    <string id="lt_pavirvytegudai_with_mail_coif_copper" text="{.MI}Шлем{.nn} Ламекина"/>
+
+    <string id="lt_hrodno_helmet" text="{.MI}Гродненский{.aj} {.MI}шлем{.nn}"/>
+    <string id="lt_hrodno_helmet_with_aventail_copper" text="{.MI}Шлем{.nn} Ростислава Брячиславича"/>
+    <string id="lt_hrodno_helmet_with_aventail" text="{.MI}Гродненский{.aj} {.MI}шлем{.nn} с бармицей"/>
+    <string id="lt_hrodno_helmet_with_leather_coif" text="{.MI}Гродненский{.aj} {.MI}шлем{.nn} с кожаным койфом"/>
+    <string id="lt_hrodno_helmet_with_mail_coif_copper" text="{.MI}Шлем{.nn} Василька Борисовича (Давыдовича)"/>
+    <string id="lt_hrodno_helmet_with_mail_coif" text="{.MI}Гродненский{.aj} {.MI}шлем{.nn} с кольчужным койфом"/>
+    <string id="lt_hrodno_helmet_with_mail_coif_open" text="{.MI}Гродненский{.aj} {.MI}шлем{.nn} с открытым кольчужным койфом"/>
+    <string id="lt_hrodno_helmet_with_padded_cap" text="{.MI}Гродненский{.aj} {.MI}шлем{.nn} со стёганым подшлемником"/>
+
+    <string id="lt_durbes_diri_helmet" text="{.MI}Дурбес-Дирский{.aj} {.MI}шлем{.nn}"/>
+    <string id="lt_durbes_diri_helmet_with_aventail_copper" text="{.MI}Дурбес-Дирский{.aj} {.MI}шлем{.nn} с бармицей - Медный"/>
+    <string id="lt_durbes_diri_helmet_with_aventail" text="{.MI}Дурбес-Дирский{.aj} {.MI}шлем{.nn} с бармицей"/>
+    <string id="lt_durbes_diri_helmet_with_leather_coif" text="{.MI}Дурбес-Дирский{.aj} {.MI}шлем{.nn} с кожаным койфом"/>
+    <string id="lt_durbes_diri_helmet_with_mail_coif_copper" text="{.MI}Дурбес-Дирский{.aj} {.MI}шлем{.nn} с кольчужным койфом - Медный"/>
+    <string id="lt_durbes_diri_helmet_with_mail_coif" text="{.MI}Дурбес-Дирский{.aj} {.MI}шлем{.nn} с кольчужным койфом"/>
+    <string id="lt_durbes_diri_helmet_with_mail_coif_open" text="{.MI}Дурбес-Дирский{.aj} {.MI}шлем{.nn} с открытым кольчужным койфом"/>
+    <string id="lt_durbes_diri_helmet_with_padded_cap" text="{.MI}Дурбес-Дирский{.aj} {.MI}шлем{.nn} со стёганым подшлемником"/>
+
+    <string id="lt_libagu_saraji_helmet" text="{.MI}Либагу-Сарайский{.aj} {.MI}шлем{.nn}"/>
+    <string id="lt_libagu_saraji_helmet_with_aventail_black" text="{.MI}Либагу-Сарайский{.aj} {.MI}шлем{.nn} с бармицей - Чёрный"/>
+    <string id="lt_libagu_saraji_helmet_with_aventail" text="{.MI}Либагу-Сарайский{.aj} {.MI}шлем{.nn} с бармицей"/>
+    <string id="lt_libagu_saraji_helmet_with_leather_coif" text="{.MI}Либагу-Сарайский{.aj} {.MI}шлем{.nn} с кожаным койфом"/>
+    <string id="lt_libagu_saraji_helmet_with_mail_coif_black" text="{.MI}Либагу-Сарайский{.aj} {.MI}шлем{.nn} с кольчужным койфом - Чёрный"/>
+    <string id="lt_libagu_saraji_helmet_with_mail_coif" text="{.MI}Либагу-Сарайский{.aj} {.MI}шлем{.nn} с кольчужным койфом"/>
+    <string id="lt_libagu_saraji_helmet_with_mail_coif_open" text="{.MI}Либагу-Сарайский{.aj} {.MI}шлем{.nn} с открытым кольчужным койфом"/>
+    <string id="lt_libagu_saraji_helmet_with_padded_cap" text="{.MI}Либагу-Сарайский{.aj} {.MI}шлем{.nn} со стёганым подшлемником"/>
+
+    <string id="lt_baltic_pavise_shield" text="{.FI}Балтский{.aj} {.FI}павеза{.nn}"/>
+    <string id="lt_baltic_pavise_shield_edges" text="{.FI}Балтский{.aj} {.FI}павеза{.nn}"/>
+    <string id="lt_baltic_pavise_shield_iron" text="{.FI}Балтский{.aj} {.FI}павеза{.nn}"/>
+    <string id="lt_baltic_pavise_shield_sigil1" text="{.FI}Балтский{.aj} {.FI}павеза{.nn}"/>
+    <string id="lt_baltic_pavise_shield_sigil2" text="{.FI}Балтский{.aj} {.FI}павеза{.nn}"/>
+    <string id="lt_baltic_pavise_shield_sigil3" text="{.FI}Балтский{.aj} {.FI}павеза{.nn}"/>
+
+    <string id="lt_coat_of_plates_black" text="{.FI}Бригантина{.nn} - Чёрная"/>
+    <string id="lt_coat_of_plates_grey" text="{.FI}Бригантина{.nn} - Серая"/>
+    <string id="lt_coat_of_plates_sigil" text="{.FI}Бригантина{.nn} с эмблемой"/>
+    <string id="lt_coat_of_plates_team_colors" text="{.FI}Бригантина{.nn}"/>
+    <string id="lt_coat_of_plates_teuton1" text="{.FI}Тевтонский{.aj} {.FI}бригантина{.nn}"/>
+    <string id="lt_coat_of_plates_teuton2" text="{.FI}Тевтонский{.aj} {.FI}бригантина{.nn}"/>
+    <string id="lt_coat_of_plates_teuton3" text="{.FI}Тевтонский{.aj} {.FI}бригантина{.nn}"/>
+    <string id="lt_coat_of_plates_white" text="{.FI}Бригантина{.nn} - Белая"/>
+
+    <string id="lt_straw_hat1.name" text="{.FI}Соломенный{.aj} {.FI}шляпа{.nn}"/>
+    <string id="lt_straw_hat1_old.name" text="{.FI}Соломенный{.aj} {.FI}шляпа{.nn} - Старая"/>
+    <string id="lt_straw_hat2.name" text="{.FI}Соломенный{.aj} {.FI}шляпа{.nn}"/>
+    <string id="lt_straw_hat2_old.name" text="{.FI}Соломенный{.aj} {.FI}шляпа{.nn} - Старая"/>
+    <string id="lt_clogs.name" text="{.MI}Деревянный{.ajp} {.MI}башмаки{.nnp}"/>
+    <string id="lt_clogs_red.name" text="{.MI}Деревянный{.ajp} {.MI}башмаки{.nnp} - Красные"/>
+    <string id="lt_clogs_old.name" text="{.MI}Деревянный{.ajp} {.MI}башмаки{.nnp} - Старые"/>
+    <string id="lt_birch_bark_shoes.name" text="{.MI}Лапти{.nnp}"/>
+    <string id="lt_birch_bark_shoes_old.name" text="{.MI}Лапти{.nnp} - Старые"/>
+
+    <string id="lt_teutonic_shield_cross1" text="{.MI}Тевтонский{.aj} {.MI}щит{.nn}"/>
+    <string id="lt_teutonic_shield_cross2" text="{.MI}Тевтонский{.aj} {.MI}щит{.nn}"/>
+    <string id="lt_teutonic_shield_cross3" text="{.MI}Тевтонский{.aj} {.MI}щит{.nn}"/>
+    <string id="lt_teutonic_shield_cross4" text="{.MI}Тевтонский{.aj} {.MI}щит{.nn}"/>
+    <string id="lt_teutonic_shield_cross5" text="{.MI}Тевтонский{.aj} {.MI}щит{.nn}"/>
+    <string id="lt_teutonic_shield_cross6" text="{.MI}Тевтонский{.aj} {.MI}щит{.nn}"/>
+    <string id="lt_teutonic_shield_cross7" text="{.MI}Тевтонский{.aj} {.MI}щит{.nn} с Тау-крестом"/>
+    <string id="lt_teutonic_shield_cross8" text="{.MI}Тевтонский{.aj} {.MI}щит{.nn} с Тау-крестом"/>
+    <string id="lt_teutonic_shield_cross9" text="{.MI}Тевтонский{.aj} {.MI}щит{.nn} с Тау-крестом"/>
+    <string id="lt_teutonic_shield_cross10" text="{.MI}Тевтонский{.aj} {.MI}щит{.nn} с Тау-крестом"/>
+    <string id="lt_teutonic_shield_cross11" text="{.MI}Тевтонский{.aj} {.MI}щит{.nn} с Тау-крестом"/>
+    <string id="lt_teutonic_shield_anno" text="{.MI}Щит{.nn} Анно фон Зангерсхаузена"/>
+    <string id="lt_teuton_monk_hat" text="{.FI}Тевтонский{.aj} {.FI}биретта{.nn} монаха"/>
+    <string id="lt_heater_shield_naked0" text="Экю"/>
+    <string id="lt_heater_shield_naked1" text="Экю"/>
+    <string id="lt_heater_shield_naked2" text="Экю"/>
+    <string id="lt_heater_shield_naked3" text="Экю"/>
+
+    <string id="lt_horse_harness_half_mail_black" text="{.MI}Полукольчужный{.aj} {.MI}бард{.nn} - Чёрный"/>
+    <string id="lt_horse_harness_half_mail_dark_red" text="{.MI}Полукольчужный{.aj} {.MI}бард{.nn} - Тёмно красный"/>
+    <string id="lt_horse_harness_half_mail_destonia" text="{.MI}Полукольчужный{.aj} {.MI}бард{.nn} - Эстонское герцогство"/>
+    <string id="lt_horse_harness_half_mail_grey" text="{.MI}Полукольчужный{.aj} {.MI}бард{.nn} - Серый"/>
+    <string id="lt_horse_harness_half_mail_teuton1" text="{.MI}Тевтонский{.aj} {.MI}полукольчужный{.aj} {.MI}бард{.nn}"/>
+    <string id="lt_horse_harness_half_mail_teuton2" text="{.MI}Тевтонский{.aj} {.MI}полукольчужный{.aj} {.MI}бард{.nn}"/>
+    <string id="lt_horse_harness_half_mail_teuton3" text="{.MI}Тевтонский{.aj} {.MI}полукольчужный{.aj} {.MI}бард{.nn}"/>
+    <string id="lt_horse_harness_half_mail_white" text="{.MI}Полукольчужный{.aj} {.MI}бард{.nn} - Белый"/>
+    <string id="lt_horse_harness_half_mail_tc" text="{.MI}Полукольчужный{.aj} {.MI}бард{.nn} - TC"/>
+    <string id="lt_horse_harness_half_mail_tc10" text="{.MI}Полукольчужный{.aj} {.MI}бард{.nn} - TC10"/>
+    <string id="lt_horse_harness_half_mail_tc11" text="{.MI}Полукольчужный{.aj} {.MI}бард{.nn} - TC11"/>
+    <string id="lt_horse_harness_half_mail_tc12" text="{.MI}Полукольчужный{.aj} {.MI}бард{.nn} - TC12"/>
+    <string id="lt_horse_harness_half_mail_tc2" text="{.MI}Полукольчужный{.aj} {.MI}бард{.nn} - TC2"/>
+    <string id="lt_horse_harness_half_mail_tc3" text="{.MI}Полукольчужный{.aj} {.MI}бард{.nn} - TC3"/>
+    <string id="lt_horse_harness_half_mail_tc4" text="{.MI}Полукольчужный{.aj} {.MI}бард{.nn} - TC4"/>
+    <string id="lt_horse_harness_half_mail_tc5" text="{.MI}Полукольчужный{.aj} {.MI}бард{.nn} - TC5"/>
+    <string id="lt_horse_harness_half_mail_tc6" text="{.MI}Полукольчужный{.aj} {.MI}бард{.nn} - TC6"/>
+    <string id="lt_horse_harness_half_mail_tc7" text="{.MI}Полукольчужный{.aj} {.MI}бард{.nn} - TC7"/>
+    <string id="lt_horse_harness_half_mail_tc8" text="{.MI}Полукольчужный{.aj} {.MI}бард{.nn} - TC8"/>
+    <string id="lt_horse_harness_half_mail_tc9" text="{.MI}Полукольчужный{.aj} {.MI}бард{.nn} - TC9"/>
+
+    <string id="lt_horse_frisian_destrier" text="{.MA}Фризский{.aj} {.MA}рыцарский{.aj} {.MA}конь{.nn}"/>
+    <string id="lt_horse_samogitian_pony" text="{.MI}Жемайтский{.aj} {.MI}пони{.nn} «Žemaitukas»"/>
+
+    <string id="lt_balt_fur_hat_1" text="{.FI}Балтский{.aj} {.FI}меховой{.aj} {.FI}шапка{.nn}"/>
+    <string id="lt_balt_fur_hat_1_tc" text="{.FI}Балтский{.aj} {.FI}меховой{.aj} {.FI}шапка{.nn} - Цвета клана"/>
+    <string id="lt_balt_fur_hat_2" text="{.FI}Балтский{.aj} {.FI}меховой{.aj} {.FI}шапка{.nn}"/>
+    <string id="lt_balt_fur_hat_2_tc" text="{.FI}Балтский{.aj} {.FI}меховой{.aj} {.FI}шапка{.nn} - Цвета клана"/>
+    <string id="lt_balt_hat10b" text="{.FI}Шапка"/>
+    <string id="lt_balt_hat10" text="{.FI}Шапка"/>
+    <string id="lt_balt_hat11" text="{.FI}Шапка"/>
+    <string id="lt_balt_hat12b" text="{.FI}Шапка"/>
+    <string id="lt_balt_hat12" text="{.FI}Шапка"/>
+    <string id="lt_balt_hat13" text="{.FI}Шапка"/>
+    <string id="lt_balt_hat13tc" text="{.FI}Шапка"/>
+    <string id="lt_balt_hat1" text="{.FI}Шапка"/>
+    <string id="lt_balt_hat2" text="{.FI}Шапка"/>
+    <string id="lt_balt_hat2_rings1" text="{.FI}Балтский{.aj} {.FI}шапка{.nn} - Кольца"/>
+    <string id="lt_balt_hat2_rings2" text="{.FI}Балтский{.aj} {.FI}шапка{.nn} - Кольца"/>
+    <string id="lt_balt_hat3" text="{.FI}Шапка"/>
+    <string id="lt_balt_hat4" text="{.FI}Шапка"/>
+    <string id="lt_balt_hat5" text="{.FI}Шапка"/>
+    <string id="lt_balt_hat6" text="{.FI}Шапка"/>
+    <string id="lt_balt_hat7" text="{.FI}Шапка"/>
+    <string id="lt_balt_hat8b" text="{.FI}Шапка"/>
+    <string id="lt_balt_hat8" text="{.FI}Шапка"/>
+    <string id="lt_balt_hat9b" text="{.FI}Шапка"/>
+    <string id="lt_balt_hat9c" text="{.FI}Шапка"/>
+    <string id="lt_balt_hat9c_rings1" text="{.FI}Балтский{.aj} {.FI}шапка{.nn} - Кольца"/>
+    <string id="lt_balt_hat9c_rings2" text="{.FI}Балтский{.aj} {.FI}шапка{.nn} - Кольца"/>
+    <string id="lt_balt_hat9" text="{.FI}Шапка"/>
+    <string id="lt_balt_hat9tc_c" text="{.FI}Шапка"/>
+    <string id="lt_balt_hat9tc" text="{.FI}Шапка"/>
+    <string id="lt_balt_hat9tc_rings1" text="{.FI}Балтский{.aj} {.FI}шапка{.nn} - Кольца"/>
+    <string id="lt_balt_hat9tc_rings2" text="{.FI}Балтский{.aj} {.FI}шапка{.nn} - Кольца"/>
+    <string id="lt_balt_hat_f_brass" text="{.FI}Балтский{.aj} {.FI}женская{.aj} {.FI}шапка{.nn} - Латунь"/>
+    <string id="lt_balt_hat_m_brass" text="{.FI}Куршский{.aj} {.FI}шапка{.nn} с латунью"/>
+    <string id="lt_baltic_female_cloak1" text="{.MI}Балтский{.aj} {.MI}женский{.aj} {.MI}плащ{.nn}"/>
+    <string id="lt_baltic_female_cloak2" text="{.MI}Балтский{.aj} {.MI}женский{.aj} {.MI}плащ{.nn}"/>
+    <string id="lt_baltic_female_cloak3" text="{.MI}Балтский{.aj} {.MI}женский{.aj} {.MI}плащ{.nn}"/>
+    <string id="lt_baltic_female_cloak4" text="{.MI}Балтский{.aj} {.MI}женский{.aj} {.MI}плащ{.nn}"/>
+    <string id="lt_baltic_female_shoes" text="{.FI}Балтский{.aj} {.FI}женский{.aj} {.FI}обувь{.nn}"/>
+    <string id="lt_baltic_nuometas" text="{.MI}Балтский{.aj} {.MI}убрус{.nn}"/>
+    <string id="lt_baltic_nuometas_tc" text="{.MI}Балтский{.aj} {.MI}убрус{.nn}"/>
+    <string id="lt_baltic_pusnuometis" text="{.MI}Балтский{.aj} {.MI}полуубрус{.nn}"/>
+    <string id="lt_baltic_pusnuometis_tc" text="{.MI}Балтский{.aj} {.MI}полуубрус{.nn}"/>
+    <string id="lt_balt_veil1" text="{.FI}Балтский{.aj} {.FI}вуаль{.nn}"/>
+    <string id="lt_balt_veil1_rings" text="{.FI}Балтский{.aj} {.FI}вуаль{.nn} с кольцами"/>
+    <string id="lt_balt_veil1tc" text="{.FI}Балтский{.aj} {.FI}вуаль{.nn}"/>
+    <string id="lt_balt_veil1tc_rings" text="{.FI}Балтский{.aj} {.FI}вуаль{.nn} с кольцами"/>
+    <string id="lt_balt_veil2" text="{.FI}Балтский{.aj} {.FI}вуаль{.nn}"/>
+    <string id="lt_balt_veil2tc" text="{.FI}Балтский{.aj} {.FI}вуаль{.nn}"/>
+    <string id="lt_balt_veil3" text="{.FI}Балтский{.aj} {.FI}вуаль{.nn}"/>
+    <string id="lt_balt_veil3b" text="{.FI}Балтский{.aj} {.FI}вуаль{.nn}"/>
+    <string id="lt_balt_veil3tc" text="{.FI}Балтский{.aj} {.FI}вуаль{.nn}"/>
+
+    <string id="lt_crusader_female_veil1" text="{.FI}Женский{.aj} {.FI}вуаль{.nn} крестоносцев"/>
+
+    <string id="lt_baltic_javelin_type1a" text="{.MI}Балтский{.aj} {.MI}дротик{.nn} «Akstis» [тип 1а X-XIII]"/>
+    <string id="lt_baltic_javelin_type1b" text="{.MI}Балтский{.aj} {.MI}дротик{.nn} «Akstis» [тип 1b X-XIII]"/>
+    <string id="lt_baltic_javelin_type2" text="{.MI}Балтский{.aj} {.MI}дротик{.nn} «Akstis» [тип 2 XII-XIII]"/>
+    <string id="lt_baltic_javelin_type3" text="{.MI}Балтский{.aj} {.MI}дротик{.nn} «Akstis» [тип 3 XI-XIII]"/>
+    <string id="lt_baltic_lance" text="{.NI}Балтский{.aj} {.NI}ковалерийский{.aj} {.NI}копье{.nn}"/>
+    <string id="lt_baltic_noble_palanga_1h_sword" text="{.MI}Балтский{.aj} {.MI}Палангский{.aj} {.MI}меч{.nn} знати [IX-XI]"/>
+    <string id="lt_baltic_palanga_1h_sword" text="{.MI}Балтский{.aj} {.MI}Палангский{.aj} {.MI}меч{.nn} [IX-XI]"/>
+    <string id="lt_baltic_tribal_1h_axe" text="{.MI}Балтский{.aj} {.MI}племенной{.aj} {.MI}топор{.nn}"/>
+    <string id="lt_baltic_war_knife" text="{.MI}Балтский{.aj} {.MI}боевой{.aj} {.MI}нож{.nn}"/>
+    <string id="lt_baltic_cavalry_spear_type3" text="{.NI}Балтский{.aj} {.NI}кавалерийский{.aj} {.NI}копье{.nn} «Ietis» [тип 3 IX-XIII]"/>
+    <string id="lt_baltic_cavalry_spear_type4" text="{.NI}Балтский{.aj} {.NI}кавалерийский{.aj} {.NI}копье{.nn} «Ietis» [тип 4 XII-XIII]"/>
+    <string id="lt_baltic_cavalry_spear_type5" text="{.NI}Балтский{.aj} {.NI}кавалерийский{.aj} {.NI}копье{.nn} «Ietis» [тип 5 XII-XIII]"/>
+    <string id="lt_baltic_spear_type3" text="{.NI}Балтский{.aj} {.NI}копье{.nn} «Ietis» [тип 3 IX-XIII]"/>
+    <string id="lt_baltic_spear_type4" text="{.NI}Балтский{.aj} {.NI}копье{.nn} «Ietis» [тип 4 XII-XIII]"/>
+    <string id="lt_baltic_spear_type5" text="{.NI}Балтский{.aj} {.NI}копье{.nn} «Ietis» [тип 5 XII-XIII]"/>
+    <string id="lt_baltic_spear_type7" text="{.NI}Балтский{.aj} {.NI}копье{.nn} «Ietis» [тип 7 XII-XIII]"/>
+
+    <string id="lt_novgorod_hat" text="{.FI}Новгородский{.aj} {.FI}шапка{.nn}"/>
+    <string id="lt_rus_fur_hat_1" text="{.FI}Русский{.aj} {.FI}меховой{.aj} {.FI}шапка{.nn}"/>
+    <string id="lt_rus_fur_hat_2" text="{.FI}Русский{.aj} {.FI}меховой{.aj} {.FI}шапка{.nn}"/>
+    <string id="lt_rus_fur_hat_2_tc" text="{.FI}Русский{.aj} {.FI}меховой{.aj} {.FI}шапка{.nn} - Цвета клана"/>
+    <string id="lt_rus_fur_hat_3" text="{.FI}Русский{.aj} {.FI}меховой{.aj} {.FI}шапка{.nn}"/>
+    <string id="lt_rus_fur_hat_3_tc" text="{.FI}Русский{.aj} {.FI}меховой{.aj} {.FI}шапка{.nn} - Цвета клана"/>
+    <string id="lt_rus_fur_hat_4" text="{.FI}Русский{.aj} {.FI}меховой{.aj} {.FI}шапка{.nn}"/>
+    <string id="lt_rus_fur_hat_5" text="{.FI}Русский{.aj} {.FI}меховой{.aj} {.FI}шапка{.nn}"/>
+    <string id="lt_rus_fur_hat_6" text="{.FI}Русский{.aj} {.FI}меховой{.aj} {.FI}шапка{.nn}"/>
+    <string id="lt_rus_noble_scarf1" text="{.MI}Русский{.aj} {.MI}платок{.nn} знати{.nn}"/>
+    <string id="lt_rus_noble_scarf2" text="{.MI}Русский{.aj} {.MI}платок{.nn} знати{.nn}"/>
+    <string id="lt_rus_noble_scarf3" text="{.MI}Русский{.aj} {.MI}платок{.nn} знати"/>
+    <string id="lt_rus_noble_scarf4" text="{.MI}Русский{.aj} {.MI}платок{.nn} знати"/>
+    <string id="lt_rus_noble_scarf5" text="{.MI}Русский{.aj} {.MI}платок{.nn} знати"/>
+    <string id="lt_rus_noble_scarf_tc" text="{.MI}Русский{.aj} {.MI}платок{.nn} знати"/>
+    <string id="lt_rus_scarf_a1" text="{.MI}Русский{.aj} {.MI}платок{.nn}"/>
+    <string id="lt_rus_scarf_a2" text="{.MI}Русский{.aj} {.MI}платок{.nn}"/>
+    <string id="lt_rus_scarf_a3" text="{.MI}Русский{.aj} {.MI}платок{.nn}"/>
+    <string id="lt_rus_scarf_a4" text="{.MI}Русский{.aj} {.MI}платок{.nn}"/>
+    <string id="lt_rus_scarf_a5" text="{.MI}Русский{.aj} {.MI}платок{.nn}"/>
+    <string id="lt_rus_scarf_a_tc" text="{.MI}Русский{.aj} {.MI}платок{.nn}"/>
+    <string id="lt_rus_scarf_b1" text="{.MI}Русский{.aj} {.MI}платок{.nn}"/>
+    <string id="lt_rus_scarf_b2" text="{.MI}Русский{.aj} {.MI}платок{.nn}"/>
+    <string id="lt_rus_scarf_b3" text="{.MI}Русский{.aj} {.MI}платок{.nn}"/>
+    <string id="lt_rus_scarf_b4" text="{.MI}Русский{.aj} {.MI}платок{.nn}"/>
+    <string id="lt_rus_scarf_b5" text="{.MI}Русский{.aj} {.MI}платок{.nn}"/>
+    <string id="lt_rus_scarf_b_tc" text="{.MI}Русский{.aj} {.MI}платок{.nn}"/>
+
+    <string id="lt_rus_2h_axe" text="{.MI}Русский{.aj} {.MI}двуручный{.aj} {.MI}топор{.nn}"/>
+    <string id="lt_rus_bardiche_2h" text="{.MI}Русский{.aj} {.MI}бердыш{.nn}"/>
+    <string id="lt_rus_cherkassy_1h_axe" text="{.MI}Русский{.aj} {.MI}Черкасский{.aj} {.MI}топор{.nn}"/>
+    <string id="lt_rus_chernaya_mogila_1h_sword" text="{.MI}Русский{.aj} {.MI}меч{.nn} из Черной могилы"/>
+    <string id="lt_rus_dagger" text="{.MI}Русский{.aj} {.MI}кинжал{.nn}"/>
+    <string id="lt_rus_gnezdovo_1h_sword" text="{.MI}Русский{.aj} {.MI}меч{.nn} из Гнёздово"/>
+    <string id="lt_rus_javelin_type1a" text="{.MI}Русский{.aj} {.MI}дротик{.nn} «Сулица» [тип 1а X-XIII]"/>
+    <string id="lt_rus_javelin_type1b" text="{.MI}Русский{.aj} {.MI}дротик{.nn} «Сулица» [тип 1b X-XIII]"/>
+    <string id="lt_rus_javelin_type2" text="{.MI}Русский{.aj} {.MI}дротик{.nn} «Сулица» [тип 2 XII-XIII]"/>
+    <string id="lt_rus_javelin_type3" text="{.MI}Русский{.aj} {.MI}дротик{.nn} «Сулица» [тип 3 XI-XIII]"/>
+    <string id="lt_rus_khortysia_1h_sword" text="{.MI}Русский{.aj} {.MI}меч{.nn} из Хортицы [X]"/>
+    <string id="lt_rus_kismena_1h_axe" text="{.FI}Русский{.aj} {.FI}Киснемаский{.aj} {.FI}секира{.nn}"/>
+    <string id="lt_rus_lance" text="{.NI}Русский{.aj} {.NI}кавалерийский{.aj} {.NI}копье{.nn}"/>
+    <string id="lt_rus_novgorod_1h_sword" text="{.MI}Русский{.aj} {.MI}меч{.nn} из Новгорода"/>
+    <string id="lt_rus_pernach_1h" text="{.MI}Русский{.aj} {.MI}пернач{.nn}"/>
+    <string id="lt_rus_polovtsian_1h_saber" text="{.FI}Русский{.aj} {.FI}половецкий{.aj} {.FI}сабля{.nn} [X-XIII]"/>
+    <string id="lt_rus_shepetovski_noble_1h_sword" text="{.MI}Русский{.aj} Шепетовский {.MI}меч{.nn} знати"/>
+    <string id="lt_rus_shestovicy_1h_sword" text="{.MI}Русский{.aj} {.MI}меч{.nn} из Шестовицы"/>
+    <string id="lt_rus_spear" text="{.NI}Русский{.aj} {.NI}копье{.nn}"/>
+    <string id="lt_rus_cavalry_spear_type3" text="{.NI}Русский{.aj} {.NI}кавалерийский{.aj} {.NI}копье{.nn} [тип 3 IX-XIII]"/>
+    <string id="lt_rus_cavalry_spear_type4" text="{.NI}Русский{.aj} {.NI}кавалерийский{.aj} {.NI}копье{.nn} [тип 4 XII-XIII]"/>
+    <string id="lt_rus_cavalry_spear_type5" text="{.NI}Русский{.aj} {.NI}кавалерийский{.aj} {.NI}копье{.nn} [тип 5 XII-XIII]"/>
+    <string id="lt_rus_spear_type3" text="{.NI}Русский{.aj} {.NI}копье{.nn} [тип 3 IX-XIII]"/>
+    <string id="lt_rus_spear_type4a_hunting_rogatina" text="{.NI}Русский{.aj} {.NI}охотничий{.aj} {.NI}копье{.nn} «Рогатина» [тип 4A XII-XIII]"/>
+    <string id="lt_rus_spear_type4a_war_rogatina" text="{.NI}Русский{.aj} {.NI}боевой{.aj} {.NI}копье{.nn} «Рогатина» [тип 4A XII-XIII]"/>
+    <string id="lt_rus_spear_type4" text="{.NI}Русский{.aj} {.NI}копье{.nn} [тип 4 XII-XIII]"/>
+    <string id="lt_rus_spear_type5" text="{.NI}Русский{.aj} {.NI}копье{.nn} [тип 5 XII-XIII]"/>
+    <string id="lt_rus_spear_type7" text="{.NI}Русский{.aj} {.NI}копье{.nn} [тип 7 XII-XIII]"/>
+    <string id="lt_shield_vlandia_cavalary_a_rus10" text="{.MI}Русский{.aj} {.MI}каплевидный{.aj} {.MI}щит{.nn}"/>
+    <string id="lt_shield_vlandia_cavalary_a_rus11" text="{.MI}Русский{.aj} {.MI}каплевидный{.aj} {.MI}щит{.nn}"/>
+    <string id="lt_shield_vlandia_cavalary_a_rus12" text="{.MI}Русский{.aj} {.MI}каплевидный{.aj} {.MI}щит{.nn}"/>
+    <string id="lt_shield_vlandia_cavalary_a_rus1" text="{.MI}Русский{.aj} {.MI}каплевидный{.aj} {.MI}щит{.nn}"/>
+    <string id="lt_shield_vlandia_cavalary_a_rus2" text="{.MI}Русский{.aj} {.MI}каплевидный{.aj} {.MI}щит{.nn}"/>
+    <string id="lt_shield_vlandia_cavalary_a_rus3" text="{.MI}Русский{.aj} {.MI}каплевидный{.aj} {.MI}щит{.nn}"/>
+    <string id="lt_shield_vlandia_cavalary_a_rus4" text="{.MI}Русский{.aj} {.MI}каплевидный{.aj} {.MI}щит{.nn}"/>
+    <string id="lt_shield_vlandia_cavalary_a_rus5" text="{.MI}Русский{.aj} {.MI}каплевидный{.aj} {.MI}щит{.nn}"/>
+    <string id="lt_shield_vlandia_cavalary_a_rus6" text="{.MI}Русский{.aj} {.MI}каплевидный{.aj} {.MI}щит{.nn}"/>
+    <string id="lt_shield_vlandia_cavalary_a_rus7" text="{.MI}Русский{.aj} {.MI}каплевидный{.aj} {.MI}щит{.nn}"/>
+    <string id="lt_shield_vlandia_cavalary_a_rus8" text="{.MI}Русский{.aj} {.MI}каплевидный{.aj} {.MI}щит{.nn}"/>
+    <string id="lt_shield_vlandia_cavalary_a_rus9" text="{.MI}Русский{.aj} {.MI}каплевидный{.aj} {.MI}щит{.nn}"/>
+    <string id="lt_shield_vlandia_cavalary_b_rus10" text="{.MI}Русский{.aj} {.MI}каплевидный{.aj} {.MI}щит{.nn} с железной окантовкой"/>
+    <string id="lt_shield_vlandia_cavalary_b_rus11" text="{.MI}Русский{.aj} {.MI}каплевидный{.aj} {.MI}щит{.nn} с железной окантовкой"/>
+    <string id="lt_shield_vlandia_cavalary_b_rus12" text="{.MI}Русский{.aj} {.MI}каплевидный{.aj} {.MI}щит{.nn} с железной окантовкой"/>
+    <string id="lt_shield_vlandia_cavalary_b_rus1" text="{.MI}Русский{.aj} {.MI}каплевидный{.aj} {.MI}щит{.nn} с железной окантовкой"/>
+    <string id="lt_shield_vlandia_cavalary_b_rus2" text="{.MI}Русский{.aj} {.MI}каплевидный{.aj} {.MI}щит{.nn} с железной окантовкой"/>
+    <string id="lt_shield_vlandia_cavalary_b_rus3" text="{.MI}Русский{.aj} {.MI}каплевидный{.aj} {.MI}щит{.nn} с железной окантовкой"/>
+    <string id="lt_shield_vlandia_cavalary_b_rus4" text="{.MI}Русский{.aj} {.MI}каплевидный{.aj} {.MI}щит{.nn} с железной окантовкой"/>
+    <string id="lt_shield_vlandia_cavalary_b_rus5" text="{.MI}Русский{.aj} {.MI}каплевидный{.aj} {.MI}щит{.nn} с железной окантовкой"/>
+    <string id="lt_shield_vlandia_cavalary_b_rus6" text="{.MI}Русский{.aj} {.MI}каплевидный{.aj} {.MI}щит{.nn} с железной окантовкой"/>
+    <string id="lt_shield_vlandia_cavalary_b_rus7" text="{.MI}Русский{.aj} {.MI}каплевидный{.aj} {.MI}щит{.nn} с железной окантовкой"/>
+    <string id="lt_shield_vlandia_cavalary_b_rus8" text="{.MI}Русский{.aj} {.MI}каплевидный{.aj} {.MI}щит{.nn} с железной окантовкой"/>
+    <string id="lt_shield_vlandia_cavalary_b_rus9" text="{.MI}Русский{.aj} {.MI}каплевидный{.aj} {.MI}щит{.nn} с железной окантовкой"/>
+
+    <string id="lt_sa_chain_shoulders" text="{.MI}Кольчужный{.ajp} {.MI}наплечники{.nnp}"/>
+    <string id="lt_sa_helm_with_faceplate_blackend_brass" text="{.MI}Топфхельм{.nn} с лицевой пластиной - Чернёная латунь"/>
+    <string id="lt_sa_vlandian_helm_with_faceplate" text="{.MI}Топфхельм{.nn} с лицевой пластиной"/>
+    <string id="lt_sa_vlandian_helm_with_faceplate_brass" text="{.MI}Топфхельм{.nn} с лицевой пластиной - Латунь"/>
+    <string id="lt_sa_vlandian_helm_with_faceplate_paint2" text="{.MI}Топфхельм{.nn} с лицевой пластиной - Окрашенный"/>
+    <string id="lt_sa_vlandian_helm_with_faceplate_paint2b" text="{.MI}Топфхельм{.nn} с лицевой пластиной - Окрашенный"/>
+
+    <string id="lt_sabre1" text="{.FI}Аланский{.aj} {.FI}сабля{.nn} [IX-XI]"/>
+    <string id="lt_sabre2" text="{.FI}Венгерский{.aj} {.FI}сабля{.nn} из Кароша [X-XI]"/>
+    <string id="lt_sabre3" text="{.FI}Хорезмский{.aj} {.FI}тюркский{.aj} {.FI}сабля{.nn} [X-XI]"/>
+    <string id="lt_sabre4" text="{.FI}Хазарский{.aj} {.FI}сабля{.nn} из Шестовицы [IX-XI]"/>
+    <string id="lt_sabre5" text="{.FI}Хазарский{.aj} {.FI}кочевой{.aj} {.FI}сабля{.nn} [X-XIII]"/>
+    <string id="lt_sabre6" text="{.FI}Венгерский{.aj} {.FI}сабля{.nn} [IX-X]"/>
+    <string id="lt_sabre7" text="{.FI}Волжский{.aj} {.FI}сабля{.nn} [Гарда тип II X-XI]"/>
+    <string id="lt_sabre8" text="{.FI}Венгерский{.aj} {.FI}сабля{.nn} из Гочево [X]"/>
+
+    <string id="lt_cuman_saber_1h" text="{.FI}Половецкий{.aj} {.FI}сабля{.nn}"/>
+    <string id="lt_curonian_1h_sword" text="{.MI}Куршский{.aj} {.MI}меч{.nn}"/>
+    <string id="lt_curved_falchion_1h" text="{.MI}Изогнутый{.aj} {.MI}фальшион{.nn}"/>
+    <string id="lt_curved_knife" text="{.MI}Изогнутый{.aj} {.MI}нож{.nn}"/>
+    <string id="lt_danish_2h_sword" text="{.MI}Датский{.aj} {.MI}двуручный{.aj} {.MI}меч{.nn}"/>
+    <string id="lt_decorated_european_dagger" text="{.MI}Украшенный{.aj} {.MI}европейский{.aj} {.MI}кинжал{.nn}"/>
+    <string id="lt_fine_dagger" text="{.MI}Изящный{.aj} {.MI}кинжал{.nn}"/>
+    <string id="lt_fur_mantle1" text="{.FI}Меховой{.aj} {.FI}накидка{.nn}"/>
+    <string id="lt_fur_mantle2" text="{.FI}Меховой{.aj} {.FI}накидка{.nn}"/>
+    <string id="lt_fur_mantle3" text="{.FI}Меховой{.aj} {.FI}накидка{.nn}"/>
+    <string id="lt_fur_mantle4" text="{.FI}Меховой{.aj} {.FI}накидка{.nn}"/>
+    <string id="lt_fur_mantle_baltic1" text="{.FI}Балтский{.aj} {.FI}меховой{.aj} {.FI}накидка{.nn}"/>
+    <string id="lt_fur_mantle_baltic2" text="{.FI}Балтский{.aj} {.FI}меховой{.aj} {.FI}накидка{.nn}"/>
+    <string id="lt_fur_mantle_baltic3" text="{.FI}Балтский{.aj} {.FI}меховой{.aj} {.FI}накидка{.nn}"/>
+    <string id="lt_fur_mantle_baltic4" text="{.FI}Балтский{.aj} {.FI}меховой{.aj} {.FI}накидка{.nn}"/>
+    <string id="lt_fur_mantle_with_mail_baltic1" text="{.FI}Балтский{.aj} {.FI}меховой{.aj} {.FI}накидка{.nn} с кольчугой"/>
+    <string id="lt_fur_mantle_with_mail_baltic2" text="{.FI}Балтский{.aj} {.FI}меховой{.aj} {.FI}накидка{.nn} с кольчугой"/>
+    <string id="lt_fur_mantle_with_mail_baltic3" text="{.FI}Балтский{.aj} {.FI}меховой{.aj} {.FI}накидка{.nn} с кольчугой"/>
+    <string id="lt_fur_mantle_with_mail_baltic4" text="{.FI}Балтский{.aj} {.FI}меховой{.aj} {.FI}накидка{.nn} с кольчугой"/>
+    <string id="lt_hook_falchion_1h" text="{.MI}Фальшион{.nn} с крюком"/>
+    <string id="lt_hook_falchion_2h" text="{.MI}Двуручный{.aj} {.MI}фальшион{.nn} с крюком"/>
+    <string id="lt_infantry_pike" text="{.FI}Пехотный{.aj} {.FI}пика{.nn}"/>
+    <string id="lt_maciejowski_chopper_2h_sword" text="{.MI}Тесак{.nn} Мациевского"/>
+    <string id="lt_mongol_fine_saber_1h" text="{.FI}Монгольский{.aj} {.FI}изящный{.aj} {.FI}сабля{.nn}"/>
+    <string id="lt_mongol_lance" text="{.NI}Монгольский{.aj} {.NI}кавалерийский{.aj} {.NI}копье{.nn}"/>
+    <string id="lt_mongol_saber_1h" text="{.FI}Монгольский{.aj} {.FI}сабля{.nn}"/>
+    <string id="lt_morning_star_1h" text="{.MI}Моргенштерн{.nn}"/>
+    <string id="lt_noble_knife" text="{.MI}Нож{.nn} знати"/>
+    <string id="lt_norse_1h_axe" text="{.MI}Скандинавский{.aj} {.MI}топор{.nn}"/>
+    <string id="lt_norse_2h_axe" text="{.MI}Скандинавский{.aj} {.MI}двуручный{.aj} {.MI}топор{.nn}"/>
+    <string id="lt_norse_spear" text="{.NI}Скандинавское{.aj} {.NI}копье{.nn}"/>
+    <string id="lt_norse_type_m_1h_sword" text="{.MI}Скандинавский{.aj} {.MI}меч{.nn} [Тип М]"/>
+    <string id="lt_norse_type_q_1h_sword" text="{.MI}Скандинавский{.aj} {.MI}меч{.nn} [Тип Q]"/>
+    <string id="lt_norse_type_x_1h_sword" text="{.MI}Скандинавский{.aj} {.MI}меч{.nn} [Тип X]"/>
+    <string id="lt_oeselian_1h_sword" text="{.MI}Эзельский{.aj} {.MI}меч{.nn}"/>
+    <string id="lt_piercing_dagger" text="{.MI}Пронзающий{.aj} {.MI}кинжал{.nn}"/>
+    <string id="lt_pointed_falchion_1h" text="{.MI}Заостренный{.aj} {.MI}фальшион{.nn}"/>
+    <string id="lt_polish_bulawa_1h" text="{.FI}Польский{.nn} {.FI}булава{.nn}"/>
+    <string id="lt_polish_kalich_1h" text="{.MI}Польский{.nn} {.MI}пернач{.nn}"/>
+    <string id="lt_sickle" text="{.MI}Серп"/>
+    <string id="lt_simple_knife" text="{.MI}Простой{.aj} {.MI}нож{.nn}"/>
+    <string id="lt_squire_dagger" text="{.MI}Кинжал{.nn} оруженосца"/>
+    <string id="lt_tavastian_1h_sword" text="{.MI}Тавастийский{.aj} {.MI}меч{.nn}"/>
+    <string id="lt_thich_falchion_1h" text="{.MI}Толстый{.aj} {.MI}фальшион{.nn}"/>
+    <string id="lt_throwing_spear" text="{.NI}Метательный{.aj} {.NI}копье{.nn}"/>
+    <string id="lt_woodsman_2h_axe" text="{.MI}Топор{.nn} дровосека"/>
+
+    <string id="lt_western_1h_axe" text="{.MI}Западный{.aj} {.MI}топор{.nn}"/>
+    <string id="lt_western_2h_axe" text="{.MI}Западный{.aj} {.MI}двуручный{.aj} {.MI}топор{.nn}"/>
+    <string id="lt_western_2h_sword" text="{.MI}Западный{.aj} {.MI}двуручный{.aj} {.MI}меч{.nn}"/>
+    <string id="lt_western_bastard_2h_sword" text="{.MI}Западный{.aj} {.MI}меч{.nn}-бастард"/>
+    <string id="lt_western_bilhook_2h" text="{.MI}Западный{.aj} {.MI}билль{.nn}"/>
+    <string id="lt_western_dagger" text="{.MI}Западный{.aj} {.MI}кинжал{.nn}"/>
+    <string id="lt_western_lance" text="{.NI}Западный{.aj} {.NI}кавалерийский{.aj} {.NI}копье{.nn}"/>
+    <string id="lt_western_mace_1h" text="{.FI}Западный{.aj} {.FI}булава{.nn}"/>
+    <string id="lt_western_mace_2h" text="{.FI}Западный{.aj} {.FI}двуручный{.aj} {.FI}булава{.nn}"/>
+    <string id="lt_western_messer_1h" text="{.MI}Западный{.aj} {.MI}мессер{.nn}"/>
+    <string id="lt_western_noble_1h_sword" text="{.MI}Западный{.aj} {.MI}меч{.nn} знати"/>
+    <string id="lt_western_spear" text="{.NI}Западный{.aj} {.NI}копье{.nn}"/>
+    <string id="lt_western_type_x_1h_sword" text="{.MI}Западный{.aj} {.MI}меч{.nn} [Тип X]"/>
+    <string id="lt_western_type_xa_1h_sword" text="{.MI}Западный{.aj} {.MI}меч{.nn} [Тип ХА]"/>
+    <string id="lt_western_type_xi_1h_sword" text="{.MI}Западный{.aj} {.MI}меч{.nn} [Тип XI]"/>
+    <string id="lt_western_type_xii_1h_sword" text="{.MI}Западный{.aj} {.MI}меч{.nn} [Тип XII]"/>
+    <string id="lt_western_type_xiii_1h_sword" text="{.MI}Западный{.aj} {.MI}меч{.nn} [Тип XIII]"/>
+    <string id="lt_western_type_xiiib_1h_sword" text="{.MI}Западный{.aj} {.MI}меч{.nn} [Тип XIIIB]"/>
+    <string id="lt_western_type_xii_ouse_1h_sword" text="{.MI}Западный{.aj} {.MI}меч{.nn} из Уз [Тип XII]"/>
+    <string id="lt_western_type_xi_stmaurice_1h_sword" text="{.MI}Западный{.aj} {.MI}меч{.nn} Святого Маврикия [Тип XI-XII]"/>
+    <string id="lt_western_type_xiv_1h_sword" text="{.MI}Западный{.aj} {.MI}меч{.nn} [Тип XIV]"/>
+
+    <string id="lt_bandit_bag" text="{.MI}Мешок{.nn} грабителя"/>
+    <string id="200_pound_noble_war_longbow" text="{.MI}200-фунтовый{.aj} {.MI}боевой{.aj} {.MI}длинный{.aj} {.MI}лук{.nn} знати"/>
+
+    <string id="lt_cav_boots_spurs1" text="{.MI}Кожаный{.ajp} {.MI}кавалерийский{.ajp} {.MI}сапоги{.nnp} со шпорами"/>
+    <string id="lt_cav_boots_spurs2" text="{.MI}Кожаный{.ajp} {.MI}кавалерийский{.ajp} {.MI}сапоги{.nnp} со шпорами"/>
+    <string id="lt_cloak1_teuton1" text="{.MI}Тевтонский{.aj} {.MI}плащ{.nn}"/>
+    <string id="lt_cloak1_teuton2" text="{.MI}Тевтонский{.aj} {.MI}плащ{.nn}"/>
+    <string id="lt_cloak1_teuton3" text="{.MI}Тевтонский{.aj} {.MI}плащ{.nn}"/>
+    <string id="lt_coat_of_plates_piast" text="{.FI}Бригантина{.nn} Пястов"/>
+    <string id="lt_coat_of_plates_pomerania" text="{.FI}Бригантина{.nn} Грифичей"/>
+    <string id="lt_horse_harness_half_mail_piast" text="{.MI}Полукольчужный{.aj} {.MI}бард{.nn} Пястов"/>
+    <string id="lt_horse_harness_half_mail_pomerania" text="{.MI}Полукольчужный{.aj} {.MI}бард{.nn} Грифичей"/>
+    <string id="lt_monk_robe1" text="{.FI}Ряса{.nn}"/>
+    <string id="lt_monk_robe2" text="{.FI}Ряса{.nn}"/>
+    <string id="lt_monk_robe3" text="{.FI}Ряса{.nn}"/>
+    <string id="lt_judenhut" text="{.FI}Еврейский{.aj} {.FI}шапка{.nn}"/>
+
+    <string id="lt_ingot1" text="{.MI}Слиток"/>
+    <string id="lt_ingot_brass" text="{.MI}Латунный{.aj} {.MI}слиток{.nn}"/>
+    <string id="lt_ingot_bronze" text="{.MI}Бронзовый{.aj} {.MI}слиток{.nn}"/>
+    <string id="lt_ingot_copper" text="{.MI}Медный{.aj} {.MI}слиток{.nn}"/>
+    <string id="lt_ingot_gold" text="{.MI}Золотой{.aj} {.MI}слиток{.nn}"/>
+    <string id="lt_ingot_silver" text="{.MI}Серебрянный{.aj} {.MI}слиток{.nn}"/>
+
+    <string id="lt_cross1" text="{.MI}Крест"/>
+
+    <string id="lt_cross_copper.name" text="{.MI}Крестик{.nn} - Медь"/>
+    <string id="lt_cross_steel.name" text="{.MI}Крестик{.nn} - Сталь"/>
+    <string id="lt_cross_wood.name" text="{.MI}Крестик{.nn} - Дерево"/>
+    <string id="lt_cross_dark_steel.name" text="{.MI}Крестик{.nn} - Темная сталь"/>
+
+    <string id="lt_catholic_cross_bronze" text="{.MI}Католический{.aj} {.MI}крест{.nn} - Бронза"/>
+    <string id="lt_catholic_cross_gold" text="{.MI}Католический{.aj} {.MI}крест{.nn} - Золото"/>
+    <string id="lt_catholic_cross_iron" text="{.MI}Католический{.aj} {.MI}крест{.nn} - Железо"/>
+    <string id="lt_catholic_cross_silver" text="{.MI}Католический{.aj} {.MI}крест{.nn} - Серебро"/>
+
+    <string id="lt_orthodox_cross_bronze" text="{.MI}Православный{.aj} {.MI}крест{.nn} - Бронза"/>
+    <string id="lt_orthodox_cross_gold" text="{.MI}Православный{.aj} {.MI}крест{.nn} - Золото"/>
+    <string id="lt_orthodox_cross_iron" text="{.MI}Православный{.aj} {.MI}крест{.nn} - Железо"/>
+    <string id="lt_orthodox_cross_silver" text="{.MI}Православный{.aj} {.MI}крест{.nn} - Серебро"/>
+
+    <string id="lt_menorah1" text="{.FI}Менора"/>
+    <string id="lt_menorah_bronze" text="{.FI}Менора{.nn} - Бронза"/>
+    <string id="lt_menorah_gold" text="{.FI}Менора{.nn} - Золото"/>
+    <string id="lt_menorah_iron" text="{.FI}Менора{.nn} - Железо"/>
+    <string id="lt_menorah_silver" text="{.FI}Менора{.nn} - Серебро"/>
+
+    <string id="lt_animal" text="{.NA}Животное"/>
+    <string id="lt_amber" text="{.MI}Янтарь"/>
+    <string id="lt_amber1" text="{.MI}Янтарь"/>
+    <string id="lt_honey" text="{.MI}Мед"/>
+    <string id="lt_honey1" text="{.MI}Мед"/>
+    <string id="lt_mead" text="{.FI}Медовуха"/>
+    <string id="lt_mead1" text="{.FI}Медовуха"/>
+    <string id="lt_wax" text="{.MI}Воск"/>
+    <string id="lt_wax1" text="{.MI}Воск"/>
+    <string id="lt_sable_pelts" text="{.FI}соболинный{.ajp} {.FI}шкура{.nnp}"/>
+    <string id="lt_sable_pelts1" text="{.FI}соболинный{.ajp} {.FI}шкура{.nnp}"/>
+
+    <!-- craftingpieces -->
+
+    <string id="lt_javelin_head_type_1a" text="Наконечник дротика [Тип 1а]"/>
+    <string id="lt_javelin_head_type_1a_rus" text="Наконечник дротика [Тип 1а]"/>
+    <string id="lt_javelin_head_type_1b" text="Наконечник дротика [Тип 1b]"/>
+    <string id="lt_javelin_head_type_2" text="Наконечник дротика [Тип 2]"/>
+    <string id="lt_javelin_head_type_3" text="Наконечник дротика [Тип 3]"/>
+
+    <string id="lt_spear_head_type_3_baltic" text="Балтский наконечник копья [Тип 3 IX-XIII]"/>
+    <string id="lt_spear_head_type_3_rus" text="Русский наконечник копья [Тип 3 IX-XIII]"/>
+    <string id="lt_spear_head_type_4_baltic" text="Балтский наконечник копья [Тип 4 XII-XIII]"/>
+    <string id="lt_spear_head_type_4_rus" text="Русский наконечник копья [Тип 4 XII-XIII]"/>
+    <string id="lt_spear_head_type_5_baltic" text="Балтский наконечник копья [Тип 5 XII-XIII]"/>
+    <string id="lt_spear_head_type_5_rus" text="Русский наконечник копья [Тип 5 XII-XIII]"/>
+    <string id="lt_spear_head_type_7_baltic" text="Балтский наконечник копья [Тип 7 XII-XIII]"/>
+    <string id="lt_spear_head_type_7_rus" text="Русский наконечник копья [Тип 7 XII-XIII]"/>
+
+    <string id="lt_rogatina_hardened_ash_shaft" text="Древко рогатины из морёного ясеня"/>
+
+    <string id="lt_mace_head_27" text="Навершие дубины"/>
+    <string id="lt_mace_head_28" text="Навершие дубины"/>
+    <string id="lt_mace_head_29" text="Навершие дубины"/>
+  </strings>
+</base>

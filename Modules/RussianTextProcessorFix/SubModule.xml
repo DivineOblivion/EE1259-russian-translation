@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Module>
+  <Name value="RussianTextProcessorFix" />
+  <Id value="RussianTextProcessorFix" />
+  <Version value="v1.0.0" />
+  <SingleplayerModule value="true" />
+  <MultiplayerModule value="false" />
+
+  <DependedModules>
+    <DependedModule Id="Native" />
+    <DependedModule Id="SandBoxCore" />
+    <DependedModule Id="Sandbox" />
+    <DependedModule Id="StoryMode" />
+    <DependedModule Id="Bannerlord.Harmony" />
+  </DependedModules>
+
+  <DependedModuleMetadatas>
+    <DependedModuleMetadata Id="Bannerlord.Harmony" order="LoadBeforeThis" />
+    <DependedModuleMetadata Id="Native" order="LoadBeforeThis" />
+    <DependedModuleMetadata Id="SandBoxCore" order="LoadBeforeThis" />
+    <DependedModuleMetadata Id="Sandbox" order="LoadBeforeThis" />
+    <DependedModuleMetadata Id="StoryMode" order="LoadBeforeThis" />
+  </DependedModuleMetadatas>
+
+  <SubModules>
+    <SubModule>
+      <Name value="RussianTextProcessorFix" />
+      <DLLName value="RussianTextProcessorFix.dll" />
+      <SubModuleClassType value="RussianTextProcessorFix.SubModule" />
+      <Tags>
+        <Tag key="DedicatedServerType" value="none" />
+        <Tag key="IsNoRenderModeElement" value="false" />
+      </Tags>
+    </SubModule>
+  </SubModules>
+</Module>

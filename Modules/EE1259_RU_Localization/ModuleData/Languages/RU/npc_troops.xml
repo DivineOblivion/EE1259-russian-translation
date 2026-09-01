@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Русский" />
+  </tags>
+  <strings>
+
+    <!--
+
+        ███    ██ ██████   ██████     ████████ ██████   ██████   ██████  ██████  ███████ 
+        ████   ██ ██   ██ ██             ██    ██   ██ ██    ██ ██    ██ ██   ██ ██      
+        ██ ██  ██ ██████  ██             ██    ██████  ██    ██ ██    ██ ██████  ███████ 
+        ██  ██ ██ ██      ██             ██    ██   ██ ██    ██ ██    ██ ██           ██ 
+        ██   ████ ██       ██████        ██    ██   ██  ██████   ██████  ██      ███████ 
+
+    -->
+
+    <string id="balt_0" text="Балтский крестьянин «Laukininkas»"/>
+    <string id="balt_1" text="Балтский призывник «Pašauktinis»"/>
+    <string id="balt_1f" text="Балтский рыбак «Zvejys»"/>
+    <string id="balt_2" text="Балтский пеший воин «Pėstininkas»"/>
+    <string id="balt_3" text="Балтский застрельщик «Akstininkas»"/>
+    <string id="balt_4" text="Балтский стрелок «Šaulys»"/>
+    <string id="balt_5" text="Балтский копейщик «Ietininkas»"/>
+    <string id="balt_6" text="Балтский воин с топором «Kirvininkas»"/>
+    <string id="balt_7" text="Балтский лучник «Lankininkas»"/>
+    <string id="balt_8" text="Балтский лучник (вет.) «Lankų Viršaitis»"/>
+    <string id="balt_9" text="Балтский конный застрельщик «Raitas Akstininkas»"/>
+    <string id="balt_10" text="Балтский конный застрельщик (вет.)"/>
+    <string id="balt_11" text="Балтский элитный конный застрельщик «Leitis»"/>
+    <string id="balt_12" text="Балтский строевой пеший воин «Karys»"/>
+    <string id="balt_13" text="Балтский копейщик (вет.) «Iečių Žygūnas»"/>
+    <string id="balt_14" text="Балтский элитный копейщик «Iečių Viršaitis»"/>
+    <string id="balt_15" text="Балтский воин с топором (вет.) «Kirvių Žygūnas»"/>
+    <string id="balt_16" text="Балтский мечник (вет.) «Kardų Žygūnas»"/>
+    <string id="balt_17" text="Балтский молодой дворянин «Jaunas Rikis»"/>
+    <string id="balt_18" text="Балтский знатный всадник «Vytis»"/>
+    <string id="balt_19" text="Балтский обученный дворянин «Didžiūnas»"/>
+    <string id="balt_20" text="Балтский дворянин (вет.) «Rikis»"/>
+    <string id="balt_21" text="Балтский командир «Šimtininkas»"/>
+    <string id="balt_22" text="Куршский воин с топором"/>
+    <string id="balt_23" text="Куршский воин с топором (вет.)"/>
+    <string id="balt_24" text="Куршский элитный воин с топором"/>
+    <string id="baltic_caravan_master" text="Балтский хозяин каравана"/>
+    <string id="baltic_armed_trader" text="Балтский вооруженный торговец"/>
+    <string id="baltic_caravan_guard" text="Балтский охранник каравана"/>
+    <string id="baltic_veteran_caravan_guard" text="Балтский охранник каравана (вет.)"/>
+
+    <string id="crusader_0" text="Крестоносный крестьянин «Bauer»"/>
+    <string id="crusader_1" text="Крестоносный призывник «Aufgebot»"/>
+    <string id="crusader_1f" text="Немецкий рыбак"/>
+    <string id="crusader_2" text="Крестоносный паломник «Kreuzpilger»"/>
+    <string id="crusader_3" text="Крестоносный воин"/>
+    <string id="crusader_4" text="Крестоносный стрелок"/>
+    <string id="crusader_5" text="Крестоносный ополченец-арбалетчик"/>
+    <string id="crusader_6" text="Крестоносный копейщик"/>
+    <string id="crusader_7" text="Крестоносный воин с топором"/>
+    <string id="crusader_8" text="Крестоносный конный застрельщик «Turkopolen»"/>
+    <string id="crusader_9" text="Крестоносный легкий всадник «Knecht»"/>
+    <string id="crusader_10" text="Крестоносный легкий всадник (полубрат)"/>
+    <string id="crusader_11" text="Крестоносный конный сержант"/>
+    <string id="crusader_12" text="Крестоносный арбалетчик «Armbrustschütze»"/>
+    <string id="crusader_13" text="Крестоносный арбалетчик (полубрат)"/>
+    <string id="crusader_14" text="Крестоносный арбалетчик (брат-сариант)"/>
+    <string id="crusader_15" text="Крестоносный строевой пеший воин"/>
+    <string id="crusader_16" text="Крестоносный мечник (полубрат)"/>
+    <string id="crusader_17" text="Крестоносный сержант «Dienende Bruder»"/>
+    <string id="crusader_18" text="Крестоносный воин с гвизармой (полубрат)"/>
+    <string id="crusader_19" text="Крестоносный вульжер «Hellebardier»"/>
+    <string id="crusader_20" text="Крестоносный горожанин с топором"/>
+    <string id="crusader_21" text="Крестоносный горожанин-копейщик"/>
+    <string id="crusader_22" text="Крестоносный оруженосец «Reiseknappe»"/>
+    <string id="crusader_23" text="Крестоносный младший светский рыцарь «Platendienst»"/>
+    <string id="crusader_24" text="Крестоносный светский рыцарь «Mitbruder Rossdienst»"/>
+    <string id="crusader_25" text="Крестоносный рыцарь (брат) «Ritterbruder»"/>
+    <string id="crusader_26" text="Крестоносный командир «Komtur»"/>
+    <string id="crusader_caravan_master" text="Крестоносный хозяин каравана"/>
+    <string id="crusader_armed_trader" text="Крестоносный вооруженный торговец"/>
+    <string id="crusader_caravan_guard" text="Крестоносный охранник каравана"/>
+    <string id="crusader_veteran_caravan_guard" text="Крестоносный охранник каравана (вет.)"/>
+
+    <string id="danish_0.name" text="Датский крестьянин «Bonde»"/>
+    <string id="danish_1.name" text="Датский ополченец-арбалетчик"/>
+    <string id="danish_1f" text="Датский рыбак"/>
+    <string id="danish_2.name" text="Датский арбалетчик «Armbrøstskytte»"/>
+    <string id="danish_3.name" text="Датский бронированный арбалетчик"/>
+    <string id="danish_4.name" text="Датский гребец «Roer»"/>
+    <string id="danish_5.name" text="Датский рулевой «Styræsmand»"/>
+    <string id="danish_6.name" text="Датский мечник «Sværdmand»"/>
+    <string id="danish_7.name" text="Датский сержант «Hirdmand»"/>
+    <string id="danish_8.name" text="Датский воин с топором «Øksemand»"/>
+    <string id="danish_9.name" text="Датский оруженосец «Væbner»"/>
+    <string id="danish_10.name" text="Датский младший рыцарь «Knægt»"/>
+    <string id="danish_11.name" text="Датский рыцарь «Ridder»"/>
+    <string id="danish_12.name" text="Датский вельможа «Herremand»"/>
+    <string id="danish_13.name" text="Датский капитан «Høvedsmand»"/>
+    <string id="danish_14.name" text="Датский ополченец"/>
+    <string id="danish_caravan_master" text="Датский хозяин каравана"/>
+    <string id="danish_armed_trader" text="Датский вооруженный торговец"/>
+    <string id="danish_caravan_guard" text="Датский охранник каравана"/>
+    <string id="danish_veteran_caravan_guard" text="Датский охранник каравана (вет.)"/>
+
+    <string id="villager_estonian" text="Эстонский крестьянин «Talupoeg»"/>
+    <string id="estonian_1.name" text="Эстонский ополченец"/>
+    <string id="estonian_1f" text="Эстонский рыбак"/>
+    <string id="estonian_2.name" text="Эстонский воин «Võitleja»"/>
+    <string id="estonian_3.name" text="Эстонский копейщик «Odamees»"/>
+    <string id="estonian_4.name" text="Эстонский воин с топором «Kirvemees»"/>
+    <string id="estonian_5.name" text="Эстонский конный застрельщик"/>
+    <string id="estonian_6.name" text="Эстонский стрелок «Vibumees»"/>
+    <string id="estonian_7.name" text="Эстонский охотник «Kütt»"/>
+    <string id="estonian_8.name" text="Эстонский строевой воин «Sõdur»"/>
+    <string id="estonian_9.name" text="Эстонский копейщик (вет.) «Vanem Odamees»"/>
+    <string id="estonian_10.name" text="Эстонский элитный копейщик"/>
+    <string id="estonian_11.name" text="Эстонский воин с топором (вет.) «Vanem Kirvemees»"/>
+    <string id="estonian_12.name" text="Эстонский мечник (вет.) «Mõõgamees»"/>
+    <string id="estonian_13.name" text="Эстонский строевой конный застрельщик"/>
+    <string id="estonian_14.name" text="Эстонский конный застрельщик (вет.)"/>
+    <string id="estonian_15.name" text="Эстонский элитный конный застрельщик"/>
+    <string id="estonian_16.name" text="Эстонский лучник (вет.) «Vanem Vibumees»"/>
+    <string id="estonian_17.name" text="Эстонский молодой дворянин «Noor Ülik»"/>
+    <string id="estonian_18.name" text="Эстонский знатный всадник"/>
+    <string id="estonian_19.name" text="Эстонский обученный дворянин"/>
+    <string id="estonian_20.name" text="Эстонский дворянин (вет.) «Vanem»"/>
+    <string id="estonian_21.name" text="Эстонский командир"/>
+    <string id="estonian_caravan_master" text="Эстонский хозяин каравана"/>
+    <string id="estonian_armed_trader" text="Эстонский вооруженный торговец"/>
+    <string id="estonian_caravan_guard" text="Эстонский охранник каравана"/>
+    <string id="estonian_veteran_caravan_guard" text="Эстонский охранник каравана (вет.)"/>
+
+    <string id="german_9" text="Немецкий легкий всадник"/>
+    <string id="german_10" text="Немецкий обученный легкий всадник"/>
+    <string id="german_11" text="Немецкий конный сержант"/>
+    <string id="german_12" text="Немецкий арбалетчик «Armbrustschütze»"/>
+    <string id="german_13" text="Немецкий обученный арбалетчик"/>
+    <string id="german_14" text="Немецкий арбалетчик (вет.)"/>
+    <string id="german_15" text="Немецкий строевой пеший воин"/>
+    <string id="german_16" text="Немецкий мечник"/>
+    <string id="german_17" text="Немецкий сержант"/>
+    <string id="german_18" text="Немецкий воин с гвизармой"/>
+    <string id="german_19" text="Немецкий вульжер «Hellebardier»"/>
+    <string id="german_20" text="Немецкий горожанин с топором"/>
+    <string id="german_21" text="Немецкий горожанин-копейщик"/>
+    <string id="german_22" text="Немецкий оруженосец «Reiseknappe»"/>
+    <string id="german_23" text="Немецкий младший светский рыцарь"/>
+    <string id="german_24" text="Немецкий светский рыцарь"/>
+    <string id="german_25" text="Немецкий рыцарь"/>
+    <string id="german_26" text="Немецкий командир"/>
+
+    <string id="villager_mongol" text="Монгольский крестьянин"/>
+    <string id="village_woman_mongol" text="Монгольская крестьянка"/>
+    <string id="mongol_1" text="Монгольский кочевник"/>
+    <string id="mongol_2" text="Монгольский пеший воин"/>
+    <string id="mongol_3" text="Монгольский племенной воин"/>
+    <string id="mongol_4" text="Монгольский сын нойона"/>
+    <string id="mongol_5" text="Монгольский охотник"/>
+    <string id="mongol_6" text="Монгольский воин"/>
+    <string id="mongol_7" text="Монгольский налетчик"/>
+    <string id="mongol_8" text="Монгольский всадник"/>
+    <string id="mongol_9" text="Монгольский канглы"/>
+    <string id="mongol_10" text="Монгольский лучник"/>
+    <string id="mongol_11" text="Монгольский копейщик"/>
+    <string id="mongol_12" text="Монгольский конный лучник"/>
+    <string id="mongol_13" text="Монгольский ланцер"/>
+    <string id="mongol_14" text="Монгольский торгут"/>
+    <string id="mongol_15" text="Монгольский меткий стрелок"/>
+    <string id="mongol_16" text="Монгольский дархан"/>
+    <string id="mongol_17" text="Монгольский тяжелый конный лучник"/>
+    <string id="mongol_18" text="Монгольский тяжелый ланцер"/>
+    <string id="mongol_19" text="Монгольский кешик"/>
+    <string id="mongol_20" text="Монгольский стражник хана"/>
+    <string id="mongol_caravan_master" text="Монгольский хозяин каравана"/>
+    <string id="mongol_armed_trader" text="Монгольский вооруженный торговец"/>
+    <string id="mongol_caravan_guard" text="Монгольский охранник каравана"/>
+    <string id="mongol_veteran_caravan_guard" text="Монгольский охранник каравана (вет.)"/>
+    <string id="mongol_convoy_master" text="Монгольский хозяин конвоя"/>
+    <string id="mongol_armed_convoy_trader" text="Монгольский вооруженный торговец конвоя"/>
+    <string id="mongol_convoy_guard" text="Монгольский охранник конвоя"/>
+    <string id="mongol_veteran_convoy_guard" text="Монгольский охранник конвоя (вет.)"/>
+
+    <string id="polish_0" text="Польский крестьянин «Chłop»"/>
+    <string id="polish_1" text="Польский ополченец"/>
+    <string id="polish_1f" text="Польский рыбак"/>
+    <string id="polish_2" text="Польский паломник «Kreuzpilger»"/>
+    <string id="polish_3" text="Польский воин"/>
+    <string id="polish_4" text="Польский стрелок"/>
+    <string id="polish_5" text="Польский ополченец-арбалетчик «Kusznik»"/>
+    <string id="polish_6" text="Польский копейщик"/>
+    <string id="polish_7" text="Польский воин с топором"/>
+    <string id="polish_8" text="Польский конный застрельщик"/>
+    <string id="polish_9" text="Польский легкий всадник"/>
+    <string id="polish_10" text="Польский обученный легкий всадник"/>
+    <string id="polish_11" text="Польский легкий всадник (вет.)"/>
+    <string id="polish_12" text="Польский арбалетчик"/>
+    <string id="polish_13" text="Польский обученный арбалетчик"/>
+    <string id="polish_14" text="Польский арбалетчик (вет.)"/>
+    <string id="polish_15" text="Польский строевой пеший воин"/>
+    <string id="polish_16" text="Польский мечник"/>
+    <string id="polish_17" text="Польский копейщик (вет.) «Drużyna Piesza»"/>
+    <string id="polish_18" text="Польский воин с гвизармой"/>
+    <string id="polish_19" text="Польский вульжер"/>
+    <string id="polish_20" text="Польский строевой воин с топором"/>
+    <string id="polish_21" text="Польский строевой копейщик"/>
+    <string id="polish_22" text="Польский оруженосец"/>
+    <string id="polish_23" text="Польский младший светский рыцарь"/>
+    <string id="polish_24" text="Польский светский рыцарь"/>
+    <string id="polish_25" text="Польский рыцарь"/>
+    <string id="polish_26" text="Польский командир"/>
+    <string id="polish_caravan_master" text="Польский хозяин каравана"/>
+    <string id="polish_armed_trader" text="Польский вооруженный торговец"/>
+    <string id="polish_caravan_guard" text="Польский охранник каравана"/>
+    <string id="polish_veteran_caravan_guard" text="Польский охранник каравана (вет.)"/>
+
+    <string id="rus_0" text="Русский смерд"/>
+    <string id="rus_1" text="Русский ополченец"/>
+    <string id="rus_1f" text="Русский рыбак"/>
+    <string id="rus_2" text="Русский пешец"/>
+    <string id="rus_3" text="Русский ополченец-лучник"/>
+    <string id="rus_4" text="Русский копейщик"/>
+    <string id="rus_5" text="Русский секирник"/>
+    <string id="rus_6" text="Русский конник"/>
+    <string id="rus_7" text="Русский лучник"/>
+    <string id="rus_8" text="Русский полковой лучник"/>
+    <string id="rus_9" text="Русский полковой пешец"/>
+    <string id="rus_10" text="Русский лучник (вет.)"/>
+    <string id="rus_11" text="Русский полковой копейщик"/>
+    <string id="rus_12" text="Русский полковой мечник"/>
+    <string id="rus_13" text="Русский полковой секирник"/>
+    <string id="rus_14" text="Русский элитный лучник"/>
+    <string id="rus_15" text="Русский мечник (вет.)"/>
+    <string id="rus_16" text="Русский отрок"/>
+    <string id="rus_17" text="Русский гридь"/>
+    <string id="rus_18" text="Русский сын боярина"/>
+    <string id="rus_19" text="Русский боярин"/>
+    <string id="rus_20" text="Русский сотник"/>
+    <string id="rus_21" text="Полковой пешец Дреговичей"/>
+    <string id="rus_22" text="Обученный пешец Дреговичей"/>
+    <string id="rus_23" text="Пешец Дреговичей (вет.)"/>
+    <string id="rus_24" text="Полковой наездник Кривичей"/>
+    <string id="rus_25" text="Обученный наездник Кривичей"/>
+    <string id="rus_26" text="Наездник Кривичей (вет.)"/>
+    <string id="rus_caravan_master" text="Русский хозяин каравана"/>
+    <string id="rus_armed_trader" text="Русский вооруженный торговец"/>
+    <string id="rus_caravan_guard" text="Русский охранник каравана"/>
+    <string id="rus_veteran_caravan_guard" text="Русский охранник каравана (вет.)"/>
+
+    <string id="swedish_0" text="Шведский крестьянин"/>
+    <string id="swedish_1" text="Шведский ополченец"/>
+    <string id="swedish_1f" text="Шведский рыбак"/>
+    <string id="swedish_2" text="Шведский пеший воин"/>
+    <string id="swedish_3" text="Шведский копейщик"/>
+    <string id="swedish_4" text="Шведский воин с топором"/>
+    <string id="swedish_5" text="Шведский ополченец-арбалетчик"/>
+    <string id="swedish_6" text="Шведский стрелок"/>
+    <string id="swedish_7" text="Шведский охотник"/>
+    <string id="swedish_8" text="Шведский арбалетчик"/>
+    <string id="swedish_9" text="Шведский бронированный арбалетчик"/>
+    <string id="swedish_10" text="Шведский воин"/>
+    <string id="swedish_11" text="Шведский мечник"/>
+    <string id="swedish_12" text="Шведский сержант"/>
+    <string id="swedish_13" text="Шведский оруженосец"/>
+    <string id="swedish_14" text="Шведский младший рыцарь"/>
+    <string id="swedish_15" text="Шведский светский рыцарь"/>
+    <string id="swedish_16" text="Шведский рыцарь"/>
+    <string id="swedish_17" text="Шведский капитан"/>
+    <string id="swedish_caravan_master" text="Шведский хозяин каравана"/>
+    <string id="swedish_armed_trader" text="Шведский вооруженный торговец"/>
+    <string id="swedish_caravan_guard" text="Шведский охранник каравана"/>
+    <string id="swedish_veteran_caravan_guard" text="Шведский охранник каравана (вет.)"/>
+
+    <string id="bolotyane_1" text="Болотный бродяга"/>
+    <string id="bolotyane_2" text="Болотный разбойник"/>
+    <string id="bolotyane_3" text="Болотный лиходей"/>
+    <string id="bolotyane_4" text="Болотный головорез"/>
+    <string id="bolotyane_5" text="Болотный разоритель"/>
+    <string id="bolotyane_6" text="Болотный ватажок"/>
+    <string id="bolotyane_hag" text="Болотница"/>
+
+    <string id="lesniki_1" text="Лесной охотник"/>
+    <string id="lesniki_2" text="Лесной шиш"/>
+    <string id="lesniki_3" text="Лесной лесовик"/>
+    <string id="lesniki_4" text="Лесной засадник"/>
+    <string id="lesniki_5" text="Лесной лучник"/>
+    <string id="lesniki_6" text="Лесной лешак"/>
+    <string id="lesniki_female" text="Знахарка"/>
+
+    <string id="volnoye_1" text="Вольник"/>
+    <string id="volnoye_2" text="Конокрад"/>
+    <string id="volnoye_3" text="Налетчик"/>
+    <string id="volnoye_4" text="Хищник"/>
+    <string id="volnoye_5" text="Мародер"/>
+    <string id="volnoye_6" text="Кошевой"/>
+    <string id="volnoye_female" text="Походница"/>
+
+    <string id="Deacon" text="Дьякон"/>
+    <string id="AlkasWarden" text="Хранитель Алкаса"/>
+    <string id="Townswoman" text="Горожанка"/>
+    <string id="camp_whore" text="Лагерная потаскуха"/>
+    <string id="camp_follower" text="Лагерная девка"/>
+
+    <string id="mercenary_1" text="Ланцер Черных клобуков"/>
+    <string id="mercenary_2" text="Конный лучник Черных клобуков"/>
+    <string id="lt_mercenary_3" text="Богемский копейщик"/>
+    <string id="lt_mercenary_4" text="Богемский пехотинец"/>
+    <string id="eastern_mercenary_t5" text="Наемник с булавой (вет.)"/>
+    <string id="western_mercenary" text="Наемный копейщик"/>
+    <string id="western_mercenary_t4" text="Обученный наемный копейщик"/>
+    <string id="western_mercenary_t5" text="Наемный копейщик (вет.)"/>
+    <string id="western_crossbow_t4" text="Наемный арбалетчик"/>
+    <string id="western_crossbow_t5" text="Наемный арбалетчик (вет.)"/>
+
+    <string id="lt_assassin_t4" text="Наемный убийца"/>
+    <string id="lt_assassin_t4b" text="Наемный убийца"/>
+    <string id="lt_assassin_t4c" text="Наемный убийца"/>
+    <string id="lt_assassin_t5" text="Наемный убийца"/>
+    <string id="lt_assassin_t5b" text="Наемный убийца"/>
+    <string id="lt_assassin_t5c" text="Наемный убийца"/>
+    <string id="lt_assassin_t6" text="Наемный убийца"/>
+    <string id="lt_assassin_t6b" text="Наемный убийца"/>
+    <string id="lt_assassin_t6c" text="Наемный убийца"/>
+    <string id="lt_assassin_t7" text="Наемный убийца"/>
+    <string id="lt_assassin_t7b" text="Наемный убийца"/>
+    <string id="lt_assassin_t7c" text="Наемный убийца"/>
+    <string id="lt_local_thug_t1" text="Местный головорез"/>
+
+    <string id="hill_bandit_boss" text="{.MA}Главарь{.nn} горных бандитов"/>
+    <string id="steppe_marauder" text="{.MA}Степной{.aj} {.MA}мародер{.nn}"/>
+    <string id="steppe_raider" text="{.MA}Степной{.aj} {.MA}налётчик{.nn}"/>
+    <string id="desert_bandit_hero" text="{.MA}Герой{.nn} пустынных бандитов"/>
+    <string id="forest_bandit_hero" text="{.MA}Герой{.nn} лесных бандитов"/>
+    <string id="mountain_bandit_hero" text="{.MA}Герой{.nn} горных бандитов"/>
+    <string id="sea_raider_hero" text="{.MA}Герой{.nn} пиратов"/>
+    <string id="steppe_bandit_hero" text="{.MA}Герой{.nn} степных бандитов"/>
+
+    <string id="the_Livonian" text="{.MA}Лив{.nn}"/>
+    <string id="oeselian_leader_template_0" text="{.MA}Эзелец{.nn}"/>
+    <string id="oeselian_leader_template_1" text="{.MA}Эзелец{.nn}"/>
+    <string id="oeselian_leader_template_2" text="{.MA}Эзелец{.nn}"/>
+    <string id="oeselian_leader_template_3" text="{.MA}Эзелец{.nn}"/>
+  </strings>
+</base>

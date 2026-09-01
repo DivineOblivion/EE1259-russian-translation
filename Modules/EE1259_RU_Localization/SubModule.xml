@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Module>
+  <Name value="EE1259 RU Localization" />
+  <Id value="EE1259_RU_Localization" />
+  <Version value="v1.0.0" />
+  <SingleplayerModule value="true" />
+  <MultiplayerModule value="false" />
+
+  <DependedModules>
+    <DependedModule Id="LT_EE1259_Assets" />
+    <DependedModule Id="RussianTextProcessorFix" />
+  </DependedModules>
+
+  <DependedModuleMetadatas>
+    <DependedModuleMetadata Id="LT_EE1259_Assets" order="LoadBeforeThis" />
+  </DependedModuleMetadatas>
+
+  <SubModules />
+</Module>

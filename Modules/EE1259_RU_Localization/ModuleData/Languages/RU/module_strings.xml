@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Русский" />
+  </tags>
+  <strings>
+
+    <!--
+
+        ███    ███  ██████  ██████  ██    ██ ██      ███████     ███████ ████████ ██████  ██ ███    ██  ██████  ███████ 
+        ████  ████ ██    ██ ██   ██ ██    ██ ██      ██          ██         ██    ██   ██ ██ ████   ██ ██       ██      
+        ██ ████ ██ ██    ██ ██   ██ ██    ██ ██      █████       ███████    ██    ██████  ██ ██ ██  ██ ██   ███ ███████ 
+        ██  ██  ██ ██    ██ ██   ██ ██    ██ ██      ██               ██    ██    ██   ██ ██ ██  ██ ██ ██    ██      ██ 
+        ██      ██  ██████  ██████   ██████  ███████ ███████     ███████    ██    ██   ██ ██ ██   ████  ██████  ███████ 
+
+    -->
+
+    <string id="balts" text="{.MA}Балт{.nnp}"/>
+
+    <string id="baltic_old_lt" text="{.MA}Балт{.nnp}"/>
+    <string id="baltic_old_lt_desc" text="Балты, живущие вдоль юго-восточного побережья Балтийского моря, имеют свои собственные языки, самобытные культурные обычаи и языческие верования. Они делятся на племена, каждое из которых возглавляет свой вождь. Сохраняя независимость, эти племена объединены общей культурой и религией."/>
+
+    <string id="baltic_old_lv" text="{.MA}Латыш{.nnp}"/>
+    <string id="baltic_old_lv_desc" text="Балты, живущие вдоль юго-восточного побережья Балтийского моря, имеют свои собственные языки, самобытные культурные обычаи и языческие верования. Они делятся на племена, каждое из которых возглавляет свой вождь. Сохраняя независимость, эти племена объединены общей культурой и религией."/>
+
+    <string id="balticdescription" text="Балты, живущие вдоль юго-восточного побережья Балтийского моря, имеют свои собственные языки, самобытные культурные обычаи и языческие верования. Они делятся на племена, каждое из которых возглавляет свой вождь. Сохраняя независимость, эти племена объединены общей культурой и религией."/>
+    <string id="balticfactionadjective" text="балтский"/>
+    <string id="balticcultureadjective" text="балтский"/>
+    <string id="balticfactionshortterm" text="{.MA}Балт{.nnp}"/>
+    <string id="balticcultureneutralterm" text="{.MA}Балт{.nnp}"/>
+    <string id="balticfactionformalname" text="{.MA}Балт{.nnp}"/>
+    <string id="balticfactioninformalname" text="{.MA}Балт{.nnp}"/>
+    <string id="balticmembers" text="{.MA}Балт{.nnp}"/>
+    <string id="balticfather" text="{.MA}Вайтас"/>
+    <string id="balticmother" text="{.FA}Лайма"/>
+    <string id="balticofficial" text="{.MA}вождь"/>
+    <string id="balticofficialf" text="{.FA}госпожа"/>
+    <string id="balticruler" text="{.MA}Верховный{.aj} {.MA}вождь{.nn}"/>
+    <string id="balticrulerf" text="{.FA}Вождь"/>
+    <string id="balticnobletitsle" text="{?RULER.GENDER}{.MA}Вождь{.nn}{?}{.MA}Вождь{.nn}{\?} {RULER.NAME}{.nn}"/>
+    <string id="balticnobletitle" text="{?RULER.GENDER}{.MA}Вождь{.nn}{?}{.MA}Вождь{.nn}{\?} {RULER.NAME}{.nn}"/>
+    <string id="balticrulertitle" text="{?RULER.GENDER}{.MA}Вождь{.nn}{?}{.MA}Верховный{.aj} {.MA}вождь{.nn}{\?} {RULER.NAME}{.nn}"/>
+    <string id="balticrulerterm" text="{RULER.NAME}{.nn} {?RULER.GENDER}{.MA}Вождь{.nn}{?}{.MA}Верховный{.aj} {.MA}вождь{.nn}{\?}"/>
+    <string id="str_liege_title.baltic" text="{.MA}Великий{.aj} {.MA}князь{.nn}"/>
+    <string id="str_liege_title_female.baltic" text="{.FA}Великий{.aj} {.FA}княгиня{.nn}"/>
+
+    <string id="rus" text="{.MA}Рус{.nnp}"/>
+    <string id="rus_desc" text="Культура Руси, занимавшая видное место в Восточной Европе, сочетает славянские традиции с влиянием на них соседних регионов. Она охватывает такие города-государства, как Киев, Новгород и Владимир, каждым из которых правит князь. Общество имеет строгую иерархию: князья, знать, свободные крестьяне и слуги. После крещения Руси князем Владимиром в 988 году преобладающей религией стало восточное православие, тесно связавшее русскую культуру с Византией и противопоставившее её западному католицизму и балтийским языческим обычаям."/>
+    <string id="rusdescription" text="Культура Руси, занимавшая видное место в Восточной Европе, сочетает славянские традиции с влиянием на них соседних регионов. Она охватывает такие города-государства, как Киев, Новгород и Владимир, каждым из которых правит князь. Общество имеет строгую иерархию: князья, знать, свободные крестьяне и слуги. После крещения Руси князем Владимиром в 988 году преобладающей религией стало восточное православие, тесно связавшее русскую культуру с Византией и противопоставившее её западному католицизму и балтийским языческим обычаям."/>
+    <string id="rusfactionadjective" text="русский"/>
+    <string id="ruscultureadjective" text="русский"/>
+    <string id="ruscultureneutralterm" text="{.MA}Рус{.nnp}"/>
+    <string id="rusfactionformalname" text="{.MA}Рус{.nnp}"/>
+    <string id="rusfactioninformalname" text="{.MA}Рус{.nnp}"/>
+    <string id="rusfactionshortterm" text="{.MA}Рус{.nnp}"/>
+    <string id="rusmembers" text="{.MA}Рус{.nnp}"/>
+    <string id="rusfather" text="{.MA}Иван"/>
+    <string id="rusmother" text="{.FA}Марина"/>
+    <string id="rusofficial" text="{.MA}князь"/>
+    <string id="rusofficialf" text="{.FA}княгиня"/>
+    <string id="rusruler" text="{.MA}великий{.aj} {.MA}князь{.nn}"/>
+    <string id="rusrulerf" text="{.FA}великий{.aj} {.FA}княгиня{.nn}"/>
+    <string id="rusnobletitle" text="{?RULER.GENDER}{?}{\?}{RULER.NAME}{.nn}"/>
+    <string id="rusrulertitle" text="{?RULER.GENDER}{?}{\?}{RULER.NAME}{.nn}"/>
+    <string id="rusrulerterm" text="{RULER.NAME}{.nn} {?RULER.GENDER}{.FA}Великий{.aj} {.FA}княгиня{.nn}{?}{.MA}Великий{.aj} {.MA}князь{.nn}{\?}"/>
+    <string id="str_liege_title.rus" text="{.MA}Великий{.aj} {.MA}князь{.nn}"/>
+    <string id="str_liege_title_female.rus" text="{.FA}Великий{.aj} {.FA}княгиня{.nn}"/>
+
+    <string id="crusaders" text="{.MA}Крестоносец{.nnp}"/>
+    <string id="northern_crusaders" text="{.MA}Немец{.nnp}"/>
+    <string id="northern_crusaders_desc" text="Немецкая культура XIII века в контексте Северных крестовых походов была отмечена сочетанием религиозного фанатизма с идеалами рыцарства (Ritterschaft), воплощёнными в знати, представители которой соединяли христианское благочестие с воинским мастерством, следуя при этом рыцарскому кодексу и поддерживая при своих дворах традиции миннезанга. В этот период немецкие военные и религиозные обычаи, архитектура и принципы организации городов распространялись на прибалтийские земли через Тевтонский орден, члены которого — нередко происходившие из сословия министериалов — сформировали своеобразное сочетание монашеской дисциплины и воинского духа."/>
+    <string id="crusaderdescription" text="Немецкая культура XIII века в контексте Северных крестовых походов была отмечена сочетанием религиозного фанатизма с идеалами рыцарства (Ritterschaft), воплощёнными в знати, представители которой соединяли христианское благочестие с воинским мастерством, следуя при этом рыцарскому кодексу и поддерживая при своих дворах традиции миннезанга. В этот период немецкие военные и религиозные обычаи, архитектура и принципы организации городов распространялись на прибалтийские земли через Тевтонский орден, члены которого — нередко происходившие из сословия министериалов — сформировали своеобразное сочетание монашеской дисциплины и воинского духа."/>
+    <string id="crusaderfactionadjective" text="крестоносный"/>
+    <string id="crusadercultureadjective" text="крестоносный"/>
+    <string id="crusaderfactionshortterm" text="{.MA}Северный{.ajp} {.MA}крестоносец{.nnp}"/>
+    <string id="crusaderfactionformalname" text="{.MA}Северный{.ajp} {.MA}крестоносец{.nnp}"/>
+    <string id="crusaderfactioninformalname" text="{.MA}Северный{.ajp} {.MA}крестоносец{.nnp}"/>
+    <string id="crusadercultureneutralterm" text="{.MA}Северный{.ajp} {.MA}крестоносец{.nnp}"/>
+    <string id="crusadermembers" text="{.MA}Немец{.nnp}"/>
+    <string id="crusaderfather" text="{.MA}Карл"/>
+    <string id="crusadermother" text="{.FA}Адель"/>
+    <string id="crusaderofficial" text="{.MA}брат"/>
+    <string id="crusaderofficialf" text="{.FA}монахиня"/>
+    <string id="crusaderruler" text="{.MA}Магистр"/>
+    <string id="crusaderrulerf" text="{.MA}Магистр"/>
+    <string id="crusadernobletitle" text="{?RULER.GENDER}{.MA}Брат{.nn}{?}{.MA}Брат{.nn}{\?} {RULER.NAME}{.nn}"/>
+    <string id="crusaderrulertitle" text="{?RULER.GENDER}{.MA}Великий{.aj} {.MA}магистр{.nn}{?}{.MA}Великий{.aj} {.MA}магистр{.nn}{\?} {RULER.NAME}{.nn}"/>
+    <string id="crusaderrulerterm" text="{RULER.NAME}{.nn} {?RULER.GENDER}{.MA}Магистр{.nn}{?}{.MA}Магистр{.nn}{\?}"/>
+    <string id="str_liege_title.crusader" text="{.MA}Великий{.aj} {.MA}магистр{.nn}"/>
+    <string id="str_liege_title_female.crusader" text="{.MA}Великий{.aj} {.MA}магистр{.nn}"/>
+
+    <string id="cdanishfactionformalname" text="{.MA}Датчанин{.nnp}"/>
+    <string id="cdanishruler" text="{.MA}Вице-король"/>
+
+    <string id="danish" text="{.MA}Датчанин{.nnp}"/>
+    <string id="danish_culture_desc" text="Датская культура, отличавшаяся сильной монархической властью, глубоким религиозным рвением и наследием эпохи викингских походов, способствовала участию Дании в Северных крестовых походах и её территориальной экспансии."/>
+    <string id="danishdescription" text="В XIII веке датские крестоносцы во главе с королем Вальдемаром II завоевали приморские земли Эстонии, установив датское правление в ходе Северных крестовых походов."/>
+    <string id="danishfactionadjective" text="датский"/>
+    <string id="danishcultureadjective" text="датский"/>
+    <string id="danishfactionshortterm" text="{.MA}Датчанин{.nnp}"/>
+    <string id="danishfactionformalname" text="{.MA}Датчанин{.nnp}"/>
+    <string id="danishfactioninformalname" text="{.MA}Датчанин{.nnp}"/>
+    <string id="danishcultureneutralterm" text="{.MA}Датчанин{.nnp}"/>
+    <string id="danishmembers" text="{.MA}Датчанин{.nnp}"/>
+    <string id="danishrfather" text="{.MA}Бьорн"/>
+    <string id="danishmother" text="Эльсе"/>
+    <string id="danishofficial" text="{.MA}барон"/>
+    <string id="danishofficialf" text="{.FA}баронесса"/>
+    <string id="danishruler" text="{.MA}Вице-король"/>
+    <string id="danishrulerf" text="{.FA}Вице-королева"/>
+    <string id="danishnobletitle" text="{?RULER.GENDER}{.FA}Баронесса{.nn}{?}{.MA}Барон{.nn}{\?} {RULER.NAME}{.nn}"/>
+    <string id="danishrulertitle" text="{?RULER.GENDER}{.FA}Вице-королева{.nn}{?}{.MA}Вице-король{.nn}{\?} {RULER.NAME}{.nn}"/>
+    <string id="danishrulerterm" text="{RULER.NAME}{.nn} {?RULER.GENDER}{.FA}Вице-королева{.nn}{?}{.MA}Вице-король{.nn}{\?}"/>
+    <string id="str_liege_title.danish" text="{.MA}Вице-король"/>
+    <string id="str_liege_title_female.danish" text="{.FA}Вице-королева"/>
+
+    <string id="estonian" text="{.MA}Эстонец{.nnp}"/>
+    <string id="estonian_culture_desc" text="К 1259 году эстонцы северного побережья Балтики жили под властью датчан и тевтонских крестоносцев после Северных крестовых походов. Некогда лесной народ, говоривший на финно-угорском языке и придерживавшийся древних обрядов, они были крещены в Латинской церкви; в деревнях по-прежнему сохраняются их язык и обычаи."/>
+    <string id="estoniandescription" text="К 1259 году эстонцы северного побережья Балтики жили под властью датчан и тевтонских крестоносцев после Северных крестовых походов. Некогда лесной народ, говоривший на финно-угорском языке и придерживавшийся древних обрядов, они были крещены в Латинской церкви; в деревнях по-прежнему сохраняются их язык и обычаи."/>
+    <string id="estonianfather" text="{.MA}Лойт"/>
+    <string id="estonianmother" text="Юми"/>
+    <string id="estonianfactionadjective" text="эстонский"/>
+    <string id="estoniancultureadjective" text="эстонский"/>
+    <string id="estonianfactionshortterm" text="{.MA}Эстонец{.nnp}"/>
+    <string id="estonianfactionformalname" text="{.MA}Эстонец{.nnp}"/>
+    <string id="estonianfactioninformalname" text="{.MA}Эстонец{.nnp}"/>
+    <string id="estoniancultureneutralterm" text="{.MA}Эстонец{.nnp}"/>
+    <string id="estonianmembers" text="{.MA}Эстонец{.nnp}"/>
+    <string id="estonianofficial" text="{.MA}вождь"/>
+    <string id="estonianofficialf" text="{.FA}госпожа"/>
+    <string id="estonianruler" text="{.MA}Верховный{.aj} {.MA}вождь{.nn}"/>
+    <string id="estonianrulerf" text="{.MA}Вождь"/>
+    <string id="estoniannobletitle" text="{?RULER.GENDER}{.MA}Вождь{.nn}{?}{.MA}Вождь{.nn}{\?} {RULER.NAME}{.nn}"/>
+    <string id="estonianrulertitle" text="{?RULER.GENDER}{.MA}Вождь{.nn}{?}{.MA}Верховный{.aj} {.MA}вождь{.nn}{\?} {RULER.NAME}{.nn}"/>
+    <string id="estonianrulerterm" text="{RULER.NAME}{.nn} {?RULER.GENDER}{.MA}Вождь{.nn}{?}{.MA}Верховный{.aj} {.MA}вождь{.nn}{\?}"/>
+    <string id="str_liege_title.estonian" text="{.MA}Великий{.aj} {.MA}вождь{.nn}"/>
+    <string id="str_liege_title_female.estonian" text="{.MA}Великий{.aj} {.MA}вождь{.nn}"/>
+
+    <string id="polish" text="{.MA}Поляк{.nnp}"/>
+    <string id="polishdescription" text="Польская культура XIII века сочетала христианские религиозные традиции со славянскими обычаями и была сосредоточена вокруг деревянных и каменных церквей, замков и монастырей. Из-за феодальной раздробленности (периода разделения на княжества) Польша была политически разделена между князьями из династии Пястов, однако сохраняла культурное единство благодаря общим религиозным практикам и традициям."/>
+    <string id="polishrfather" text="{.MA}Збигнев"/>
+    <string id="polishmother" text="{.FA}Агнешка"/>
+    <string id="polishfactionadjective" text="польшский"/>
+    <string id="polishcultureadjective" text="польшский"/>
+    <string id="polishfactionshortterm" text="{.MA}Поляк{.nnp}"/>
+    <string id="polishfactionformalname" text="{.MA}Поляк{.nnp}"/>
+    <string id="polishfactioninformalname" text="{.MA}Поляк{.nnp}"/>
+    <string id="polishcultureneutralterm" text="{.MA}Поляк{.nnp}"/>
+    <string id="polishmembers" text="{.MA}Поляк{.nnp}"/>
+    <string id="polishofficial" text="{.MA}пан"/>
+    <string id="polishofficialf" text="пани"/>
+    <string id="polishruler" text="{.MA}Князь"/>
+    <string id="polishrulerf" text="{.FA}Княгиня"/>
+    <string id="polishnobletitle" text="{?RULER.GENDER}Пани{?}{.MA}Пан{.nn}{\?} {RULER.NAME}{.nn}"/>
+    <string id="polishrulertitle" text="{?RULER.GENDER}{.FA}Княгиня{.nn}{?}{.MA}Князь{.nn}{\?} {RULER.NAME}{.nn}"/>
+    <string id="polishrulerterm" text="{RULER.NAME}{.nn} {?RULER.GENDER}{.FA}Княгиня{.nn}{?}{.MA}Князь{.nn}{\?}"/>
+    <string id="str_liege_title.polish" text="{.MA}Князь"/>
+    <string id="str_liege_title_female.polish" text="{.FA}Княгиня"/>
+
+    <string id="cswedishfactionformalname" text="{.MA}Швед{.nnp}"/>
+    <string id="cswedishruler" text="{.MA}Конунг"/>
+
+    <string id="swedish" text="{.MA}Швед{.nnp}"/>
+    <string id="swedish_culture_desc" text="Балтийско-скандинавская культура, сформированная под влиянием христианства, древних законов народных собраний и морской торговли. Общество строится вокруг свободных земледельцев, тесных родственных связей и местных общин, а богатство поступает через порты, ярмарки и торговые пути. Положение в обществе подчёркивают корабли, оружие, привозные ткани и серебро, тогда как повседневная жизнь связана с шерстью, древесиной, рыболовством и сезонными работами — практичная, дисциплинированная и проникнутая гордостью за независимость."/>
+    <string id="swedishdescription" text="К XIII веку шведы превратились в одну из ведущих сил Балтики, сочетая скандинавские воинские традиции с христианской королевской властью, расширяя свои владения на восток, в Финляндию, и оспаривая датское господство над торговыми путями."/>
+    <string id="swedishrfather" text="{.MA}Эрик"/>
+    <string id="swedishmother" text="{.FA}Ильва"/>
+    <string id="swedishfactionadjective" text="шведский"/>
+    <string id="swedishcultureadjective" text="шведский"/>
+    <string id="swedishfactionshortterm" text="{.MA}Швед{.nnp}"/>
+    <string id="swedishfactionformalname" text="{.MA}Швед{.nnp}"/>
+    <string id="swedishfactioninformalname" text="{.MA}Швед{.nnp}"/>
+    <string id="swedishcultureneutralterm" text="{.MA}Швед{.nnp}"/>
+    <string id="swedishmembers" text="{.MA}Швед{.nnp}"/>
+    <string id="swedishofficial" text="{.MA}ярл"/>
+    <string id="swedishofficialf" text="{.MA}ярл"/>
+    <string id="swedishruler" text="{.MA}Конунг"/>
+    <string id="swedishrulerf" text="{.FA}Королева"/>
+    <string id="swedishnobletitle" text="{?RULER.GENDER}{.MA}Ярл{.nn}{?}{.MA}Ярл{.nn}{\?} {RULER.NAME}{.nn}"/>
+    <string id="swedishrulertitle" text="{?RULER.GENDER}{.FA}Королева{.nn}{?}{.MA}Конунг{.nn}{\?} {RULER.NAME}{.nn}"/>
+    <string id="swedishrulerterm" text="{RULER.NAME}{.nn} {?RULER.GENDER}{.MA}Ярл{.nn}{?}{.MA}Ярл{.nn}{\?}"/>
+    <string id="str_liege_title.swedish" text="{.MA}Ярл"/>
+    <string id="str_liege_title_female.swedish" text="{.MA}Ярл"/>
+
+    <string id="latvianfather" text="{.MA}Айнис"/>
+    <string id="latvianmother" text="{.FA}Байба"/>
+    <string id="str_liege_title.latvian" text="{.MA}Великий{.aj} {.MA}Князь{.nn}"/>
+    <string id="str_liege_title_female.latvian" text="{.FA}Великий{.aj} {.FA}Княгиня{.nn}"/>
+
+    <string id="mongol" text="{.MA}Монгол{.nnp}"/>
+    <string id="mongoldescription" text="К 1259 году западный монгольский улус — владения Джучидов, позднее получившие название Золотая Орда, — господствовал над Причерноморско-Каспийской степью, управляя из Сарая под властью хана Берке. Они взимали дань с русских князей, отправляли тумены на запад и сохраняли кочевой уклад монгольского народа, основанный на юртах и коневодстве."/>
+    <string id="mongolfather" text="{.MA}Берке"/>
+    <string id="mongolmother" text="{.FA}Боракчин"/>
+    <string id="mongolfactionadjective" text="монгольский"/>
+    <string id="mongolcultureadjective" text="монгольский"/>
+    <string id="mongolfactionshortterm" text="{.MA}Монгол{.nnp}"/>
+    <string id="mongolfactionformalname" text="{.MA}Монгол{.nnp}"/>
+    <string id="mongolfactioninformalname" text="{.MA}Монгол{.nnp}"/>
+    <string id="mongolcultureneutralterm" text="{.MA}Монгол{.nnp}"/>
+    <string id="mongolmembers" text="{.MA}Монгол{.nnp}"/>
+    <string id="mongolofficial" text="{.MA}нойон"/>
+    <string id="mongolofficialf" text="хатун"/>
+    <string id="mongolruler" text="{.MA}Хан"/>
+    <string id="mongolrulerf" text="Хатун"/>
+    <string id="mongolnobletitle" text="{?RULER.GENDER}{.FA}Госпожа{.nn}{?}{.MA}Нойон{.nn}{\?} {RULER.NAME}{.nn}"/>
+    <string id="mongolrulertitle" text="{?RULER.GENDER}Хатун{?}{.MA}Хан{.nn}{\?} {RULER.NAME}{.nn}"/>
+    <string id="mongolrulerterm" text="{RULER.NAME}{.nn} {?RULER.GENDER}Хатун{?}{.MA}Хан{.nn}{\?}"/>
+    <string id="str_liege_title.mongol" text="{.MA}Хан"/>
+    <string id="str_liege_title_female.mongol" text="Хатун"/>
+
+    <string id="mongol_raidersdescription" text="Монголы XIII века — кочевые степные воины, создавшие одну из крупнейших империй в истории. Они жили в юртах и кочевали вместе со своими стадами, сочетая непревзойдённое искусство верховой езды и стрельбы из лука со строгой родовой иерархией. Известные стремительными набегами и дисциплинированными войсками, они придерживались тенгрианских верований и шаманских обрядов, а власть принадлежала ханам и племенным вождям."/>
+    <string id="mongol_raidersfather" text="Бату"/>
+    <string id="mongol_raidersmother" text="Саруул"/>
+    <string id="mongol_raiderscultureadjective" text="монгольский"/>
+    <string id="mongol_raidersfactionadjective" text="монгольский"/>
+    <string id="mongol_raiderscultureneutralterm" text="{.MA}Монгол{.nnp}"/>
+    <string id="mongol_raidersfactionformalname" text="{.MA}Монгол{.nnp}"/>
+    <string id="mongol_raidersfactioninformalname" text="{.MA}Монгол{.nnp}"/>
+    <string id="mongol_raidersfactionshortterm" text="{.MA}Монгол{.nnp}"/>
+    <string id="mongol_raidersmembers" text="{.MA}Монгол{.nnp}"/>
+    <string id="mongol_raidersofficial" text="{.MA}нойон"/>
+    <string id="mongol_raidersofficialf" text="хатун"/>
+    <string id="mongol_raidersruler" text="{.MA}Хан"/>
+    <string id="mongol_raidersrulerf" text="Хатун"/>
+    <string id="mongol_raidersnobletitle" text="{?RULER.GENDER}{.FA}Госпожа{.nn}{?}{.MA}Нойон{.nn}{\?} {RULER.NAME}{.nn}"/>
+    <string id="mongol_raidersrulertitle" text="{?RULER.GENDER}Хатун{?}{.MA}Хан{.nn}{\?} {RULER.NAME}{.nn}"/>
+    <string id="mongol_raidersrulerterm" text="{RULER.NAME}{.nn} {?RULER.GENDER}Хатун{?}{.MA}Хан{.nn}{\?}"/>
+    <string id="str_liege_title.mongol_raiders" text="{.MA}Хан"/>
+    <string id="str_liege_title_female.mongol_raiders" text="Хатун"/>
+
+    <string id="ushkuiniki_raidersdescription" text="Ушкуйники — новгородские вольные дружинники и разбойники, использовавшие мелкосидящие речные суда — ушкуи. С XII по XV век они совершали набеги по Волге и Каме, а также ходили в Белое море, сочетая пиратство с торговлей. Ушкуйники воплощали предприимчивую и воинственную часть общества Новгородской Руси, соединяя славянские традиции, православную веру и полузаконный образ жизни."/>
+    <string id="ushkuiniki_raidersfather" text="{.MA}Федор"/>
+    <string id="ushkuiniki_raidersmother" text="{.FA}Анастасия"/>
+    <string id="ushkuiniki_raiderscultureadjective" text="ушкуйники-"/>
+    <string id="ushkuiniki_raidersfactionadjective" text="ушкуйники-"/>
+    <string id="ushkuiniki_raiderscultureneutralterm" text="{.MA}Ушкуйник{.nnp}"/>
+    <string id="ushkuiniki_raidersfactionformalname" text="{.MA}Ушкуйник{.nnp}"/>
+    <string id="ushkuiniki_raidersfactioninformalname" text="{.MA}Ушкуйник{.nnp}"/>
+    <string id="ushkuiniki_raidersfactionshortterm" text="{.MA}Ушкуйник{.nnp}"/>
+    <string id="ushkuiniki_raidersmembers" text="{.MA}Ушкуйник{.nnp}"/>
+    <string id="ushkuiniki_raidersofficial" text="{.MA}атаман"/>
+    <string id="ushkuiniki_raidersofficialf" text="{.FA}предводительница"/>
+    <string id="ushkuiniki_raidersruler" text="{.MA}Атаман"/>
+    <string id="ushkuiniki_raidersrulerf" text="{.FA}Предводительница"/>
+    <string id="ushkuiniki_raidersnobletitle" text="{?RULER.GENDER}{.FA}Налетчица{.nn}{?}{.MA}Налетчик{.nn}{\?} {RULER.NAME}{.nn}"/>
+    <string id="ushkuiniki_raidersrulertitle" text="{?RULER.GENDER}{.FA}Предводительница{.nn}{?}{.MA}Атаман{.nn}{\?} {RULER.NAME}{.nn}"/>
+    <string id="ushkuiniki_raidersrulerterm" text="{RULER.NAME}{.nn} {?RULER.GENDER}{.FA}Предводительница{.nn}{?}{.MA}Атаман{.nn}{\?}"/>
+    <string id="str_liege_title_female.ushkuiniki_raiders" text="{.FA}Предводительница"/>
+    <string id="str_liege_title.ushkuiniki_raiders" text="{.MA}Атаман"/>
+
+    <string id="oeselian_raidersdescription" text="Эзельцы (жители острова Сааремаа на территории современной Эстонии) — могущественное прибалтийско-финское племя мореходов и налётчиков XIII века. Они славились своими кораблями и пиратскими походами по Балтийскому морю, сочетая земледелие и рыболовство с воинственной культурой и языческими обрядами. Эзельцы одними из последних среди северных племён сопротивлялись христианизации, защищая от крестоносцев свои укрепления и священные рощи."/>
+    <string id="oeselian_raidersfather" text="{.MA}Тынис"/>
+    <string id="oeselian_raidersmother" text="Леэло"/>
+    <string id="oeselian_raidersfactionadjective" text="эзельский"/>
+    <string id="oeselian_raiderscultureadjective" text="эзельский"/>
+    <string id="oeselian_raiderscultureneutralterm" text="{.MA}Эзелец{.nnp}"/>
+    <string id="oeselian_raidersfactionformalname" text="{.MA}Эзелец{.nnp}"/>
+    <string id="oeselian_raidersfactioninformalname" text="{.MA}Эзелец{.nnp}"/>
+    <string id="oeselian_raidersfactionshortterm" text="{.MA}Эзелец{.nnp}"/>
+    <string id="oeselian_raidersmembers" text="{.MA}Эзелец{.nnp}"/>
+    <string id="oeselian_raidersofficial" text="{.MA}старейшина"/>
+    <string id="oeselian_raidersofficialf" text="{.FA}жрица"/>
+    <string id="oeselian_raidersruler" text="{.MA}Старейшина"/>
+    <string id="oeselian_raidersrulerf" text="{.FA}Жрица"/>
+    <string id="oeselian_raidersnobletitle" text="{?RULER.GENDER}{.FA}Воительница{.nn}{?}{.MA}Воин{.nn}{\?} {RULER.NAME}{.nn}"/>
+    <string id="oeselian_raidersrulertitle" text="{?RULER.GENDER}{.FA}Жрица{.nn}{?}{.MA}Старейшина{.nn}{\?} {RULER.NAME}{.nn}"/>
+    <string id="oeselian_raidersrulerterm" text="{RULER.NAME}{.nn} {?RULER.GENDER}{.FA}Жрица{.nn}{?}{.MA}Старейшина{.nn}{\?}"/>
+    <string id="str_liege_title_female.oeselian_raiders" text="{.FA}Жрица"/>
+    <string id="str_liege_title.oeselian_raiders" text="{.MA}Старейшина"/>
+
+    <string id="curonian_raidersdescription" text="Куршская культура XIII века была представлена балтийскими племенами мореходов — куршами. Они славились как свирепые воины, торговцы и морские разбойники, совершавшие походы по Балтийскому морю. Их морские традиции сочетались с языческими обрядами и прочным родоплеменным укладом. Среди их поселений встречались прибрежные городища, деревянные усадьбы и священные рощи, где проводились обряды."/>
+    <string id="curonian_raidersfactionadjective" text="куршский"/>
+    <string id="curonian_raiderscultureadjective" text="куршский"/>
+    <string id="curonian_raiderscultureneutralterm" text="{.MA}Курш{.nnp}"/>
+    <string id="curonian_raidersfactionformalname" text="{.MA}Курш{.nnp}"/>
+    <string id="curonian_raidersfactioninformalname" text="{.MA}Курш{.nnp}"/>
+    <string id="curonian_raidersfactionshortterm" text="{.MA}Курш{.nnp}"/>
+    <string id="curonian_raidersmembers" text="{.MA}Курш{.nnp}"/>
+    <string id="curonian_raidersmother" text="Эгле"/>
+    <string id="curonian_raidersrfather" text="{.MA}Зигфридс"/>
+    <string id="curonian_raidersofficial" text="{.MA}вождь"/>
+    <string id="curonian_raidersofficialf" text="{.FA}жрица"/>
+    <string id="curonian_raidersruler" text="{.MA}Вождь"/>
+    <string id="curonian_raidersrulerf" text="{.FA}Жрица"/>
+    <string id="curonian_raidersnobletitle" text="{?RULER.GENDER}{.FA}Воительница{.nn}{?}{.MA}Воин{.nn}{\?} {RULER.NAME}{.nn}"/>
+    <string id="curonian_raidersrulertitle" text="{?RULER.GENDER}{.FA}Жрица{.nn}{?}{.MA}Вождь{.nn}{\?} {RULER.NAME}{.nn}"/>
+    <string id="curonian_raidersrulerterm" text="{RULER.NAME}{.nn} {?RULER.GENDER}{.FA}Жрица{.nn}{?}{.MA}Вождь{.nn}{\?}"/>
+    <string id="str_liege_title.curonian_raiders" text="{.MA}Вождь"/>
+    <string id="str_liege_title_female.curonian_raiders" text="{.FA}Жрица"/>
+
+    <string id="bolotyane_raidersdescription" text="Болотяне были людьми вне закона и обитателями болот в лесах Руси XIII века, жившими среди камышей, ольхи и торфяных болот от бассейна Припяти до озёр и топей вокруг Новгорода. Отрезанные от княжеских городов сезонными разливами, они охотились, ставили ловушки на пушного зверя и устраивали засады на путников, вооружённые топорами, копьями и камнями. Их ватаги подчинялись ватажку, а не князю, а в местной речи старейших женщин болот называли болотницами. Для княжеств они были разбойниками; для самих себя — просто людьми болот."/>
+    <string id="bolotyane_raidersfactionadjective" text="болотный"/>
+    <string id="bolotyane_raiderscultureadjective" text="болотный"/>
+    <string id="bolotyane_raiderscultureneutralterm" text="{.MA}Болотянин{.nnp}"/>
+    <string id="bolotyane_raidersfactionformalname" text="{.MA}Болотянин{.nnp}"/>
+    <string id="bolotyane_raidersfactioninformalname" text="{.MA}Болотянин{.nnp}"/>
+    <string id="bolotyane_raidersfactionshortterm" text="{.MA}Болотянин{.nnp}"/>
+    <string id="bolotyane_raidersmembers" text="{.MA}Болотянин{.nnp}"/>
+    <string id="bolotyane_raidersmother" text="{.FA}Авдотья"/>
+    <string id="bolotyane_raidersfather" text="{.MA}Микита"/>
+    <string id="bolotyane_raidersofficial" text="{.MA}ватажок"/>
+    <string id="bolotyane_raidersofficialf" text="{.FA}болотница"/>
+    <string id="bolotyane_raidersruler" text="{.MA}Ватажок"/>
+    <string id="bolotyane_raidersrulerf" text="{.FA}Болотница"/>
+    <string id="bolotyane_raidersnobletitle" text="{?RULER.GENDER}{.FA}Болотница{.nn}{?}{.MA}Ватажок{.nn}{\?} {RULER.NAME}{.nn}"/>
+    <string id="bolotyane_raidersrulertitle" text="{?RULER.GENDER}{.FA}Болотница{.nn}{?}{.MA}Ватажок{.nn}{\?} {RULER.NAME}{.nn}"/>
+    <string id="bolotyane_raidersrulerterm" text="{RULER.NAME}{.nn} {?RULER.GENDER}{.FA}Болотница{.nn}{?}{.MA}Ватажок{.nn}{\?}"/>
+    <string id="str_liege_title.bolotyane_raiders" text="{.MA}Ватажок"/>
+    <string id="str_liege_title_female.bolotyane_raiders" text="{.FA}Болотница"/>
+
+    <string id="lesniki_raidersdescription" text="Лесники были лесными жителями и людьми вне закона в лесах Руси XIII века, обитавшими среди сосен, берёз и звериных троп от Новгорода и Твери до Смоленска и галицких чащ. Они охотились, добывали пушнину ловушками и устраивали засады на путников, вооружённые ножами, дротиками и охотничьими луками. Их ватаги подчинялись лешаку, а не князю, а в местной речи знающих женщин леса называли знахарками. Для княжеств они были разбойниками; для самих себя — просто людьми леса."/>
+    <string id="lesniki_raiderscultureadjective" text="лесной"/>
+    <string id="lesniki_raidersfactionadjective" text="лесной"/>
+    <string id="lesniki_raiderscultureneutralterm" text="{.MA}Лесник{.nnp}"/>
+    <string id="lesniki_raidersfactionformalname" text="{.MA}Лесник{.nnp}"/>
+    <string id="lesniki_raidersfactioninformalname" text="{.MA}Лесник{.nnp}"/>
+    <string id="lesniki_raidersfactionshortterm" text="{.MA}Лесник{.nnp}"/>
+    <string id="lesniki_raidersmembers" text="{.MA}Лесник{.nnp}"/>
+    <string id="lesniki_raidersmother" text="{.FA}Агафья"/>
+    <string id="lesniki_raidersfather" text="{.MA}Гаврила"/>
+    <string id="lesniki_raidersofficial" text="{.MA}лешак"/>
+    <string id="lesniki_raidersofficialf" text="{.FA}знахарка"/>
+    <string id="lesniki_raidersruler" text="{.MA}Лешак"/>
+    <string id="lesniki_raidersrulerf" text="{.FA}Знахарка"/>
+    <string id="lesniki_raidersnobletitle" text="{?RULER.GENDER}{.FA}Знахарка{.nn}{?}{.MA}Лешак{.nn}{\?} {RULER.NAME}{.nn}"/>
+    <string id="lesniki_raidersrulertitle" text="{?RULER.GENDER}{.FA}Знахарка{.nn}{?}{.MA}Лешак{.nn}{\?} {RULER.NAME}{.nn}"/>
+    <string id="lesniki_raidersrulerterm" text="{RULER.NAME}{.nn} {?RULER.GENDER}{.FA}Знахарка{.nn}{?}{.MA}Лешак{.nn}{\?}"/>
+    <string id="str_liege_title.lesniki_raiders" text="{.MA}Лешак"/>
+    <string id="str_liege_title_female.lesniki_raiders" text="{.FA}Знахарка"/>
+
+    <string id="volnoye_raidersdescription" text="Войско вольное было ватагами людей вне закона, которые разбивали лагеря возле крупных городов Руси XIII века. Будучи сильнее обычных грабителей, они угоняли лошадей, устраивали засады на дорогах и подчинялись кошевому, а не князю. Их женщины ходили вместе с войском как походницы. Для княжеств они были разбойниками; сами себя они считали просто вольниками."/>
+    <string id="volnoye_raiderscultureadjective" text="вольный"/>
+    <string id="volnoye_raidersfactionadjective" text="вольный"/>
+    <string id="volnoye_raiderscultureneutralterm" text="{.NA}Войско{.nn} {.NA}вольный{.aj}"/>
+    <string id="volnoye_raidersfactionformalname" text="{.NA}Войско{.nn} {.NA}вольный{.aj}"/>
+    <string id="volnoye_raidersfactioninformalname" text="{.NA}Войско{.nn} {.NA}вольный{.aj}"/>
+    <string id="volnoye_raidersfactionshortterm" text="{.NA}Войско{.nn} {.NA}вольный{.aj}"/>
+    <string id="volnoye_raidersmembers" text="{.NA}Войско{.nn} {.NA}вольный{.aj}"/>
+    <string id="volnoye_raidersmother" text="{.FA}Матрена"/>
+    <string id="volnoye_raidersfather" text="{.MA}Фома"/>
+    <string id="volnoye_raidersofficial" text="{.MA}кошевой"/>
+    <string id="volnoye_raidersofficialf" text="{.FA}кошевая"/>
+    <string id="volnoye_raidersruler" text="{.MA}Кошевой"/>
+    <string id="volnoye_raidersrulerf" text="{.FA}Кошевая"/>
+    <string id="volnoye_raidersnobletitle" text="{?RULER.GENDER}{.FA}Кошевой{.aj}{?}{.MA}Кошевой{.aj}{\?} {RULER.NAME}{.nn}"/>
+    <string id="volnoye_raidersrulertitle" text="{?RULER.GENDER}{.FA}Кошевой{.aj}{?}{.MA}Кошевой{.aj}{\?} {RULER.NAME}{.nn}"/>
+    <string id="volnoye_raidersrulerterm" text="{RULER.NAME}{.nn} {?RULER.GENDER}{.FA}Кошевой{.aj}{?}{.MA}Кошевой{.aj}{\?}"/>
+    <string id="str_liege_title.volnoye_raiders" text="{.MA}Кошевой"/>
+    <string id="str_liege_title_female.volnoye_raiders" text="{.FA}Кошевая"/>
+  </strings>
+</base>
