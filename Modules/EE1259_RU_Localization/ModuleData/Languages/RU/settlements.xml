@@ -34,10 +34,10 @@
     <string id="Settlements.Settlement.name.village_castle_PR7_2" text="Рудов"/>
     <string id="Settlements.Settlement.name.village_castle_PR7_3" text="Лабиау"/>
 
-    <string id="Settlements.Settlement.name.castle_BT1" text="Рагайне"/>
+    <string id="Settlements.Settlement.name.castle_BT1" text="Рагнит"/>
     <string id="Settlements.Settlement.name.village_castle_BT1_1" text="Сударгас"/>
     <string id="Settlements.Settlement.name.castle_BT2" text="Тильзит"/>
-    <string id="Settlements.Settlement.name.village_castle_BT2_1" text="Кульмянай"/>
+    <string id="Settlements.Settlement.name.village_castle_BT2_1" text="Кульма"/>
     <string id="Settlements.Settlement.name.castle_BT3" text="Кресмен"/>
     <string id="Settlements.Settlement.name.village_castle_BT3_1" text="Дернен"/>
     <string id="Settlements.Settlement.name.village_castle_BT3_2" text="Райгард"/>
@@ -65,61 +65,61 @@
     <string id="castle_BT11" text="Шимоне"/>
     <string id="village_castle_BT11_1" text="Гостоголе"/>
 
-    <string id="Settlements.Settlement.name.town_LT1" text="Кярнаве"/>
-    <string id="Settlements.Settlement.name.village_town_LT1_1" text="Майшягала"/>
+    <string id="Settlements.Settlement.name.town_LT1" text="Кернов"/>
+    <string id="Settlements.Settlement.name.village_town_LT1_1" text="Мейшагола"/>
     <string id="Settlements.Settlement.name.village_town_LT1_2" text="Вилькомир"/>
-    <string id="Settlements.Settlement.name.village_town_LT1_3" text="Дубингяй"/>
-    <string id="Settlements.Settlement.name.town_LT3" text="Рассеин"/>
-    <string id="Settlements.Settlement.name.village_town_LT3_1" text="Бятигала"/>
-    <string id="Settlements.Settlement.name.village_town_LT3_2" text="Ариогала"/>
+    <string id="Settlements.Settlement.name.village_town_LT1_3" text="Дубинки"/>
+    <string id="Settlements.Settlement.name.town_LT3" text="Росиены"/>
+    <string id="Settlements.Settlement.name.village_town_LT3_1" text="Бетыгола"/>
+    <string id="Settlements.Settlement.name.village_town_LT3_2" text="Эйрагола"/>
     <string id="Settlements.Settlement.name.village_town_LT3_3" text="Юнигеда"/>
-    <string id="Settlements.Settlement.name.castle_LT1" text="Вильнюс"/>
-    <string id="Settlements.Settlement.name.village_castle_LT1_1" text="Сямялишкес"/>
-    <string id="Settlements.Settlement.name.village_castle_LT1_2" text="Тракай"/>
+    <string id="Settlements.Settlement.name.castle_LT1" text="Вильно"/>
+    <string id="Settlements.Settlement.name.village_castle_LT1_1" text="Троки"/>
+    <string id="Settlements.Settlement.name.village_castle_LT1_2" text="Сомилишки"/>
     <string id="Settlements.Settlement.name.castle_LT2" text="Ворута"/>
     <string id="Settlements.Settlement.name.village_castle_LT2_1" text="Возгеляй"/>
     <string id="Settlements.Settlement.name.village_castle_LT2_2" text="Латава"/>
-    <string id="Settlements.Settlement.name.village_castle_LT2_3" text="Ужпаляй"/>
-    <string id="Settlements.Settlement.name.castle_LT3" text="Линкмянис"/>
-    <string id="Settlements.Settlement.name.village_castle_LT3_1" text="Утяна"/>
+    <string id="Settlements.Settlement.name.village_castle_LT2_3" text="Ушполь"/>
+    <string id="Settlements.Settlement.name.castle_LT3" text="Лынгмяны"/>
+    <string id="Settlements.Settlement.name.village_castle_LT3_1" text="Утена"/>
     <string id="Settlements.Settlement.name.village_castle_LT3_2" text="Таурапилис"/>
     <string id="Settlements.Settlement.name.village_castle_LT3_3" text="Бярзгайняй"/>
     <string id="Settlements.Settlement.name.castle_LT4" text="Крево"/>
     <string id="Settlements.Settlement.name.village_castle_LT4_1" text="Гольшаны"/>
-    <string id="Settlements.Settlement.name.village_castle_LT4_2" text="Мядининкай"/>
-    <string id="Settlements.Settlement.name.castle_LT5" text="Эйшишкес"/>
+    <string id="Settlements.Settlement.name.village_castle_LT4_2" text="Медники"/>
+    <string id="Settlements.Settlement.name.castle_LT5" text="Эйшишки"/>
     <string id="Settlements.Settlement.name.village_castle_LT5_1" text="Радунь"/>
     <string id="Settlements.Settlement.name.village_castle_LT5_2" text="Дубичи"/>
-    <string id="Settlements.Settlement.name.castle_LT6" text="Алитус"/>
-    <string id="Settlements.Settlement.name.village_castle_LT6_1" text="Мяркине"/>
+    <string id="Settlements.Settlement.name.castle_LT6" text="Олита"/>
+    <string id="Settlements.Settlement.name.village_castle_LT6_1" text="Меречь"/>
     <string id="Settlements.Settlement.name.village_castle_LT6_2" text="Привалки"/>
-    <string id="Settlements.Settlement.name.castle_LT7" text="Каунас"/>
+    <string id="Settlements.Settlement.name.castle_LT7" text="Ковно"/>
     <string id="Settlements.Settlement.name.village_castle_LT7_1" text="Паштува"/>
-    <string id="Settlements.Settlement.name.village_castle_LT7_2" text="Дарсунишкис"/>
-    <string id="Settlements.Settlement.name.castle_LT8" text="Аукаймис"/>
-    <string id="Settlements.Settlement.name.village_castle_LT8_1" text="Бебирвайте"/>
+    <string id="Settlements.Settlement.name.village_castle_LT7_2" text="Дорсунишки"/>
+    <string id="Settlements.Settlement.name.castle_LT8" text="Оукайм"/>
+    <string id="Settlements.Settlement.name.village_castle_LT8_1" text="Бибервате"/>
     <string id="Settlements.Settlement.name.village_castle_LT8_2" text="Путве"/>
-    <string id="Settlements.Settlement.name.castle_LT9" text="Мядвегалис"/>
-    <string id="Settlements.Settlement.name.village_castle_LT9_1" text="Кражяй"/>
-    <string id="Settlements.Settlement.name.village_castle_LT9_2" text="Шяудува"/>
-    <string id="Settlements.Settlement.name.village_castle_LT9_3" text="Твярай"/>
+    <string id="Settlements.Settlement.name.castle_LT9" text="Медвегола"/>
+    <string id="Settlements.Settlement.name.village_castle_LT9_1" text="Крожи"/>
+    <string id="Settlements.Settlement.name.village_castle_LT9_2" text="Шовды"/>
+    <string id="Settlements.Settlement.name.village_castle_LT9_3" text="Тверы"/>
     <string id="Settlements.Settlement.name.village_castle_LT9_4" text="Шатрия"/>
     <string id="Settlements.Settlement.name.castle_LT10" text="Дубиса"/>
     <string id="Settlements.Settlement.name.village_castle_LT10_1" text="Булине"/>
     <string id="Settlements.Settlement.name.village_castle_LT10_2" text="Папиле"/>
-    <string id="Settlements.Settlement.name.village_castle_LT10_3" text="Шяуле"/>
-    <string id="Settlements.Settlement.name.village_castle_LT10_4" text="Твиримантас"/>
+    <string id="Settlements.Settlement.name.village_castle_LT10_3" text="Сауле"/>
+    <string id="Settlements.Settlement.name.village_castle_LT10_4" text="Тверемет"/>
     <string id="Settlements.Settlement.name.castle_LT11" text="Мядель"/>
     <string id="Settlements.Settlement.name.village_castle_LT11_1" text="Свирь"/>
     <string id="Settlements.Settlement.name.castle_LT12" text="Упите"/>
     <string id="Settlements.Settlement.text.castle_LT12" text="Название Упите впервые упоминается в 1254 году в Ливонской хронике, повествующей о разделе области Упмала. В Упите на острове был построен деревянный замок, а после осушения озера Вешета это место превратилось в городище. Замок служил важным северным оборонительным пунктом, защищавшим эти земли от многочисленных набегов Ливонского ордена."/>
     <string id="Settlements.Settlement.name.village_castle_LT12_1" text="Вяльжис"/>
-    <string id="Settlements.Settlement.name.village_castle_LT12_2" text="Бакайняй"/>
+    <string id="Settlements.Settlement.name.village_castle_LT12_2" text="Бакайни"/>
     <string id="Settlements.Settlement.name.castle_LT15" text="Гродно"/>
     <string id="Settlements.Settlement.name.village_castle_LT15_1" text="Костенево"/>
     <string id="Settlements.Settlement.name.village_castle_LT15_2" text="{.MI}Турейск"/>
-    <string id="Settlements.Settlement.name.castle_LT16" text="Ипилтис"/>
-    <string id="Settlements.Settlement.name.village_castle_LT16_1" text="Кретинга"/>
+    <string id="Settlements.Settlement.name.castle_LT16" text="Импильтен"/>
+    <string id="Settlements.Settlement.name.village_castle_LT16_1" text="Кретене"/>
     <string id="Settlements.Settlement.name.village_castle_LT16_2" text="Гандинга"/>
     <string id="Settlements.Settlement.name.village_castle_LT16_3" text="Паланга"/>
 
