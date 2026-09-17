@@ -19,8 +19,9 @@
 
 ## Установка
 
-(Это два отдельных мода, они не заменяют на прямую файлы мода или игры)
+(Это два отдельных мода, они не заменяют на прямую файлы мода или игры, кроме `ee_tips.txt` в `LT_EE1259_Map13`)
 
+0. Для руссификации подсказов на экране загрузок преместите `Modules\LT_EE1259_Map13` в `./Mount & Blade II Bannerlord/Modules` с заменой файла `ee_tips.txt`.
 1. Положить содержимое папки `Modules` (т.е. папки `EE1259_RU_Localization` и `RussianTextProcessorFix`) в `./Mount & Blade II Bannerlord/Modules`
 2. В порядке загрузки:
     - `EE1259_RU_Localization` в любое место после `LT_EE1259_Assets`
