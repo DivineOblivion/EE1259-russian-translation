@@ -17,6 +17,8 @@
 
     <!-- RuFix -->
 
+    <string id="br0N6SSH" text="{adjectiveGenderCreator(ITEMNAME)}Надломленный{?IS_PLURAL_WORD_GROUP(ITEMNAME)}{.jp}{?}{.j}{\?} {._}{ITEMNAME}{.n}" />
+
     <string id="U7etPQA2" text="{FIRSTNAME}{.nn} {JOB_NAME}" />
 
     <string id="2F7ogNWD" text="{FIRSTNAME}{.nn} {.MA}Пустой{.aj} {.MA}Карман{.nn}" />

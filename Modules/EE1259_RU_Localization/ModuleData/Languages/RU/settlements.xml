@@ -268,12 +268,12 @@
     <string id="Settlements.Settlement.name.village_castle_PLC12_2" text="Новосады"/>
 
     <string id="Settlements.Settlement.name.town_NOV1" text="{.MI}Новгород"/>
-    <string id="Settlements.Settlement.name.village_town_NOV1_1" text="{.NI}Тёсово"/>
+    <string id="Settlements.Settlement.name.village_town_NOV1_1" text="Тёсово"/>
     <string id="Settlements.Settlement.name.village_town_NOV1_2" text="{.NI}Надбелье"/>
     <string id="Settlements.Settlement.name.village_town_NOV1_3" text="{.MI}городок{.nn} на Волхове"/>
     <string id="Settlements.Settlement.name.village_town_NOV1_4" text="{.FI}Усть-Волма"/>
     <string id="Settlements.Settlement.name.town_NOV2" text="{.MI}Плесков"/>
-    <string id="Settlements.Settlement.name.village_town_NOV2_1" text="{.NI}Дубровно"/>
+    <string id="Settlements.Settlement.name.village_town_NOV2_1" text="Дубровно"/>
     <string id="Settlements.Settlement.name.village_town_NOV2_2" text="{.MI}Исад-городец"/>
     <string id="Settlements.Settlement.name.village_town_NOV2_3" text="{.FI}Мда"/>
     <string id="Settlements.Settlement.name.village_town_NOV2_4" text="{.MI}Сторожинец"/>
@@ -284,41 +284,41 @@
     <string id="Settlements.Settlement.name.village_town_NOV3_4" text="{.NI}городище{.nn} на Сяси"/>
     <string id="Settlements.Settlement.name.castle_NOV1" text="{.MI}Холм"/>
     <string id="Settlements.Settlement.name.village_castle_NOV1_1" text="{.MI}Демян"/>
-    <string id="Settlements.Settlement.name.village_castle_NOV1_2" text="{.NI}Любно"/>
+    <string id="Settlements.Settlement.name.village_castle_NOV1_2" text="Любно"/>
     <string id="Settlements.Settlement.name.village_castle_NOV1_3" text="Морёво"/>
     <string id="Settlements.Settlement.name.castle_NOV2" text="{.MI}Лука{.nnp}"/>  <!-- Луки-->
     <string id="Settlements.Settlement.name.village_castle_NOV2_1" text="{.NI}городище{.nn} на Ловати"/>
     <string id="Settlements.Settlement.name.village_castle_NOV2_2" text="{.MI}Острий"/>
-    <string id="Settlements.Settlement.name.village_castle_NOV2_3" text="{.NI}Полибино"/>
+    <string id="Settlements.Settlement.name.village_castle_NOV2_3" text="Полибино"/>
     <string id="Settlements.Settlement.name.castle_NOV3" text="{.MI}Еменец"/>
-    <string id="Settlements.Settlement.name.village_castle_NOV3_1" text="Себеж"/>
+    <string id="Settlements.Settlement.name.village_castle_NOV3_1" text="{.MI}Себеж"/>
     <string id="Settlements.Settlement.name.village_castle_NOV3_2" text="Сутоки"/>
     <string id="Settlements.Settlement.name.village_castle_NOV3_3" text="Осыно"/>
-    <string id="Settlements.Settlement.name.village_castle_NOV1_4" text="Малый Бохот"/>
+    <string id="Settlements.Settlement.name.village_castle_NOV1_4" text="{.MI}Малый{.aj} {.MI}Бохот{.nn}"/>
     <string id="Settlements.Settlement.name.castle_NOV4" text="{.FI}Опочка"/>
     <string id="Settlements.Settlement.name.village_castle_NOV4_1" text="Литвиново"/>
     <string id="Settlements.Settlement.name.village_castle_NOV4_2" text="Коложе"/>
-    <string id="Settlements.Settlement.name.village_castle_NOV4_3" text="Воронич"/>
+    <string id="Settlements.Settlement.name.village_castle_NOV4_3" text="{.MI}Воронич"/>
     <string id="Settlements.Settlement.name.castle_NOV5" text="{.MI}Остров"/>
     <string id="Settlements.Settlement.name.village_castle_NOV5_1" text="Гривы"/>
-    <string id="Settlements.Settlement.name.village_castle_NOV5_2" text="Михайловское"/>
+    <string id="Settlements.Settlement.name.village_castle_NOV5_2" text="{.NI}Михайловский{.aj}"/>  <!-- Михайловское -->
     <string id="Settlements.Settlement.name.castle_NOV6" text="{.MI}Изборск"/>
-    <string id="Settlements.Settlement.name.village_castle_NOV6_1" text="{.NI}Камно"/>
-    <string id="Settlements.Settlement.name.village_castle_NOV6_2" text="{.NI}Борохново"/>
+    <string id="Settlements.Settlement.name.village_castle_NOV6_1" text="Камно"/>
+    <string id="Settlements.Settlement.name.village_castle_NOV6_2" text="Борохново"/>
     <string id="Settlements.Settlement.name.castle_NOV7" text="{.MI}Гдов"/>
     <string id="Settlements.Settlement.name.village_castle_NOV7_1" text="{.NI}городище{.nn} у Гдова"/>
     <string id="Settlements.Settlement.name.castle_NOV8" text="{.MI}Порхов"/>
-    <string id="Settlements.Settlement.name.village_castle_NOV8_1" text="Которск"/>
-    <string id="Settlements.Settlement.name.village_castle_NOV8_2" text="Заорешье"/>
+    <string id="Settlements.Settlement.name.village_castle_NOV8_1" text="{.MI}Которск"/>
+    <string id="Settlements.Settlement.name.village_castle_NOV8_2" text="{.NI}Заорешье"/>
     <string id="Settlements.Settlement.name.village_castle_NOV8_3" text="Голубково"/>
     <string id="Settlements.Settlement.name.village_castle_NOV8_4" text="{.MI}городок{.nn} на Шелони"/>
     <string id="Settlements.Settlement.name.castle_NOV9" text="{.FI}Руса"/>
-    <string id="Settlements.Settlement.name.village_castle_NOV9_1" text="Свинорд"/>
-    <string id="Settlements.Settlement.name.village_castle_NOV9_2" text="{.NI}Косицкое"/>
+    <string id="Settlements.Settlement.name.village_castle_NOV9_1" text="{.MI}Свинорд"/>
+    <string id="Settlements.Settlement.name.village_castle_NOV9_2" text="{.NI}Косицкое{.aj}"/>
     <string id="Settlements.Settlement.name.village_castle_NOV9_3" text="{.MI}Сергов"/>
     <string id="Settlements.Settlement.name.castle_NOV10" text="{.NI}Копорье"/>
-    <string id="Settlements.Settlement.name.village_castle_NOV10_1" text="{.NI}Воронино"/>
-    <string id="Settlements.Settlement.name.village_castle_NOV10_2" text="{.NI}Кайболово"/>
+    <string id="Settlements.Settlement.name.village_castle_NOV10_1" text="Воронино"/>
+    <string id="Settlements.Settlement.name.village_castle_NOV10_2" text="Кайболово"/>
     <string id="Settlements.Settlement.name.village_castle_NOV10_3" text="{.FI}Сосница{.nnp}"/>  <!-- Сосницы -->
     <string id="Settlements.Settlement.name.village_castle_NOV10_4" text="{.MI}Сабск"/>
     <string id="Settlements.Settlement.name.castle_NOV11" text="{.MI}Выборг"/>
@@ -327,14 +327,14 @@
     <string id="Settlements.Settlement.name.village_castle_NOV12_1" text="{.MI}погост{.nn} в Тервиничах"/>
     <string id="Settlements.Settlement.name.village_castle_NOV12_2" text="{.MI}погост{.nn}  на Спиркове"/>
     <string id="Settlements.Settlement.name.castle_NOV13" text="{.MI}Опеченский{.aj} {.MI}Посад{.nn}"/>
-    <string id="Settlements.Settlement.name.village_castle_NOV13_1" text="{.NI}Никандрово"/>
+    <string id="Settlements.Settlement.name.village_castle_NOV13_1" text="Никандрово"/>
     <string id="Settlements.Settlement.name.village_castle_NOV13_2" text="{.FI}Яжелбица{.nnp}"/> <!-- Яжелбицы -->
     <string id="Settlements.Settlement.name.village_castle_NOV13_3" text="Валдай"/>
     <string id="Settlements.Settlement.name.castle_NOV14" text="{.MI}Торжок"/>
-    <string id="Settlements.Settlement.name.village_castle_NOV14_1" text="Кличен"/>
-    <string id="Settlements.Settlement.name.village_castle_NOV14_2" text="Жабачев"/>
-    <string id="Settlements.Settlement.name.village_castle_NOV14_3" text="Загородье"/>
-    <string id="Settlements.Settlement.name.village_castle_NOV14_4" text="Бежецк"/>
+    <string id="Settlements.Settlement.name.village_castle_NOV14_1" text="{.MI}Кличень"/>
+    <string id="Settlements.Settlement.name.village_castle_NOV14_2" text="{.MI}Жабачев"/>
+    <string id="Settlements.Settlement.name.village_castle_NOV14_3" text="{.NI}Загородье"/>
+    <string id="Settlements.Settlement.name.village_castle_NOV14_4" text="{.MI}Бежецк"/>
 
     <string id="town_POL1" text="{.MI}Гданьск"/>
     <string id="town_POL1.text" text="В XIII веке Гданьск был процветающим портовым городом Балтии и торговым центром под властью Померанских герцогов, а его деревянные и земляные укрепления защищали оживленное поселение. Стратегическое расположение города в устье реки Висла сделало его важным местом встречи для торговцев со всей Балтийской и Центральной Европы, где славянские торговцы смешивались с немецкими купцами и другими мореплавателями в его растущем портовом районе."/>
@@ -432,9 +432,9 @@
     <string id="village_town_RUS3_1" text="{.MI}Холм-Огарев"/>
     <string id="village_town_RUS3_2" text="{.NI}Деболовский{.aj}"/>  <!-- Деболовское -->
     <string id="town_RUS4" text="{.FI}Тверь"/>
-    <string id="village_town_RUS4_1" text="{.NI}Климово"/>
+    <string id="village_town_RUS4_1" text="Климово"/>
     <string id="village_town_RUS4_2" text="{.MI}Прислон"/>
-    <string id="village_town_RUS4_3" text="{.NI}Бирево"/>
+    <string id="village_town_RUS4_3" text="Бирево"/>
     <string id="town_RUS5" text="{.MI}Торопец"/>
     <string id="village_town_RUS5_1" text="{.MI}Песчаник{.nnp}"/>  <!-- Песчаники -->
     <string id="village_town_RUS5_2" text="{.MI}Вдовец"/>
@@ -445,24 +445,24 @@
     <string id="village_town_RUS6_2" text="{.MI}Столин"/>
     <string id="village_town_RUS6_3" text="{.MI}Петриков"/>
     <string id="town_RUS7" text="{.MI}Владимир"/>
-    <string id="village_town_RUS7_1" text="Грубешов"/>
+    <string id="village_town_RUS7_1" text="{.MI}Грубешов"/>
     <string id="village_town_RUS7_2" text="{.MI}Турийск"/>
     <string id="village_town_RUS7_3" text="Бужковичи"/>
     <string id="village_town_RUS7_4" text="Свинюхи"/>
     <string id="town_RUS8" text="{.MI}Галич"/>
-    <string id="village_town_RUS8_1" text="Тысмяница"/>
+    <string id="village_town_RUS8_1" text="{.FI}Тысмяница"/>
     <string id="village_town_RUS8_2" text="{.MI}Толмач"/>
     <string id="village_town_RUS8_3" text="Коломыя"/>
     <string id="village_town_RUS8_4" text="Онут"/>
     <string id="town_RUS9" text="{.NI}Берестье"/>
     <string id="village_town_RUS9_1" text="{.MI}Мельник"/>
-    <string id="village_town_RUS9_2" text="Каменец"/>
-    <string id="village_town_RUS9_3" text="Володава"/>
-    <string id="village_town_RUS9_4" text="Андреев"/>
+    <string id="village_town_RUS9_2" text="{.MI}Каменец"/>
+    <string id="village_town_RUS9_3" text="{.FI}Володава"/>
+    <string id="village_town_RUS9_4" text="{.MI}Андреев"/>
     <string id="town_RUS10" text="{.MI}Киев"/>
     <string id="village_town_RUS10_1" text="{.MI}Вышгород"/>
     <string id="village_town_RUS10_2" text="{.MI}Василев"/>
-    <string id="village_town_RUS10_3" text="Треполь"/>
+    <string id="village_town_RUS10_3" text="{.MI}Треполь"/>
     <string id="village_town_RUS10_4" text="{.MI}Юрьев"/>
     <string id="town_RUS11" text="{.MI}Смоленск"/>
     <string id="village_town_RUS11_1" text="Немикоры"/>
@@ -515,7 +515,7 @@
     <string id="village_castle_RUS15_1" text="Грабовец"/>
     <string id="village_castle_RUS15_2" text="Сутейск"/>
     <string id="castle_RUS16" text="Белз"/>
-    <string id="village_castle_RUS16_1" text="Львов"/>
+    <string id="village_castle_RUS16_1" text="{.MI}Львов"/>
     <string id="village_castle_RUS16_2" text="Щекотов"/>
     <string id="village_castle_RUS16_3" text="Звенигород"/>
     <string id="castle_RUS17" text="Перемышль"/>
@@ -545,8 +545,8 @@
     <string id="village_castle_RUS24_1" text="{.FI}Мельница"/>
     <string id="village_castle_RUS24_2" text="Степань"/>
     <string id="castle_RUS25" text="Дрогичин"/>
-    <string id="village_castle_RUS25_1" text="Бранск"/>
-    <string id="village_castle_RUS25_2" text="Бельск"/>
+    <string id="village_castle_RUS25_1" text="{.MI}Бранск"/>
+    <string id="village_castle_RUS25_2" text="{.MI}Бельск"/>
     <string id="castle_RUS26" text="{.MI}Корсунь"/>
     <string id="village_castle_RUS26_1" text="Канев"/>
     <string id="village_castle_RUS26_2" text="Торческ"/>

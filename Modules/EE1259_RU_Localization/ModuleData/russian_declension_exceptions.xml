@@ -28,6 +28,20 @@
         <Form case=".lp" value="торопцах" />
     </Word>
 
+    <Word value="каменец">
+        <Form case=".p" value="каменцы" />
+        <Form case=".g" value="каменца" />
+        <Form case=".gp" value="каменцев" />
+        <Form case=".d" value="каменцу" />
+        <Form case=".dp" value="каменцам" />
+        <Form case=".a" value="каменца" />
+        <Form case=".ap" value="каменцев" />
+        <Form case=".i" value="каменцем" />
+        <Form case=".ip" value="каменцами" />
+        <Form case=".l" value="каменце" />
+        <Form case=".lp" value="каменцах" />
+    </Word>
+
     <Word value="литовец">
         <Form case=".p" value="литовцы" />
         <Form case=".g" value="литовца" />
