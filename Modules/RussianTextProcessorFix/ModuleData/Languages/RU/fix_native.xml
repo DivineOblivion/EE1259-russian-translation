@@ -14,6 +14,8 @@
     <string id="shL0WElC" text="{.MI}Отряд{.nn} {TROOP.NAME}{.g}" />
     <string id="u4jhIFwG" text="{.MI}Отряд{.nn} {GANG_LEADER}{.g}" />
     <string id="P5YtNXHR" text="{.MI}Отряд{.nn} {LEADER.NAME}{.g}" />
+    <string id="2LIV2cy7" text="{.MA}Мятежник{.nnp} из {SETTLEMENT}{.g}" />
+    <string id="ZqJ92UN4" text="Прибыл гонец, предлагающий выкуп за {CAPTIVE_HERO.NAME}{.a}." />
 
     <!-- RuFix -->
 

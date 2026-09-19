@@ -603,8 +603,8 @@
     <string id="lt_mead1" text="{.FI}Медовуха"/>
     <string id="lt_wax" text="{.MI}Воск"/>
     <string id="lt_wax1" text="{.MI}Воск"/>
-    <string id="lt_sable_pelts" text="{.FI}соболинный{.ajp} {.FI}шкура{.nnp}"/>
-    <string id="lt_sable_pelts1" text="{.FI}соболинный{.ajp} {.FI}шкура{.nnp}"/>
+    <string id="lt_sable_pelts" text="{.FI}Соболинный{.ajp} {.FI}шкура{.nnp}"/>
+    <string id="lt_sable_pelts1" text="{.FI}Соболинный{.ajp} {.FI}шкура{.nnp}"/>
 
     <!-- craftingpieces -->
 

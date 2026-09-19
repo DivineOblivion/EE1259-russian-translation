@@ -24,8 +24,8 @@
     <string id="baltic_old_lv_desc" text="Балты, живущие вдоль юго-восточного побережья Балтийского моря, имеют свои собственные языки, самобытные культурные обычаи и языческие верования. Они делятся на племена, каждое из которых возглавляет свой вождь. Сохраняя независимость, эти племена объединены общей культурой и религией."/>
 
     <string id="balticdescription" text="Балты, живущие вдоль юго-восточного побережья Балтийского моря, имеют свои собственные языки, самобытные культурные обычаи и языческие верования. Они делятся на племена, каждое из которых возглавляет свой вождь. Сохраняя независимость, эти племена объединены общей культурой и религией."/>
-    <string id="balticfactionadjective" text="балтский"/>
-    <string id="balticcultureadjective" text="балтский"/>
+    <string id="balticfactionadjective" text="балтский{.aj}"/>
+    <string id="balticcultureadjective" text="балтский{.aj}"/>
     <string id="balticfactionshortterm" text="{.MA}Балт{.nnp}"/>
     <string id="balticcultureneutralterm" text="{.MA}Балт{.nnp}"/>
     <string id="balticfactionformalname" text="{.MA}Балт{.nnp}"/>
@@ -47,8 +47,8 @@
     <string id="rus" text="{.MA}Рус{.nnp}"/>
     <string id="rus_desc" text="Культура Руси, занимавшая видное место в Восточной Европе, сочетает славянские традиции с влиянием на них соседних регионов. Она охватывает такие города-государства, как Киев, Новгород и Владимир, каждым из которых правит князь. Общество имеет строгую иерархию: князья, знать, свободные крестьяне и слуги. После крещения Руси князем Владимиром в 988 году преобладающей религией стало восточное православие, тесно связавшее русскую культуру с Византией и противопоставившее её западному католицизму и балтийским языческим обычаям."/>
     <string id="rusdescription" text="Культура Руси, занимавшая видное место в Восточной Европе, сочетает славянские традиции с влиянием на них соседних регионов. Она охватывает такие города-государства, как Киев, Новгород и Владимир, каждым из которых правит князь. Общество имеет строгую иерархию: князья, знать, свободные крестьяне и слуги. После крещения Руси князем Владимиром в 988 году преобладающей религией стало восточное православие, тесно связавшее русскую культуру с Византией и противопоставившее её западному католицизму и балтийским языческим обычаям."/>
-    <string id="rusfactionadjective" text="русский"/>
-    <string id="ruscultureadjective" text="русский"/>
+    <string id="rusfactionadjective" text="русский{.aj}"/>
+    <string id="ruscultureadjective" text="русский{.aj}"/>
     <string id="ruscultureneutralterm" text="{.MA}Рус{.nnp}"/>
     <string id="rusfactionformalname" text="{.MA}Рус{.nnp}"/>
     <string id="rusfactioninformalname" text="{.MA}Рус{.nnp}"/>
@@ -70,8 +70,8 @@
     <string id="northern_crusaders" text="{.MA}Немец{.nnp}"/>
     <string id="northern_crusaders_desc" text="Немецкая культура XIII века в контексте Северных крестовых походов была отмечена сочетанием религиозного фанатизма с идеалами рыцарства (Ritterschaft), воплощёнными в знати, представители которой соединяли христианскую набожность с воинским мастерством, следуя при этом рыцарскому кодексу и поддерживая при своих дворах традиции миннезанга. В этот период немецкие военные и религиозные обычаи, архитектура и принципы организации городов распространялись на прибалтийские земли через Тевтонский орден, члены которого — нередко происходившие из сословия министериалов — сформировали своеобразное сочетание монашеской дисциплины и воинского духа."/>
     <string id="crusaderdescription" text="Немецкая культура XIII века в контексте Северных крестовых походов была отмечена сочетанием религиозного фанатизма с идеалами рыцарства (Ritterschaft), воплощёнными в знати, представители которой соединяли христианскую набожность с воинским мастерством, следуя при этом рыцарскому кодексу и поддерживая при своих дворах традиции миннезанга. В этот период немецкие военные и религиозные обычаи, архитектура и принципы организации городов распространялись на прибалтийские земли через Тевтонский орден, члены которого — нередко происходившие из сословия министериалов — сформировали своеобразное сочетание монашеской дисциплины и воинского духа."/>
-    <string id="crusaderfactionadjective" text="крестоносный"/>
-    <string id="crusadercultureadjective" text="крестоносный"/>
+    <string id="crusaderfactionadjective" text="крестоносный{.aj}"/>
+    <string id="crusadercultureadjective" text="крестоносный{.aj}"/>
     <string id="crusaderfactionshortterm" text="{.MA}Северный{.ajp} {.MA}крестоносец{.nnp}"/>
     <string id="crusaderfactionformalname" text="{.MA}Северный{.ajp} {.MA}крестоносец{.nnp}"/>
     <string id="crusaderfactioninformalname" text="{.MA}Северный{.ajp} {.MA}крестоносец{.nnp}"/>
@@ -95,8 +95,8 @@
     <string id="danish" text="{.MA}Датчанин{.nnp}"/>
     <string id="danish_culture_desc" text="Датская культура, отличавшаяся сильной монархической властью, глубоким религиозным рвением и наследием эпохи викингских походов, способствовала участию Дании в Северных крестовых походах и её территориальной экспансии."/>
     <string id="danishdescription" text="В XIII веке датские крестоносцы во главе с королем Вальдемаром II завоевали приморские земли Эстонии, установив датское правление в ходе Северных крестовых походов."/>
-    <string id="danishfactionadjective" text="датский"/>
-    <string id="danishcultureadjective" text="датский"/>
+    <string id="danishfactionadjective" text="датский{.aj}"/>
+    <string id="danishcultureadjective" text="датский{.aj}"/>
     <string id="danishfactionshortterm" text="{.MA}Датчанин{.nnp}"/>
     <string id="danishfactionformalname" text="{.MA}Датчанин{.nnp}"/>
     <string id="danishfactioninformalname" text="{.MA}Датчанин{.nnp}"/>
@@ -119,8 +119,8 @@
     <string id="estoniandescription" text="К 1259 году эстонцы северного побережья Балтики жили под властью датчан и тевтонских крестоносцев после Северных крестовых походов. Некогда лесной народ, говоривший на финно-угорском языке и придерживавшийся древних обрядов, они были крещены в Латинской церкви; в деревнях по-прежнему сохраняются их язык и обычаи."/>
     <string id="estonianfather" text="{.MA}Лойт"/>
     <string id="estonianmother" text="Юми"/>
-    <string id="estonianfactionadjective" text="эстонский"/>
-    <string id="estoniancultureadjective" text="эстонский"/>
+    <string id="estonianfactionadjective" text="эстонский{.aj}"/>
+    <string id="estoniancultureadjective" text="эстонский{.aj}"/>
     <string id="estonianfactionshortterm" text="{.MA}Эстонец{.nnp}"/>
     <string id="estonianfactionformalname" text="{.MA}Эстонец{.nnp}"/>
     <string id="estonianfactioninformalname" text="{.MA}Эстонец{.nnp}"/>
@@ -140,8 +140,8 @@
     <string id="polishdescription" text="Польская культура XIII века сочетала христианские религиозные традиции со славянскими обычаями и была сосредоточена вокруг деревянных и каменных церквей, замков и монастырей. Из-за феодальной раздробленности (периода разделения на княжества) Польша была политически разделена между князьями из династии Пястов, однако сохраняла культурное единство благодаря общим религиозным практикам и традициям."/>
     <string id="polishrfather" text="{.MA}Збигнев"/>
     <string id="polishmother" text="{.FA}Агнешка"/>
-    <string id="polishfactionadjective" text="польшский"/>
-    <string id="polishcultureadjective" text="польшский"/>
+    <string id="polishfactionadjective" text="польшский{.aj}"/>
+    <string id="polishcultureadjective" text="польшский{.aj}"/>
     <string id="polishfactionshortterm" text="{.MA}Поляк{.nnp}"/>
     <string id="polishfactionformalname" text="{.MA}Поляк{.nnp}"/>
     <string id="polishfactioninformalname" text="{.MA}Поляк{.nnp}"/>
@@ -165,8 +165,8 @@
     <string id="swedishdescription" text="К XIII веку шведы превратились в одну из ведущих сил Балтики, сочетая скандинавские воинские традиции с христианской королевской властью, расширяя свои владения на восток, в Финляндию, и оспаривая датское господство над торговыми путями."/>
     <string id="swedishrfather" text="{.MA}Эрик"/>
     <string id="swedishmother" text="{.FA}Ильва"/>
-    <string id="swedishfactionadjective" text="шведский"/>
-    <string id="swedishcultureadjective" text="шведский"/>
+    <string id="swedishfactionadjective" text="шведский{.aj}"/>
+    <string id="swedishcultureadjective" text="шведский{.aj}"/>
     <string id="swedishfactionshortterm" text="{.MA}Швед{.nnp}"/>
     <string id="swedishfactionformalname" text="{.MA}Швед{.nnp}"/>
     <string id="swedishfactioninformalname" text="{.MA}Швед{.nnp}"/>
@@ -191,8 +191,8 @@
     <string id="mongoldescription" text="К 1259 году западный монгольский улус — владения Джучидов, позднее получившие название Золотая Орда, — господствовал над Причерноморско-Каспийской степью, управляя из Сарая под властью хана Берке. Они взимали дань с русских князей, отправляли тумены на запад и сохраняли кочевой уклад монгольского народа, основанный на юртах и коневодстве."/>
     <string id="mongolfather" text="{.MA}Берке"/>
     <string id="mongolmother" text="{.FA}Боракчин"/>
-    <string id="mongolfactionadjective" text="монгольский"/>
-    <string id="mongolcultureadjective" text="монгольский"/>
+    <string id="mongolfactionadjective" text="монгольский{.aj}"/>
+    <string id="mongolcultureadjective" text="монгольский{.aj}"/>
     <string id="mongolfactionshortterm" text="{.MA}Монгол{.nnp}"/>
     <string id="mongolfactionformalname" text="{.MA}Монгол{.nnp}"/>
     <string id="mongolfactioninformalname" text="{.MA}Монгол{.nnp}"/>
@@ -211,8 +211,8 @@
     <string id="mongol_raidersdescription" text="Монголы XIII века — кочевые степные воины, создавшие одну из крупнейших империй в истории. Они жили в юртах и кочевали вместе со своими стадами, сочетая непревзойдённое искусство верховой езды и стрельбы из лука со строгой родовой иерархией. Известные стремительными набегами и дисциплинированными войсками, они придерживались тенгрианских верований и шаманских обрядов, а власть принадлежала ханам и племенным вождям."/>
     <string id="mongol_raidersfather" text="Бату"/>
     <string id="mongol_raidersmother" text="Саруул"/>
-    <string id="mongol_raiderscultureadjective" text="монгольский"/>
-    <string id="mongol_raidersfactionadjective" text="монгольский"/>
+    <string id="mongol_raiderscultureadjective" text="монгольский{.aj}"/>
+    <string id="mongol_raidersfactionadjective" text="монгольский{.aj}"/>
     <string id="mongol_raiderscultureneutralterm" text="{.MA}Монгол{.nnp}"/>
     <string id="mongol_raidersfactionformalname" text="{.MA}Монгол{.nnp}"/>
     <string id="mongol_raidersfactioninformalname" text="{.MA}Монгол{.nnp}"/>
@@ -251,8 +251,8 @@
     <string id="oeselian_raidersdescription" text="Эзельцы (жители острова Сааремаа на территории современной Эстонии) — могущественное прибалтийско-финское племя мореходов и налётчиков XIII века. Они славились своими кораблями и пиратскими походами по Балтийскому морю, сочетая земледелие и рыболовство с воинственной культурой и языческими обрядами. Эзельцы одними из последних среди северных племён сопротивлялись христианизации, защищая от крестоносцев свои укрепления и священные рощи."/>
     <string id="oeselian_raidersfather" text="{.MA}Тынис"/>
     <string id="oeselian_raidersmother" text="Леэло"/>
-    <string id="oeselian_raidersfactionadjective" text="эзельский"/>
-    <string id="oeselian_raiderscultureadjective" text="эзельский"/>
+    <string id="oeselian_raidersfactionadjective" text="эзельский{.aj}"/>
+    <string id="oeselian_raiderscultureadjective" text="эзельский{.aj}"/>
     <string id="oeselian_raiderscultureneutralterm" text="{.MA}Эзелец{.nnp}"/>
     <string id="oeselian_raidersfactionformalname" text="{.MA}Эзелец{.nnp}"/>
     <string id="oeselian_raidersfactioninformalname" text="{.MA}Эзелец{.nnp}"/>
@@ -269,8 +269,8 @@
     <string id="str_liege_title.oeselian_raiders" text="{.MA}Старейшина"/>
 
     <string id="curonian_raidersdescription" text="Куршская культура XIII века была представлена балтийскими племенами мореходов — куршами. Они славились как свирепые воины, торговцы и морские разбойники, совершавшие походы по Балтийскому морю. Их морские традиции сочетались с языческими обрядами и прочным родоплеменным укладом. Среди их поселений встречались прибрежные городища, деревянные усадьбы и священные рощи, где проводились обряды."/>
-    <string id="curonian_raidersfactionadjective" text="куршский"/>
-    <string id="curonian_raiderscultureadjective" text="куршский"/>
+    <string id="curonian_raidersfactionadjective" text="куршский{.aj}"/>
+    <string id="curonian_raiderscultureadjective" text="куршский{.aj}"/>
     <string id="curonian_raiderscultureneutralterm" text="{.MA}Курш{.nnp}"/>
     <string id="curonian_raidersfactionformalname" text="{.MA}Курш{.nnp}"/>
     <string id="curonian_raidersfactioninformalname" text="{.MA}Курш{.nnp}"/>
@@ -289,8 +289,8 @@
     <string id="str_liege_title_female.curonian_raiders" text="{.FA}Жрица"/>
 
     <string id="bolotyane_raidersdescription" text="Болотяне были людьми вне закона и обитателями болот в лесах Руси XIII века, жившими среди камышей, ольхи и торфяных болот от бассейна Припяти до озёр и топей вокруг Новгорода. Отрезанные от княжеских городов сезонными разливами, они охотились, ставили ловушки на пушного зверя и устраивали засады на путников, вооружённые топорами, копьями и камнями. Их ватаги подчинялись ватажку, а не князю, а в местной речи старейших женщин болот называли болотницами. Для княжеств они были разбойниками; для самих себя — просто людьми болот."/>
-    <string id="bolotyane_raidersfactionadjective" text="болотный"/>
-    <string id="bolotyane_raiderscultureadjective" text="болотный"/>
+    <string id="bolotyane_raidersfactionadjective" text="болотный{.aj}"/>
+    <string id="bolotyane_raiderscultureadjective" text="болотный{.aj}"/>
     <string id="bolotyane_raiderscultureneutralterm" text="{.MA}Болотянин{.nnp}"/>
     <string id="bolotyane_raidersfactionformalname" text="{.MA}Болотянин{.nnp}"/>
     <string id="bolotyane_raidersfactioninformalname" text="{.MA}Болотянин{.nnp}"/>
@@ -309,8 +309,8 @@
     <string id="str_liege_title_female.bolotyane_raiders" text="{.FA}Болотница"/>
 
     <string id="lesniki_raidersdescription" text="Лесники были лесными жителями и людьми вне закона в лесах Руси XIII века, обитавшими среди сосен, берёз и звериных троп от Новгорода и Твери до Смоленска и галицких чащ. Они охотились, добывали пушнину ловушками и устраивали засады на путников, вооружённые ножами, дротиками и охотничьими луками. Их ватаги подчинялись лешаку, а не князю, а в местной речи знающих женщин леса называли знахарками. Для княжеств они были разбойниками; для самих себя — просто людьми леса."/>
-    <string id="lesniki_raiderscultureadjective" text="лесной"/>
-    <string id="lesniki_raidersfactionadjective" text="лесной"/>
+    <string id="lesniki_raiderscultureadjective" text="лесной{.aj}"/>
+    <string id="lesniki_raidersfactionadjective" text="лесной{.aj}"/>
     <string id="lesniki_raiderscultureneutralterm" text="{.MA}Лесник{.nnp}"/>
     <string id="lesniki_raidersfactionformalname" text="{.MA}Лесник{.nnp}"/>
     <string id="lesniki_raidersfactioninformalname" text="{.MA}Лесник{.nnp}"/>
@@ -329,8 +329,8 @@
     <string id="str_liege_title_female.lesniki_raiders" text="{.FA}Знахарка"/>
 
     <string id="volnoye_raidersdescription" text="Войско вольное было ватагами людей вне закона, которые разбивали лагеря возле крупных городов Руси XIII века. Будучи сильнее обычных грабителей, они угоняли лошадей, устраивали засады на дорогах и подчинялись кошевому, а не князю. Их женщины ходили вместе с войском как походницы. Для княжеств они были разбойниками; сами себя они считали просто вольниками."/>
-    <string id="volnoye_raiderscultureadjective" text="вольный"/>
-    <string id="volnoye_raidersfactionadjective" text="вольный"/>
+    <string id="volnoye_raiderscultureadjective" text="вольный{.aj}"/>
+    <string id="volnoye_raidersfactionadjective" text="вольный{.aj}"/>
     <string id="volnoye_raiderscultureneutralterm" text="{.NA}Войско{.nn} {.NA}вольный{.aj}"/>
     <string id="volnoye_raidersfactionformalname" text="{.NA}Войско{.nn} {.NA}вольный{.aj}"/>
     <string id="volnoye_raidersfactioninformalname" text="{.NA}Войско{.nn} {.NA}вольный{.aj}"/>
