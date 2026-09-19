@@ -1,6 +1,6 @@
 # EE1259 v9.1.0 Russian Translation with Grammatical Declensions
 
-Фанатский перевод для мода `Eastern Europe 1259` на версию v9.1.0 с поддержкой склонений/падежей.
+Фанатский перевод для мода [Eastern Europe 1259](https://www.nexusmods.com/mountandblade2bannerlord/mods/6724) на версию v9.1.0 с поддержкой склонений/падежей.
 
 Перевод выполнялся с помощью ИИ с ручным отбором и проверкой. Сверял с употреблением терминов на русском языке, чтобы перевод был не просто переводом транслита в кириллицу, часть адаптации под русский язык имеется.
 
@@ -17,21 +17,35 @@
   - Актуализировал строки, которые в шаблоне устарели
   - Перевёл то, чего не было в шаблоне
 
+## Подготовка к установке
+
+Для работы требуются следующие модификации:
+
+- Harmony: [Harmony on NexusMods](https://www.nexusmods.com/mountandblade2bannerlord/mods/2006) (Так же необходим для работы EE1259)
+- Мод EE 1259: [Eastern Europe 1259 on NexusMods](https://www.nexusmods.com/mountandblade2bannerlord/mods/6724)
+
 ## Установка
 
-(Это два отдельных мода, они не заменяют на прямую файлы мода или игры, кроме `ee_tips.txt` в `LT_EE1259_Map13`)
+(Это отдельные моды, они не заменяют на прямую файлы мода или игры. Кроме `ee_tips.txt` в `LT_EE1259_Map13`, другого способа их перевести - нет)
 
-0. Для руссификации подсказов на экране загрузок преместите `Modules\LT_EE1259_Map13` в `./Mount & Blade II Bannerlord/Modules` с заменой файла `ee_tips.txt`.
-1. Положить содержимое папки `Modules` (т.е. папки `EE1259_RU_Localization` и `RussianTextProcessorFix`) в `./Mount & Blade II Bannerlord/Modules`
-2. В порядке загрузки:
-    - `EE1259_RU_Localization` в любое место после `LT_EE1259_Assets`
+1. Положить содержимое папки `Modules` в `./Mount & Blade II Bannerlord/Modules` (можно выборочно):
+   - Для руссификации подсказов на экране загрузок преместите `LT_EE1259_Map13` в `./Mount & Blade II Bannerlord/Modules` с заменой файла `ee_tips.txt`.
+   - `EE1259_RU_Localization` и `RussianTextProcessorFix` основаные моды для руссификации мода EE 1259.
+   - `Diplomacy_RU_Localization` для руссификации мода `Diplomacy`. (если используете, рекомендованный мод для установки вместе с `EE 1259`)
+2. Порядок загрузки:
     - `RussianTextProcessorFix` поставить в самый низ
+    - `EE1259_RU_Localization` в любое место после `LT_EE1259_Assets`
+    - `Diplomacy_RU_Localization` в любое место после `Bannerlord.Diplomacy`
 
 ## Подробнее
 
 ### EE1259_RU_Localization
 
-Локализация мода `Eastern Europe 1259` в виде отдельного мода.
+Локализация мода `Eastern Europe 1259` на русский язык в виде отдельного мода с поддержкой склонений.
+
+### Diplomacy_RU_Localization
+
+Локализация мода `Diplomacy` на русский язык в виде отдельного мода с поддержкой склонений.
 
 ### RussianTextProcessorFix
 

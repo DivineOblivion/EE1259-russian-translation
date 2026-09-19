@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Module>
+  <Name value="Diplomacy RU Localization" />
+  <Id value="Diplomacy_RU_Localization" />
+  <Version value="v1.0.0" />
+  <SingleplayerModule value="true" />
+  <MultiplayerModule value="false" />
+
+  <DependedModules>
+    <DependedModule Id="Bannerlord.Diplomacy" />
+    <DependedModule Id="RussianTextProcessorFix" />
+  </DependedModules>
+
+  <DependedModuleMetadatas>
+    <DependedModuleMetadata Id="Bannerlord.Diplomacy" order="LoadBeforeThis" />
+  </DependedModuleMetadatas>
+
+  <SubModules />
+</Module>

@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Русский" />
+  </tags>
+  <strings>
+    <!--<string id="" text="" />-->
+    <string id="XmVTQ0bH" text="Военное истощение" />
+
+    <string id="BXluvRnJ" text="Горькое поражение"/>
+    <string id="0aZCy0at" text="Принудительный мир" />
+
+    <string id="vLfbqXjq" text="Ваши войска и народ истощены войной с {ENEMY_KINGDOM}{.i} и больше не желают сражаться. Вам придётся принять условия поражения и выплатить военные репарации в размере {REPARATIONS}{GOLD_ICON}. Эти расходы будут распределены между всеми кланами королевства. {?ADD_TRIBUTE}Вы также обязуетесь ежедневно выплачивать дань в размере {TRIBUTE}{GOLD_ICON}.{?}{\?}{?FIEFS_TO_RETURN_LIST.ANY}{NEW_LINE} {NEW_LINE}Кроме того, вам придётся вернуть {ENEMY_KINGDOM}{.d} {FIEFS_TO_RETURN_LIST.START}{?FIEFS_TO_RETURN_LIST.IS_PLURAL} и {?}{\?}{FIEFS_TO_RETURN_LIST.END}.{NEW_LINE} {NEW_LINE}{?} {\?}Позор поражения обойдётся вам в {INFLUENCE} ед. влияния."/>
+    <string id="ghZCj7hb" text="После того, как ваш последний оплот пал перед врагами, вы больше не можете продолжать войну с {ENEMY_KINGDOM}{.i}. Вам придётся принять условия поражения{?TO_BE_DESTROYED}. Без земель и средств к существованию вашему королевству приходит конец.{?} и выплатить военные репарации в размере {REPARATIONS}{GOLD_ICON}. Эти расходы будут распределены между всеми кланами королевства. {?ADD_TRIBUTE}Вы также обязуетесь ежедневно выплачивать дань в размере {TRIBUTE}{GOLD_ICON}. {?}{\?}Позор поражения обойдётся вам в {INFLUENCE} ед. влияния.{\?}" />
+    <string id="cKV5Jded" text="Войска и народ {KINGDOM.NAME}{.g} истощены войной с {ENEMY_KINGDOM}{.i} и больше не желают сражаться. {KINGDOM_LEADER.NAME} {?KINGDOM_LEADER.GENDER}вынуждена{?}вынужден{\?} принять условия поражения и выплатить военные репарации в размере {REPARATIONS}{GOLD_ICON} (эти расходы будут распределены между всеми кланами королевства). {?ADD_TRIBUTE}{?KINGDOM_LEADER.GENDER}Она{?}Он{\?} также обязуется ежедневно выплачивать дань в размере {TRIBUTE}{GOLD_ICON}.{?}{\?}{?FIEFS_TO_RETURN_LIST.ANY}{NEW_LINE} {NEW_LINE}Кроме того, {KINGDOM_LEADER.NAME} {?KINGDOM_LEADER.GENDER}должна{?}должен{\?} вернуть {ENEMY_KINGDOM}{.d} {FIEFS_TO_RETURN_LIST.START}{?FIEFS_TO_RETURN_LIST.IS_PLURAL} и {?}{\?}{FIEFS_TO_RETURN_LIST.END}.{NEW_LINE} {NEW_LINE}{?} {\?}Позор поражения обойдётся {?KINGDOM_LEADER.GENDER}ей{?}ему{\?} в {INFLUENCE} ед. влияния" />
+    <string id="idAcjzXB" text="После того, как ваш последний оплот пал перед врагами, вы больше не можете продолжать войну с {ENEMY_KINGDOM}{.i}. {KINGDOM_LEADER.NAME} {?KINGDOM_LEADER.GENDER}вынуждена{?}вынужден{\?} принять условия поражения{?TO_BE_DESTROYED}. Без земель и средств к существованию вашему королевству приходит конец.{?} и выплатить военные репарации в размере {REPARATIONS}{GOLD_ICON} (эти расходы будут распределены между всеми кланами королевства). {?ADD_TRIBUTE}{?KINGDOM_LEADER.GENDER}Она{?}Он{\?} также обязуется ежедневно выплачивать дань в размере {TRIBUTE}{GOLD_ICON}. {?}{\?}Позор поражения обойдётся {?KINGDOM_LEADER.GENDER}ей{?}ему{\?} в {INFLUENCE} ед. влияния.{\?}" />
+    <string id="a3W5zKQr" text="Войска и народы {KINGDOM.NAME}{.g} и {ENEMY_KINGDOM}{.g} истощены войной и больше не желают сражаться. Не остаётся ничего иного, кроме как заключить мир{?TO_BE_DESTROYED}, но без земель и средств к существованию {?IS_REBELLION}вашему мятежу приходит конец{?}вашему королевству приходит конец{\?}{?}{\?}." />
+
+    <string id="6eTtSKO4" text="В свете последних событий стало ясно, что мятеж под названием {REBEL_KINGDOM} увенчался успехом и дальнейшее сопротивление бесполезно. Пришло время признать поражение{?TO_BE_DESTROYED}, даже если без земель и средств к существованию ваше королевство прекратит своё существование{?} и дать вашему разобщённому, истерзанному войной королевству шанс на мирную жизнь{\?}." />
+    <string id="2ptArJem" text="В свете последних событий стало ясно, что ваш мятеж потерпел поражение. Пришло время признать поражение и дать разобщённому, измученному войной {ORIGINAL_KINGDOM}{.d} шанс вновь объединиться" />
+
+    <string id="HWiDa4R1" text="Войска и народ {KINGDOM.NAME}{.g} истощены войной с {PLAYER_KINGDOM}{.i} и больше не желают сражаться.{NEW_LINE} {NEW_LINE}{KINGDOM_LEADER.NAME} предлагает заключить мир и готов выплатить военные репарации в размере {REPARATIONS}{GOLD_ICON}. {?ADD_TRIBUTE}{?KINGDOM_LEADER.GENDER}Она{?}Он{\?} также обязуется ежедневно выплачивать дань в размере {TRIBUTE}{GOLD_ICON}.{?}{\?}{?FIEFS_TO_RETURN_LIST.ANY}{NEW_LINE} {NEW_LINE}Кроме того, {KINGDOM_LEADER.NAME} {?KINGDOM_LEADER.GENDER}должна{?}должен{\?} вернуть {PLAYER_KINGDOM}{.d} {FIEFS_TO_RETURN_LIST.START}{?FIEFS_TO_RETURN_LIST.IS_PLURAL} и {?}{\?}{FIEFS_TO_RETURN_LIST.END}.{?}{\?}" />
+    <string id="t0ZS9maD" text="С падением последнего оплота {KINGDOM.LINK}{.i} больше не может продолжать войну с {PLAYER_KINGDOM}.{NEW_LINE} {NEW_LINE}{KINGDOM_LEADER.NAME} предлагает заключить мир{?TO_BE_DESTROYED}, несмотря на то что без земель и средств к существованию это королевство прекратит своё существование.{?} и готов выплатить военные репарации в размере {REPARATIONS}{GOLD_ICON}.{?ADD_TRIBUTE} {?KINGDOM_LEADER.GENDER}Она{?}Он{\?} также обязуется ежедневно выплачивать дань в размере {TRIBUTE}{GOLD_ICON}.{?}{\?}{\?}" />
+    <string id="ZrwszZww" text="Войска и народы {KINGDOM.NAME}{.g} и {PLAYER_KINGDOM}{.g} истощены войной и больше не желают сражаться. {NEW_LINE} {NEW_LINE}{KINGDOM_LEADER.NAME} предлагает заключить мир{?TO_BE_DESTROYED}, хотя без земель и средств к существованию {?IS_REBELLION}их мятеж фактически закончится{?}их королевство прекратит своё существование{\?}{?} без каких-либо условий{\?}." />
+    <string id="q02T8cyI" text="В свете последних событий стало ясно, что мятеж под названием {REBEL_KINGDOM} потерпел поражение. Не пора ли принять их просьбу о мире и прощении, дав вашему разобщённому, измученному войной королевству шанс вновь объединиться?" />
+    <string id="PC5GdgKA" text="В свете последних событий стало ясно, что ваш мятеж против {ORIGINAL_KINGDOM.NAME}{.g} увенчался успехом — даже {ORIGINAL_KINGDOM_LEADER.NAME} это признал! Не пора ли принять их просьбу о мире и тем самым добиться своих целей?" />
+    <string id="13G0c8RE" text="Ваше королевство настолько сильно пострадало от войны, что у вас нет иного выбора, кроме как согласиться на мир." />
+
+    <!-- Report -->
+    <string id="mCue7aFc" text="Отчет о войне" />
+    <string id="hfa8LLqD" text="{EXHAUSTED_FACTION} критически истощено войной с {OTHER_FACTION}{.i}. Её возможности продолжать войну практически исчерпаны, {?IS_CIVIL_WAR}что всё сильнее убеждает её в неизбежности заключения мира{?}и она всё больше склоняется к заключению мира{\?} поскольку военное истощение приближается к максимуму." />
+    <string id="k0Dnf6cU" text="Связано с активным заданием!" />
+    <string id="xPHDtsC1" text="Активное задание не позволяет этой войне завершиться преждевременно. Для обеспечения стабильности военное истощение ни одной из сторон ни при каких обстоятельствах не превысит {CRITICAL_THRESHOLD}%." />
+    <string id="xoY6cYDK" text="Было связано с активным заданием!" />
+    <string id="UvjMFpHs" text="Ранее активное задание не позволяло этой войне завершиться преждевременно. Поэтому показатели в подробном отчёте могут не совпадать с общими значениями военного истощения." />
+    <string id="hAoIC2Iq" text="Дата начала: {START_DATE}" />
+    <string id="qHrihV27" text="Продолжительность войны: {WAR_DURATION} {?(WAR_DURATION > 4)}дней{:?(WAR_DURATION > 1)}дня{:}день{\?}" />
+    <!-- Report breakdowns -->
+    <string id="IlFEeNkY" text="Отчёт о военном истощении" />
+    <string id="zYVH0xYa" text="Потери" />
+    <string id="y7XY860U" text="Разграбленные караваны" />
+    <string id="elRjo1ab" text="Разграбленные деревни" />
+    <string id="DrNBDhx3" text="Потерянные владения" />
+    <string id="X1MIWYzy" text="Плененные герои" />
+    <string id="6FLtWxSp" text="Погибшие герои" />
+    <string id="sCRuliNO" text="Потеря всех владений" />
+    <string id="XIPMI3gR" text="Продолжительность войны" />
+    <string id="FVyFJShW" text="Божественное вмешательство" />
+    <string id="1kGleqyk" text="Итоговое военное истощение" />
+    <string id="i5VSEDE3" text="{START_DATE} - {END_DATE}: {?(COUNT > 4)}Всего {COUNT} предыдущих записей{:?(COUNT > 1)}Всего {COUNT} предыдущие записи{:}{COUNT} предыдущая запись{\?}" />
+
+    <string id="fnPa5bas" text="гарнизонными войсками" />
+    <string id="rwFeQWky" text="Караван {KINGDOM_NAME}{.g}" />
+
+    <!-- Event records -->
+    <string id="Toa6V7RL" text="{START_DATE} - {END_DATE}: {PER_DAY_VALUE}% в день в течение {VALUE} {?(VALUE > 4)}полных дней{:?(VALUE > 1)}полных дня{:}полный день{\?}" />
+    <string id="wMVdLssJ" text="{START_DATE} - {END_DATE}: {PER_DAY_VALUE}% в день в течение {VALUE} {?(VALUE > 4)}полных дней{:?(VALUE > 1)}полных дня{:}полный день{\?} без владений" />
+    <string id="0nTpub9S" text="{START_DATE} - {END_DATE}: {VALUE} {?(VALUE > 4)}потерь{:?(VALUE > 1)}потери{:}потеря{\?} в ходе войны" />
+    <string id="SeWNvf1N" text="{DATE_STR}: {VALUE} {?(VALUE > 4)}потерь{:?(VALUE > 1)}потери{:}потеря{\?} в сражении между {FACTION_PARTY}{.i} и {OTHER_FACTION_PARTY}{.i}" />
+    <string id="9V6S05X3" text="{DATE_STR}: {VALUE} {?(VALUE > 4)}потерь{:?(VALUE > 1)}потери{:}потеря{\?} в сражении за {SETTLEMENT}{.a} между {FACTION_PARTY}{.i} и {OTHER_FACTION_PARTY}{.i}" />
+    <string id="vhBKtne1" text="{DATE_STR}: {RAIDED_CARAVAN} разграблен {OTHER_FACTION_PARTY}{.i}" />
+    <string id="Hnxf9Ox3" text="{DATE_STR}: Деревня {RAIDED_VILLAGE} разграблена {OTHER_FACTION_PARTY}{.i}" />
+    <string id="SXhzqm2N" text="{DATE_STR}: Деревня {RAIDED_VILLAGE} разграблена {OTHER_FACTION_PARTY}{.i} (с учётом убывающей доходности)" />
+    <string id="6cSuGG87" text="{DATE_STR}: {?SETTLEMENT.IS_CASTLE}Замок{?}Город{\?} {SETTLEMENT.NAME} под защитой {FACTION_PARTY}{.g} был взят {OTHER_FACTION_PARTY}{.i}" />
+    <string id="fuaTMWpt" text="{DATE_STR}: {?SETTLEMENT.IS_CASTLE}Замок{?}Город{\?} {SETTLEMENT.NAME} под защитой {FACTION_PARTY}{.g} был отвоёван {OTHER_FACTION_PARTY}{.i} (с учётом убывающей доходности)" />
+    <string id="yRvZ37cx" text="{DATE_STR}: {HERO} попадает в плен к {OTHER_FACTION_PARTY}{.d}" />
+    <string id="i2Moqprl" text="{DATE_STR}: {HERO} попадает в плен к {OTHER_FACTION_PARTY}{.d} (с учётом убывающей доходности)" />
+    <string id="QkSVPgDF" text="{DATE_STR}: {HERO} {?FEMALE}умерла{?}умер{\?} от естественных причин{?YIELDS_DIMINISHING_RETURNS} (с учётом убывающей доходности){?}{\?}" />
+    <string id="S0lkYB5P" text="{DATE_STR}: {HERO} {?FEMALE}была убита{?}был убит{\?} {OTHER_FACTION_PARTY}{.i}{?YIELDS_DIMINISHING_RETURNS} (с учётом убывающей доходности){?}{\?}" />
+    <string id="f6OIFaSj" text="{DATE_STR}: {HERO} умерла при родах{?YIELDS_DIMINISHING_RETURNS} (с учётом убывающей доходности){?}{\?}" />
+    <string id="PmOPed8Y" text="{DATE_STR}: {HERO} {?FEMALE}умерла{?}умер{\?} от старости{?YIELDS_DIMINISHING_RETURNS} (с учётом убывающей доходности){?}{\?}" />
+    <string id="Pp6wYS5m" text="{DATE_STR}: {HERO} {?FEMALE}умерла{?}умер{\?} в бою с {OTHER_FACTION_PARTY}{.i}{?YIELDS_DIMINISHING_RETURNS} (с учётом убывающей доходности){?}{\?}" />
+    <string id="QvGjUrmL" text="{DATE_STR}: {HERO} {?FEMALE}умерла{?}умер{\?} от боевых ран после сражения с {OTHER_FACTION_PARTY}{.i}{?YIELDS_DIMINISHING_RETURNS} (с учётом убывающей доходности){?}{\?}" />
+    <string id="5tBkM1O4" text="{DATE_STR}: {HERO} {?FEMALE}была казнена{?}был казнен{\?} {OTHER_FACTION_PARTY}{.i}{?YIELDS_DIMINISHING_RETURNS} (с учётом убывающей доходности){?}{\?}" />
+    <string id="moeUCyaq" text="{DATE_STR}: {HERO} {?FEMALE}пропала{?}пропал{\?} без вести во время сражения с {OTHER_FACTION_PARTY}{?YIELDS_DIMINISHING_RETURNS} (с учётом убывающей доходности){?}{\?}" />
+    <string id="VB1xpuMA" text="{DATE_STR}: {FACTION} полностью оккупирована {OTHER_FACTION}{.i}" />
+    <string id="X9wHA6q3" text="{DATE_STR}: {FACTION} полностью оккупирована {OTHER_FACTION}{.i} (с учётом убывающей доходности)" />
+    <string id="9vOZJpPu" text="{DATE_STR}: Военное истощение {FACTION}{.g} чудесным образом снизилось (поговаривают, что не обошлось без божественного вмешательства)" />
+    <string id="S5tDXkgK" text="{DATE_STR}: Ходят слухи, что некая таинственная сила пыталась повлиять на военные действия {FACTION}{.g}, но, похоже, ничего не изменилось" />
+    <string id="fJE6Y9mB" text="{DATE_STR}: Народ {FACTION}{.g} внезапно утратил волю к борьбе (поговаривают, что не обошлось без божественного вмешательства)" />
+
+    <!-- Settings -->
+    <string id="V542tneW" text="Военное истощение" />
+    <string id="lSttctYC" text="Включить военное истощение" />
+    <string id="Cxyn9ROT" text="Включает механику военного истощения. По умолчанию включено." />
+    <string id="Yc2YUIva" text="Включить убывающую доходность" />
+    <string id="CaxxEEdC" text="Включает эффект убывающей доходность для некоторых событий при расчете истощения от войны. Значение по умолчанию — включено." />
+    <string id="HPFINWrc" text="Индивидуальные коэффициенты военного истощения" />
+    <string id="LFVkLcIp" text="Включает индивидуальные коэффициенты военного истощения для каждой фракции. Если отключено, для каждой войны будет рассчитываться единый коэффициент на основе совокупной силы противоборствующих фракций. По умолчанию включено." />
+    <string id="gW3eVr5E" text="Включить возвращение владений" />
+    <string id="KEi0UykN" text="Если включено, королевствам, потерпевшим сокрушительное поражение в войне, возможно, придётся вернуть часть завоёванных владений прежним владельцам. По умолчанию включено." />
+    <string id="8TFQWL55" text="Ежедневный прирост военного истощения" />
+    <string id="lgza5wDq" text="Количество военного истощения, добавляемое за каждый день продолжающейся войны. Не зависит от коэффициента военного истощения. Значение по умолчанию — 0.25%." />
+    <string id="PAmPVWgD" text="Множитель для фракций без владений" />
+    <string id="SdjYeYM5" text="Множитель ежедневного прироста военного истощения для фракции, не имеющей владений, по сравнению с фракцией, у которой они есть. Значение по умолчанию — 10." />
+    <string id="s6dNpM6M" text="Военное истощение за каждую потерю" />
+    <string id="NcJtGeM7" text="Количество военного истощения, добавляемое за каждого бойца, потерянного фракцией в бою. Значение по умолчанию — 0.02%." />
+    <string id="kr5zAufg" text="Военное истощение за нападение на караван" />
+    <string id="PinVMCUE" text="Количество военного истощения, добавляемое при нападении на караван фракции. Значение по умолчанию — 2.0%." />
+    <string id="qFJ23KxQ" text="Военное истощение за пленение героя" />
+    <string id="wctCn9uO" text="Базовое количество военного истощения, добавляемое при пленении знатного героя фракции. Зависит от значимости героя для фракции. Возможно применение убывающей доходности. Значение по умолчанию — 1.0%." />
+    <string id="4vTzbsXD" text="Военное истощение за гибель героя" />
+    <string id="w80tUaVd" text="Базовое количество военного истощения, добавляемое при гибели знатного героя фракции. Зависит от значимости героя для фракции. При гибели нескольких героев из одного клана возможно применение убывающей доходности. Значение по умолчанию — 5.0%." />
+    <string id="eWVGwf2m" text="Военное истощение за набег" />
+    <string id="ufHDJt8H" text="Количество военного истощения, добавляемое при разорении деревни фракции. Возможно применение убывающей доходности. Значение по умолчанию — 3.0%." />
+    <string id="gGIaLKHk" text="Военное истощение за осаду" />
+    <string id="mCEa773h" text="Количество военного истощения, добавляемое при потере фракцией города. Потеря замка добавляет вдвое меньше. Возможно применение убывающей доходности. Значение по умолчанию — 10.0%." />
+    <string id="JmUPtZdw" text="Военное истощение при потере всех владений" />
+    <string id="541jGrpb" text="Количество военного истощения, добавляемое при потере фракцией всех своих владений. Не зависит от коэффициента военного истощения. Возможно применение убывающей доходности. Значение по умолчанию — 15.0%." />
+    <string id="pPHLRIml" text="Макс. количество записей во всплывающей подсказке" />
+    <string id="YMf0mSqy" text="Максимальное количество записей в каждой всплывающей подсказке с подробным расчётом военного истощения. Установите любое удобное для просмотра значение. Значение по умолчанию — 35." />
+    <string id="F4iFH6un" text="Виджет на карте кампании" />
+    <string id="zTvbZ8Br" text="Включает отдельный виджет военного истощения для каждой текущей войны в верхней части экрана карты кампании. По умолчанию включено." />
+    <string id="jI9NSxtz" text="Вкл. отладочные сообщения о военном истощении игрока" />
+    <string id="LYyNbQds" text="Включает отладочные сообщения о приросте военного истощения у королевства игрока. По умолчанию отключено."/>
+
+  </strings>
+</base>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Русский" />
+  </tags>
+  <strings>
+    <!-- Faction Titles -->
+    <string id="MXAsjFdI" text="{.MI}Заговор{.nn} {CLAN_NAME}{.g}" />
+    <string id="LUzfk4tb" text="{.FI}Лига{.nn} {CLAN_NAME}{.g}" />
+
+    <!-- Aserai Titles -->
+    <string id="iLMqCvmk" text="{.MI}Султанат{.nn} {CLAN_NAME}{.g}" />
+    <string id="EnpnMNRH" text="{.MI}Эмират{.nn} {CLAN_NAME}{.g}" />
+    <string id="uzd9mxIC" text="Бану {CLAN_NAME}{.g}" />
+    <string id="NTFz3B56" text="{.MI}Шарифат{.nn} {CLAN_NAME}{.g}" />
+
+    <!-- Battania Titles -->
+    <string id="kaU24WXu" text="{.FI}Конфедерация{.nn} {CLAN_NAME}{.g}" />
+
+    <!-- Khuzait Titles -->
+    <string id="mEHufuep" text="{.MI}Каганат{.nn} {CLAN_NAME}{.g}" />
+    <string id="DTBaowBi" text="{.MI}Каганат{.nn} {CLAN_NAME}{.g}" />
+    <string id="pRgQF4WY" text="{.FI}Династия{.nn} {CLAN_NAME}{.g}" />
+
+    <!-- Sturgia Titles -->
+    <string id="z5VPFrfh" text="{.NI}Графство{.nn} {CLAN_NAME}{.g}" />
+
+    <!-- Vlandia Titles -->
+    <string id="A4zT7H5g" text="{.NI}Великий{.aj} {.NI}княжество{.nn} {CLAN_NAME}{.g}" />
+
+
+    <!-- Generic Titles -->
+    <string id="kToqhmHh" text="{.NI}Княжество{.nn} {CLAN_NAME}{.g}" />
+    <string id="WjB3SM1f" text="{.NI}Королевство{.nn} {CLAN_NAME}{.g}" />
+    <string id="E63n30UM" text="{.FI}Империя{.nn} {CLAN_NAME}{.g}" />
+    <string id="lSQeaVfw" text="{.FI}Империя{.nn} {CLAN_NAME}{.g}" />
+  </strings>
+</base>
