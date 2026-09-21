@@ -1,7 +1,5 @@
 # Русификатор для мода Eastern Europe 1259 (EE1259) на Mount & Blade II: Bannerlord
 
-Поддерживаемая версия мода: v9.1.0
-
 ## EE1259 Russian Translation with Grammatical Declensions
 
 Фанатский перевод для мода [Eastern Europe 1259](https://www.nexusmods.com/mountandblade2bannerlord/mods/6724) с поддержкой склонений/падежей.
@@ -20,6 +18,11 @@
 - Полностью читаю строки из файлов мода, а не использую шаблон от разработчика, за счет чего:
   - Актуализировал строки, которые в шаблоне устарели
   - Перевёл то, чего не было в шаблоне
+
+## Поддерживаемые версии модов:
+
+- [EE1259](https://www.nexusmods.com/mountandblade2bannerlord/mods/6724): v9.1.0
+- [Diplomacy](https://www.nexusmods.com/mountandblade2bannerlord/mods/832): v1.5.3
 
 ## Подготовка к установке
 
