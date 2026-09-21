@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Module>
+  <Name value="RBM RU Localization" />
+  <Id value="RBM_RU_Localization" />
+  <Version value="v1.0.0" />
+  <SingleplayerModule value="true" />
+  <MultiplayerModule value="false" />
+
+  <DependedModules>
+    <DependedModule Id="RBM" />
+    <DependedModule Id="RussianTextProcessorFix" />
+  </DependedModules>
+
+  <DependedModuleMetadatas>
+    <DependedModuleMetadata Id="RBM" order="LoadBeforeThis" />
+  </DependedModuleMetadatas>
+
+  <SubModules />
+</Module>

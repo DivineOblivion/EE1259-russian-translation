@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RussianDeclensionExceptions>
+    <Word value="камешек">
+        <Form case=".p" value="камешки" />
+        <Form case=".g" value="камешка" />
+        <Form case=".gp" value="камешков" />
+        <Form case=".d" value="камешку" />
+        <Form case=".dp" value="камешкам" />
+        <Form case=".a" value="камешек" />
+        <Form case=".ap" value="камешки" />
+        <Form case=".i" value="камешком" />
+        <Form case=".ip" value="камешками" />
+        <Form case=".l" value="камешке" />
+        <Form case=".lp" value="камешках" />
+    </Word>
+</RussianDeclensionExceptions>

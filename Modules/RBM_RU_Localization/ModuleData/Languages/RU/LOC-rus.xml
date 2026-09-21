@@ -1,0 +1,545 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Русский" />
+  </tags>
+  <strings>
+    <!-- AI Module Strings -->
+    <string id="RBM_AI_001" text="АТК ЛУЧ:" />
+    <string id="RBM_AI_002" text="АТК КЛ :" />
+    <string id="RBM_AI_003" text="АТК КАВ:" />
+    <string id="RBM_AI_004" text="АТК ПЕХ:" />
+    <string id="RBM_AI_005" text="ЗАЩ ЛУЧ:" />
+    <string id="RBM_AI_006" text="ЗАЩ КЛ :" />
+    <string id="RBM_AI_007" text="ЗАЩ КАВ:" />
+    <string id="RBM_AI_008" text="ЗАЩ ПЕХ:" />
+    <string id="RBM_AI_009" text="Стойкость сломлена: Стойкость истощена, через защиту прошло {DMG} ед. урона" />
+    <string id="RBM_AI_010" text="Стойкость врага сломлена: Стойкость истощена, через защиту прошло {DMG} ед. урона" />
+    <string id="RBM_AI_011" text="Стойкость сломлена: Стойкость истощена, через защиту прошло {DMG} ед. урона" />
+    <string id="RBM_AI_012" text="Стойкость врага сломлена: Стойкость истощена, идеальное парирование, через защиту прошло {DMG} ед. урона" />
+    <string id="RBM_AI_013" text="Стойкость сломлена: Стойкость истощена, идеальное парирование" />
+    <string id="RBM_AI_014" text="Стойкость сломлена: Стойкость истощена, блок с неверной стороны" />
+    <string id="RBM_AI_015" text="Стойкость сломлена: Стойкость истощена, блок с верной стороны" />
+    <string id="RBM_AI_016" text="Стойкость сломлена: Стойкость истощена, идеальном парировании, блок с верной стороны" />
+    <string id="RBM_AI_017" text="Стойкость сломлена: Стойкость истощена, идеальном парировании, блок с верной стороны" />
+    <string id="RBM_AI_018" text="Стойкость сломлена: Стойкость истощена, встречное парирование" />
+    <string id="RBM_AI_019" text="Стойкость сломлена: Стойкость истощена, через встречное парирование прошло {DMG} ед. урона" />
+    <string id="RBM_AI_020" text="Через встречное парирование прошло {DMG} ед. урона" />
+    <string id="RBM_AI_021" text="Вы получили {DMG1} ед. тупой травмы и {DMG2} ед. проникающего урона" />
+    <string id="RBM_AI_022" text="Вы нанесли {DMG1} ед. тупой травмы и {DMG2} ед. проникающего урона" />
+    <string id="RBM_AI_023" text="Стойкость" />
+    <string id="RBM_AI_024" text="Выносливость" />
+    <!-- Combat Module Strings -->
+    <string id="RBM_COM_001" text="Попадание по противнику {TYPE}" />
+    <string id="RBM_COM_002" text="Попадание по вам {TYPE}" />
+    <string id="RBM_COM_003" text="рукоятью" />
+    <string id="RBM_COM_004" text="навершием" />
+    <string id="RBM_COM_005" text="Попадание противнику в лицо!" />
+    <string id="RBM_COM_006" text="Попадание вам в лицо!" />
+    <string id="RBM_COM_007" text="Попадание противнику под плечо" />
+    <string id="RBM_COM_008" text="Попадание вам под плечо" />
+    <string id="RBM_COM_009" text="Идеальная масса боеприпаса для дальности/урона, г: " />
+    <string id="RBM_COM_010" text="Начальная скорость снаряда, м/с: " />
+    <string id="RBM_COM_011" text="Сила натяжения с модификатором: " />
+    <string id="RBM_COM_012" text="Проникающий урон снаряда" />
+    <string id="RBM_COM_013" text="Рубящий урон снаряда" />
+    <string id="RBM_COM_014" text="Соответствующий навык: " />
+    <string id="RBM_COM_015" text="Урон снаряда" />
+    <string id="RBM_COM_016" text="Коэффициент урона от взмаха:" />
+    <string id="RBM_COM_017" text="Коэффициент урона от выпада:" />
+    <string id="RBM_COM_018" text="Центр удара при взмахе, %: " />
+    <string id="RBM_COM_019" text="Отладочные параметры RBM" />
+    <string id="RBM_COM_020" text="Скорость взмаха, м/с: " />
+    <string id="RBM_COM_021" text="Скорость выпада, м/с: " />
+    <string id="RBM_COM_022" text="Броня щита: " />
+    <string id="RBM_COM_023" text="Броня (лицо)" />
+    <string id="RBM_COM_024" text="Броня (шея)" />
+    <string id="RBM_COM_025" text="Броня (плечи)" />
+    <string id="RBM_COM_026" text="Броня (живот)" />
+    <string id="RBM_COM_027" text="Броня (ниже плеч)" />
+    <string id="RBM_COM_028" text="Б — броня" />
+    <string id="RBM_COM_029" text="У — нанесённый урон" />
+    <string id="RBM_COM_030" text="П — проникающий урон" />
+    <string id="RBM_COM_031" text="Т — тупая травма" />
+    <string id="RBM_COM_032" text="Б" />
+    <string id="RBM_COM_033" text="У" />
+    <string id="RBM_COM_034" text="П" />
+    <string id="RBM_COM_035" text="Т" />
+    <string id="RBM_COM_036" text="Параметры RBM" />
+    <string id="RBM_COM_037" text="Наведите курсор" />
+    <!-- Config Module Strings -->
+    <string id="RBM_CON_001" text="Отключено" />
+    <string id="RBM_CON_002" text="Включено (рекомендуется)" />
+    <string id="RBM_CON_003" text="Переработка войск" />
+    <string id="RBM_CON_004" text="Ванильный" />
+    <string id="RBM_CON_005" text="Реалистичный" />
+    <string id="RBM_CON_006" text="Полуреалистичный" />
+    <string id="RBM_CON_007" text="Скорость перезарядки дальнобойного оружия" />
+    <string id="RBM_CON_008" text="Пассивная защита щитом на плече" />
+    <string id="RBM_CON_009" text="Улучшенная визуализация стрел" />
+    <string id="RBM_CON_010" text="Интерфейс состояния брони" />
+    <string id="RBM_CON_011" text="Реалистичная траектория стрел" />
+    <string id="RBM_CON_012" text="Система стойкости" />
+    <string id="RBM_CON_013" text="Множитель стойкости игрока" />
+    <string id="RBM_CON_014" text="Интерфейс стойкости" />
+    <string id="RBM_CON_015" text="Ванильные блоки/парирования/атаки у ИИ" />
+    <string id="RBM_CON_031" text="Бой в цитадели (последняя оборона)" />
+    <string id="RBM_CON_032" text="Множитель стоимости улучшения воинов" />
+    <string id="RBM_CON_033" text="Realistic Battle Mod" />
+    <string id="RBM_CON_035" text="Множитель добычи с поля боя" />
+    <string id="RBM_CON_037" text="Лимит трофеев на бойца" />
+    <string id="RBM_CON_039" text="Логирование добычи" />
+    <string id="RBM_CON_040" text="Шанс пропустить худшее снаряжение (за разницу в 1 класс)" />
+    <string id="RBM_CON_041" text="Запас еды (в днях)" />
+    <string id="RBM_CON_042" text="Добыча на еду" />
+    <string id="RBM_CON_043" text="Добыча на развлечения" />
+    <string id="RBM_CON_044" text="Доля добычи с набегов" />
+    <string id="RBM_CON_046" text="Резерв добычи (в днях)" />
+    <string id="RBM_CON_047" text="Перерыв между покупками предметов роскоши (в днях)" />
+    <string id="RBM_CON_048" text="Шанс покупки предметов роскоши" />
+    <string id="RBM_CON_049" text="Подробное логирование" />
+    <string id="RBM_CON_065" text="Сбор добычи с павших" />
+    <!-- Campaign option hover tooltips (full descriptions the shortened labels drop) -->
+    <string id="RBM_CON_050" text="Множитель стоимости улучшения бойца в золоте и добыче. Значение 0 отключает систему добычи и делает улучшения бесплатными. По умолчанию: 1.00." />
+    <string id="RBM_CON_051" text="Множитель стоимости снаряжения, которое ваши бойцы собирают после сражения. По умолчанию: 1.00." />
+    <string id="RBM_CON_052" text="Сколько предметов снаряжения один боец может унести с поля боя. По умолчанию: 3." />
+    <string id="RBM_CON_053" text="Вероятность того, что боец пропустит предмет хуже его собственного снаряжения и оставит его менее опытным бойцам. По умолчанию: 0.50." />
+    <string id="RBM_CON_055" text="На сколько дней боец покупает еду при посещении поселения. Значение 0 отключает покупку еды. По умолчанию: 20." />
+    <string id="RBM_CON_056" text="Часть дневного жалованья, которую боец тратит на еду в течение дня. По умолчанию: 0.50." />
+    <string id="RBM_CON_057" text="Часть дневного жалованья, которую боец тратит на выпивку за каждый день бездействия в поселении. По умолчанию: 0.25." />
+    <string id="RBM_CON_059" text="Доля добычи с набега, которую бойцы оставляют себе. По умолчанию: 0.25." />
+    <string id="RBM_CON_061" text="Запас средств группы воинов одного типа, после превышения которого излишки начинают расходоваться. Этот запас равен их жалованью и содержанию за указанное количество дней. По умолчанию: 20." />
+    <string id="RBM_CON_063" text="Сколько дней группа воинов одного типа ждёт после покупки предмета роскоши до следующей такой покупки. По умолчанию: 20." />
+    <string id="RBM_CON_064" text="Вероятность того, что за каждый час бездействия группа воинов одного типа с избыточным запасом средств купит предмет роскоши в поселении. По умолчанию: 0.02." />
+    <string id="RBM_CON_066" text="Часть добычи с убитых и раненых врагов, которую победители уносят с собой. Остальное теряется. По умолчанию: 0.75." />
+    <string id="RBM_CON_062" text="Сбросить настройки" />
+    <string id="RBM_CON_070" text="Улучшение рядом с городом" />
+    <string id="RBM_CON_071" text="Радиус снабжения для улучшения" />
+    <string id="RBM_CON_072" text="Как близко к отряду (в единицах измерения карты) должен быть дружественного или нейтрального города, чтобы улучшить войнов. Требует включённой настройки «Улучшение рядом с городом». По умолчанию: 30." />
+    <string id="RBM_CON_073" text="Стоимость лечения за класс" />
+    <string id="RBM_CON_074" text="Сколько золота раненная группа воинов одного типа платит за ускоренное лечение во время отдыха в поселении с учётом класса войнов. Значение 0 отключает платное лечение. По умолчанию: 10." />
+    <string id="RBM_CON_075" text="Скорость лечения в час" />
+    <string id="RBM_CON_076" text="Максимальная доля раненых в группе воинов одного типа, которых платное лечение исцеляет за один час. Больший запас средств ускоряет выздоровление, но не делает его мгновенным. По умолчанию: 0.05." />
+    <string id="RBM_CON_079" text="Доля лидера отряда" />
+    <string id="RBM_CON_080" text="Базовая доля добычи, собранной бойцами после сражения, набега или разграбления, которую лидер отряда забирает себе в виде золота до распределения остатка между бойцами. Умножается на уровень клана лидера плюс один: лидер без клана или из клана 0-го уровня получает одну такую долю, а из клана 6-го уровня — семь. Значение 0 оставляет бойцам всю добычу. По умолчанию: 0.05." />
+    <string id="RBM_CON_081" text="Ежедневное содержание" />
+    <string id="RBM_CON_082" text="Ежедневные расходы на одного бойца, рассчитываемые как доля полной стоимости его снаряжения, включая лошадь и упряжь. Сначала оплачивается из добычи бойцов, а недостающее — из золота лидера отряда. Значение 0 отключает содержание. По умолчанию: 0.005." />
+    <string id="RBM_CON_083" text="Запас содержания новобранца (в днях)" />
+    <string id="RBM_CON_084" text="На сколько дней содержания новобранец из деревни или города пополняет средства группы воинов своего типа по той же дневной ставке. Значение 0 не добавляет средств. По умолчанию: 20." />
+    <string id="RBM_CON_087" text="Покупка верховых животных для улучшений" />
+    <string id="RBM_CON_088" text="Для улучшения до конного воина больше не требуется и не расходуется лошадь из инвентаря: лошадь и упряжь оплачиваются золотом или добычей. Отключение возвращает ванильное требование лошади в инвентаре. По умолчанию: включено." />
+    <string id="RBM_CON_091" text="Доля содержания за собственный счёт" />
+    <string id="RBM_CON_092" text="Доля ежедневного содержания, которую покрывают бойцы из собственной добычи, для кланов, не связанный ни с каким королевством, или наемников по контракту (на время контракта его выплаты удваиваются). Недостающая сумма вычитается из золота лидера отряда. Присягнувшие вассалы и правители ничего не платят из собственных средств. По умолчанию: 1.00." />
+    <string id="RBM_CON_093" text="Подробный автобой" />
+    <string id="RBM_CON_094" text="Логирование подробного автобоя" />
+    <string id="RBM_CON_095" text="Логирование сражений" />
+    <string id="RBM_CON_096" text="Бегство в автобое" />
+    <string id="RBM_CON_097" text="Навыки в автобое" />
+    <string id="RBM_CON_098" text="Сила войнов на основе снаряжения" />
+    <string id="RBM_SPOILS_001" text="Накопленная добыча" />
+    <string id="RBM_SPOILS_002" text="Количество добычи для улучшения" />
+    <string id="RBM_SPOILS_005" text="Получено в качестве добычи: {AMOUNT}" />
+    <string id="RBM_SPOILS_006" text="Покрывается добычей: {AMOUNT}" />
+    <string id="RBM_SPOILS_007" text="Вы заплатите: {AMOUNT}" />
+    <string id="RBM_SPOILS_008" text="{COST}  (бесплатно: {FREE})" />
+    <string id="RBM_SPOILS_009" text="Ваши люди сняли с павших снаряжение и оставили себе качестве добычи на сумму {AMOUNT}." />
+    <string id="RBM_SPOILS_010" text="Ваши люди не нашли у павших ничего пригодного." />
+    <string id="RBM_SPOILS_011" text="Снабжение за собственный счёт" />
+    <string id="RBM_SPOILS_013" text="Ваши люди разграбили {SETTLEMENT}{.a} и захватили добычу на сумму {AMOUNT}." />
+    <string id="RBM_SPOILS_014" text="Ваши люди разорили {SETTLEMENT}{.a} и захватили добычу на сумму {AMOUNT}." />
+    <string id="RBM_SPOILS_012" text="Стоимость текущего снаряжения" />
+    <string id="RBM_SPOILS_015" text="Поблизости нет дружественного города, который мог бы обеспечить это улучшение." />
+    <string id="RBM_SPOILS_016" text="Как лидер отряда, вы получаете свою долю добычи в размере {AMOUNT} золотых." />
+    <string id="RBM_SPOILS_017" text="Содержание войска" />
+    <string id="RBM_SPOILS_018" text="Резерв добычи" />
+    <string id="RBM_SPOILS_019" text="{TOTAL} ({PER} на чел.)" />
+    <string id="RBM_SPOILS_020" text="Оплата содержания из добычи войска" />
+    <string id="RBM_SPOILS_021" text="Из них верховое животное: {AMOUNT}" />
+    <string id="RBM_SPOILS_022" text="Содержание" />
+    <string id="RBM_SPOILS_023" text="Содержание: {AMOUNT}" />
+    <string id="RBM_SPOILS_024" text="Ваши люди сняли с {?COUNT &gt; 1}{COUNT} оставленных пленников{?}оставленного пленника{\?} снаряжение и и оставили себе в качестве добычи на сумму {AMOUNT}." />
+    <string id="RBM_SPOILS_025" text="Ваши люди сняли с проданных пленников снаряжение и оставили себе в качестве добычи на сумму {AMOUNT}." />
+    <string id="RBM_SPOILS_026" text="Их снаряжение забрано в качестве в добычи:{newline}Вашим бойцам: {SPOILS}{newline}Ваша доля как лидера отряда: {CUT} золота" />
+    <string id="RBM_SPOILS_027" text="{BASE}{newline}Вашим бойцам: {SPOILS}{newline}Ваша доля как лидера отряда: {CUT} золота" />
+    <string id="RBM_SPOILS_028" text="Ваши спутники получают свою долю добычи в размере {AMOUNT} золотых." />
+    <string id="RBM_SPOILS_029" text="Ваши люди сняли с переданных пленников снаряжение и оставили себе в качестве добычи на сумму {AMOUNT}." />
+    <string id="RBM_SPOILS_030" text="Ваши люди разорили {SETTLEMENT}{.a}, опустошили рынки и захватили добычу на сумму {AMOUNT}." />
+    <string id="RBM_UPGCAP_TITLE" text="Ежедневнвый бюджет на улучшения" />
+    <string id="RBM_UPGCAP_UNLIMITED" text="Неогран." />
+    <string id="RBM_militia_unpaid" text="Нечем платить" />
+    <string id="RBM_militia_overcap" text="Избыток ополчения" />
+    <string id="RBM_militia_unarmed" text="Нечем вооружить" />
+    <string id="RBM_recruit_tithe" text="Сбор с чужаков" />
+    <string id="RBM_recruit_gear" text="Снаряжение" />
+    <string id="RBM_recruit_cost_title" text="Стоимость найма" />
+    <string id="RBM_recruit_cost_free" text="Бесплатно" />
+    <string id="RBM_wealth_citizen" text="Достаток жителей" />
+    <string id="RBM_wealth_income" text="Налог на достаток поселений" />
+    <string id="RBM_merc_wage_cost" text="Расходы на наемных войнов" />
+    <string id="RBM_merc_wage_pay" text="Оплата расходов наемника" />
+    <string id="RBM_merc_stipend" text="Вознаграждение наемника" />
+    <string id="RBM_merc_unpaid" text="Нанимателю нечем платить" />
+    <string id="RBM_garrison_food" text="Снабжение гарнизона" />
+    <string id="RBM_wealth_settlement" text="Достаток поселения" />
+    <string id="RBM_fin_leader_cut" text="Ваша доля добычи (в среднем за {DAYS} дн.)" />
+    <string id="RBM_fin_companion_spoils" text="Доля добычи спутников (в среднем за {DAYS} дн.)" />
+    <string id="RBM_fin_minting" text="Выручка монетного двора (в среднем за {DAYS} дн.)" />
+    <string id="RBM_fin_upgrade_gold" text="Расходы на улучшения в отрядах клана (в среднем за {DAYS} дн.)" />
+    <string id="RBM_fief_wealth_tax" text="Налог на достаток" />
+    <string id="RBM_fief_castle_surplus" text="Излишки замка" />
+    <string id="RBM_fief_hint_wealth" text="Ежедневный сбор со средств, обращающихся на рынке. Ваша доля передаётся вам, а доля владения идёт на содержание гарнизона, ополчения и служащих. Торговые пошлины остаются в казне владения." />
+    <string id="RBM_fief_hint_castle" text="Каждый день вам перечисляется десятая часть достатка замка, превышающего его потребности." />
+    <string id="RBM_fief_hint_citizen" text="Достаток жителей" />
+    <string id="RBM_fief_hint_owner" text="Выплачено вам сегодня" />
+    <string id="RBM_fief_hint_garrison" text="Сначала владение оплачивает гарнизон из собственной казны. Вам выставляется на оплату только то, что не удалось покрыть из казны." />
+    <string id="RBM_fief_hint_wage" text="Ежедневное жалованье" />
+    <string id="RBM_fief_hint_fief_pays" text="Оплачивается из казны владения" />
+    <string id="RBM_fief_hint_owner_pays" text="Выставляется на оплату вам" />
+    <string id="RBM_SPOILS_004" text="За победу на поле боя ваши воины получают добычу из снаряжения убитых врагов и павших товарищей. Ничего не остаётся в идеальном состоянии: подранные доспехи, изношенные клинки, неполные колчаны стрел. Ветераны выбирают первыми, и чем хуже предмет по сравнению с их собственным снаряжением, тем вероятнее, что они пройдут мимо. Оставшееся достаётся менее опытным бойцам. То, что воины не потратят на улучшение своего снаряжения, они расходуют на еду и выпивку в посещаемых вами поселениях." />
+    <!-- Strategic Power Tooltip Strings -->
+    <string id="RBM_POWER_001" text="Сила: {ATTACKER_TOTAL} у атакующих против {DEFENDER_TOTAL} у защитников" />
+    <string id="RBM_POWER_002" text="ЗАЩИТНИКИ" />
+    <string id="RBM_POWER_003" text="АТАКУЮЩИЕ" />
+    <string id="RBM_POWER_004" text="{COUNT} {TIER} {NAME}: {PER_MAN} ({TOTAL})" />
+    <string id="RBM_CON_016" text="RBM Combat" />
+    <string id="RBM_CON_017" text="Состояние модуля" />
+    <string id="RBM_CON_018" text="RBM AI" />
+    <string id="RBM_CON_019" text="RBM Tournament" />
+    <string id="RBM_CON_020" text="Настройки RBM" />
+    <string id="RBM_CON_021" text="Предпочтение колющего оружия у ИИ (по умолчанию: 0.05)" />
+    <!-- Tournament Module Strings -->
+    <string id="RBM_TOU_001" text="Главный турнир" />
+    <string id="RBM_TOU_002" text="Турнир низшего уровня: уровень {TIER}" />
+    <string id="RBM_TOU_003" text="Поздравляем! Проверка модификатора предмета «{Name}» пройдена: выпало {Roll}, требовалось {Need}." />
+    <string id="RBM_TOU_004" text="Проверка модификатора предмета «{Name}» не пройдена: выпало {Roll}, требовалось {Need}." />
+    <!-- module_strings.xml Strings -->
+    <string id="RBM_STR_001" text="{?IS_RIGHT}На правом фланге {TROOP_NAMES_BEGIN}{?IS_PLURAL} и {?}{\?}{TROOP_NAMES_END} наносят удар по противнику и отходят.{?}{\?}{?IS_LEFT}На левом фланге {TROOP_NAMES_BEGIN}{?IS_PLURAL} и {?}{\?}{TROOP_NAMES_END} наносят удар по противнику и отходят.{?}{\?}" />
+    <string id="RBM_STR_002" text="Пехота обходит врага с фланга." />
+    <string id="RBM_STR_003" text="Лучники обстреливают с флангов." />
+    <string id="RBM_STR_004" text="Кавалерия строится клином перед пехотой." />
+    <string id="RBM_STR_005" text="Обстреливать на расстоянии" />
+    <string id="RBM_STR_006" text="Нанести удар по противнику и отойти." />
+    <string id="RBM_STR_007" text="Атаковать врага" />
+    <string id="RBM_STR_008" text="Вести обстрел с {SIDE_STRING} фланга" />
+    <string id="RBM_STR_009" text="Построиться клином перед пехотой" />
+    <string id="RBM_STR_010" text="Мы планируем атаковать всеми силами, а лучниками обойти противника с фланга." />
+    <string id="RBM_STR_011" text="Мы планируем разделить пехоту и ударить по ним со всех сторон." />
+    <string id="RBM_STR_012" text="Мы планируем выманить врага застрельщиками, а затем ударить по ним всеми силами." />
+    <string id="RBM_STR_013" text="Мы планируем выстроиться в оборонительную линию, расположив лучников на флангах." />
+    <string id="RBM_STR_014" text="Мы планируем атаковать кавалерией в лоб, а затем ударить по разбитому строю противника." />
+    <!-- RBMCombat_arrow_visuals.xml Strings -->
+    <string id="RBM_ARR_001" text="{.FI}Дальнобойный{.ajp} {.FI}стрела{.nnp} 30 г" />
+    <string id="RBM_ARR_002" text="{.FI}Стрела{.nnp} с зазубренными наконечниками 40 г" />
+    <string id="RBM_ARR_003" text="{.FI}Стрела{.nnp} с коническими игловидными наконечниками 40 г" />
+    <string id="RBM_ARR_004" text="{.MI}Болт{.nnp} с зазубренными наконечниками 50 г" />
+    <string id="RBM_ARR_005" text="{.FI}Стрела{.nnp} с коническими игловидными наконечниками 50 г" />
+    <string id="RBM_ARR_006" text="{.FI}Стрела{.nnp} с зазубренными наконечниками 50 г" />
+    <string id="RBM_ARR_007" text="{.MI}Болт{.nnp} с коническими игловидными наконечниками 60 г" />
+    <string id="RBM_ARR_008" text="{.FI}Стрела{.nnp} с зазубренными наконечниками 60 г" />
+    <string id="RBM_ARR_009" text="{.FI}Стрела{.nnp} с коническими игловидными наконечниками 60 г" />
+    <string id="RBM_ARR_010" text="{.FI}Стрела{.nnp} с коническими игловидными наконечниками 70 г" />
+    <string id="RBM_ARR_011" text="{.MI}Болт{.nnp} с коническими игловидными наконечниками 75 г" />
+    <string id="RBM_ARR_012" text="{.FI}Стрела{.nnp} с коническими игловидными наконечниками 80 г" />
+    <string id="RBM_ARR_013" text="{.MI}Болт{.nnp} с коническими игловидными наконечниками 90 г" />
+    <string id="RBM_ARR_014" text="{.FI}Стрела{.nnp} с коническими игловидными наконечниками 90 г" />
+    <string id="RBM_ARR_015" text="{.FI}Стрела{.nnp} с коническими игловидными наконечниками 100 г" />
+    <string id="RBM_ARR_016" text="{.FI}Тяжелый{.ajp} {.FI}стрела{.nnp} с конич. игловид. након. 110 г" />
+    <string id="RBM_ARR_017" text="{.MI}Тяжелый{.ajp} {.MI}болт{.nnp} с конич. игловид. након. 120 г" />
+    <string id="RBM_ARR_018" text="Очень {.FI}тяжелый{.ajp} {.FI}стрела{.nnp} с конич. игловид. након. 125 г" />
+    <string id="RBM_ARR_019" text="Очень {.MI}тяжелый{.ajp} {.MI}болт{.nnp} с конич. игловид. након. 150 г" />
+    <string id="RBM_ARR_020" text="{.FI}Смазанный{.ajp} {.FI}дальнобойный{.ajp} {.FI}стрела{.nnp} 30 г" />
+    <string id="RBM_ARR_021" text="{.FI}Смазанный{.ajp} {.FI}стрела{.nnp} с зазубр. након. 40 г" />
+    <string id="RBM_ARR_022" text="{.FI}Смазанный{.ajp} {.FI}стрела{.nnp} с конич. игловид. након. 40 г" />
+    <string id="RBM_ARR_023" text="{.MI}Смазанный{.ajp} {.MI}болт{.nnp} с зазубр. након. 50 г" />
+    <string id="RBM_ARR_024" text="{.FI}Смазанный{.ajp} {.FI}стрела{.nnp} с конич. игловид. након. 50 г" />
+    <string id="RBM_ARR_025" text="{.FI}Смазанный{.ajp} {.FI}стрела{.nnp} с зазубр. након. 50 г" />
+    <string id="RBM_ARR_026" text="{.FI}Смазанный{.ajp} {.MI}болт{.nnp} с конич. игловид. након. 60 г" />
+    <string id="RBM_ARR_027" text="{.FI}Смазанный{.ajp} {.FI}стрела{.nnp} с зазубр. након. 60 г" />
+    <string id="RBM_ARR_028" text="{.FI}Смазанный{.ajp} {.FI}стрела{.nnp} с конич. игловид. након. 60 г" />
+    <string id="RBM_ARR_029" text="{.FI}Смазанный{.ajp} {.FI}стрела{.nnp} с конич. игловид. након. 70 г" />
+    <string id="RBM_ARR_030" text="{.FI}Смазанный{.ajp} {.MI}болт{.nnp} с конич. игловид. након. 75 г" />
+    <string id="RBM_ARR_031" text="{.FI}Смазанный{.ajp} {.FI}стрела{.nnp} с конич. игловид. након. 80 г" />
+    <string id="RBM_ARR_032" text="{.FI}Смазанный{.ajp} {.MI}болт{.nnp} с конич. игловид. након. 90 г" />
+    <string id="RBM_ARR_033" text="{.FI}Смазанный{.ajp} {.FI}стрела{.nnp} с конич. игловид. након. 90 г" />
+    <string id="RBM_ARR_034" text="{.FI}Смазанный{.ajp} {.FI}стрела{.nnp} с конич. игловид. након. 100 г" />
+    <string id="RBM_ARR_035" text="{.FI}Смазанный{.ajp} {.FI}тяжелый{.ajp} {.FI}стрела{.nnp} с конич. игловид. након. 110 г" />
+    <string id="RBM_ARR_036" text="{.FI}Смазанный{.ajp} {.MI}тяжелый{.ajp} {.MI}болт{.nnp} с конич. игловид. након. 120 г" />
+    <string id="RBM_ARR_037" text="{.FI}Смазанный{.ajp} очень {.FI}тяжелый{.ajp} {.FI}стрела{.nnp} с конич. игловид. након. 125 г" />
+    <string id="RBM_ARR_038" text="{.FI}Смазанный{.ajp} очень {.MI}тяжелый{.ajp} {.MI}болт{.nnp} с конич. игловид. након. 150 г" />
+    <string id="RBM_ARR_039" text="{.FI}Стрела{.nnp} с зазубренными наконечниками из тамасской стали 80 г" />
+    <string id="RBM_ARR_040" text="{.FI}Стрела{.nnp} с зазубренными наконечниками из тамасской стали 90 г" />
+    <string id="RBM_ARR_041" text="{.FI}Стрела{.nnp} с зазубренными наконечниками из тамасской стали 100 г" />
+    <string id="RBM_ARR_042" text="{.FI}Стрела{.nnp} с зазубренными наконечниками из тамасской стали 110 г" />
+    <string id="RBM_ARR_043" text="{.FI}Стрела{.nnp} с зазубренными наконечниками из тамасской стали 125 г" />
+    <string id="RBM_ARR_044" text="{.MI}Болт{.nnp} с зазубренными наконечниками из закалённой стали 75 г" />
+    <string id="RBM_ARR_045" text="{.MI}Болт{.nnp} с зазубренными наконечниками из закалённой стали 90 г" />
+    <string id="RBM_ARR_046" text="{.MI}Болт{.nnp} с зазубренными наконечниками из закалённой стали 120 г" />
+    <string id="RBM_ARR_047" text="{.MI}Болт{.nnp} с зазубренными наконечниками из закалённой стали 150 г" />
+    <string id="RBM_ARR_048" text="{.FI}Смазанный{.ajp} {.FI}стрела{.nnp} с зазубр. након. из закалённой стали 80 г" />
+    <string id="RBM_ARR_049" text="{.FI}Смазанный{.ajp} {.FI}стрела{.nnp} с зазубр. након. из закалённой стали 90 г" />
+    <string id="RBM_ARR_050" text="{.FI}Смазанный{.ajp} {.FI}стрела{.nnp} с зазубр. након. из закалённой стали 100 г" />
+    <string id="RBM_ARR_051" text="{.FI}Смазанный{.ajp} {.FI}стрела{.nnp} с зазубр. након. из закалённой стали 110 г" />
+    <string id="RBM_ARR_052" text="{.FI}Смазанный{.ajp} {.FI}стрела{.nnp} с зазубр. након. из закалённой стали 125 г" />
+    <string id="RBM_ARR_053" text="{.FI}Смазанный{.ajp} {.MI}болт{.nnp} с зазубр. након. из закалённой стали 75 г" />
+    <string id="RBM_ARR_054" text="{.FI}Смазанный{.ajp} {.MI}болт{.nnp} с зазубр. након. из закалённой стали 90 г" />
+    <string id="RBM_ARR_055" text="{.FI}Смазанный{.ajp} {.MI}болт{.nnp} с зазубр. након. из закалённой стали 120 г" />
+    <string id="RBM_ARR_056" text="{.FI}Смазанный{.ajp} {.MI}болт{.nnp} с зазубр. након. из закалённой стали 150 г" />
+    <string id="RBM_ARR_057" text="{.FI}Стрела{.nnp} «Кальрадский огонь»" />
+    <string id="RBM_ARR_058" text="{.MI}Болт{.nnp} «Кальрадский огонь»" />
+    <!-- RBMCombat_body_armors.xml Strings -->
+    <string id="RBM_ARM_001" text="{.MI}Двойной{.aj} {.MI}кольчужный{.aj} {.MI}хауберк{.nn}" />
+    <string id="RBM_ARM_002" text="{.FI}Легкий{.aj} {.FI}пластинчатый{.aj} {.FI}броня{.nn} поверх кольчуги" />
+    <string id="RBM_ARM_003" text="{.FI}Легкий{.aj} {.FI}пластинчатый{.aj} {.FI}броня{.nn} поверх кольчуги" />
+    <string id="RBM_ARM_004" text="{.FI}Чешуйчатый{.aj} {.FI}броня{.nn} поверх кольчуги" />
+    <string id="RBM_ARM_005" text="{.FI}Пластинчатый{.aj} {.FI}броня{.nn} поверх кольчуги" />
+    <string id="RBM_ARM_006" text="{.FI}Тяжелый{.aj} {.FI}пластинчатый{.aj} {.FI}броня{.nn} поверх кольчуги с чешуйчатой юбкой" />
+    <string id="RBM_ARM_007" text="{.MI}Украшенный{.aj} {.MI}двойной{.aj} {.MI}хауберк{.nn}" />
+    <string id="RBM_ARM_008" text="{.FI}Тяжелый{.aj} {.FI}чешуйчатый{.aj} {.FI}броня{.nn} поверх двойной кольчуги" />
+    <string id="RBM_ARM_009" text="{.MI}Короткий{.aj} {.MI}пластинчатый{.aj} {.MI}жилет{.nn}" />
+    <!-- RBMCombat_couched_lances.xml Strings -->
+    <string id="RBM_CLA_001" text="Легкий наконечник ланца" />
+    <string id="RBM_CLA_002" text="Турнирный легкий наконечник ланца" />
+    <string id="RBM_CLA_003" text="Средний наконечник ланца" />
+    <string id="RBM_CLA_004" text="Турнирный средний наконечник ланца" />
+    <string id="RBM_CLA_005" text="Тяжелый наконечник ланца" />
+    <string id="RBM_CLA_006" text="Листовидный наконечник пики из тамасской стали" />
+    <!-- RBMCombat_gladius.xml Strings -->
+    <string id="RBM_GLA_001" text="{.MI}Метательный{.ajp} {.MI}лабрис{.ajp}" />
+    <string id="RBM_GLA_002" text="{.MI}Огромный{.ajp} {.MI}метательный{.ajp} {.MI}топор{.nnp}" />
+    <string id="RBM_GLA_003" text="{.MI}Большой{.ajp} {.MI}метательный{.ajp} {.MI}топор{.nnp}" />
+    <string id="RBM_GLA_004" text="{.MI}Средний{.ajp} {.MI}метательный{.ajp} {.MI}топор{.nnp}" />
+    <string id="RBM_GLA_005" text="{.MI}Малый{.ajp} {.MI}метательный{.ajp} {.MI}топор{.nnp}" />
+    <!-- RBMCombat_head_armors.xml Strings -->
+    <string id="RBM_HEA_001" text="{.MI}Шлем{.nn} знатной гвардии" />
+    <!-- RBMCombat_horse_armors.xml Strings -->
+    <string id="RBM_HAR_001" text="{.FI}Пластинчатый{.aj} {.FI}броня{.nn}" />
+    <!-- RBMCombat_item_modifiers.xml Strings -->
+    <string id="RBM_MOD_001" text="Damaged" />
+    <string id="RBM_MOD_002" text="Highly Damaged" />
+    <string id="RBM_MOD_003" text="Ruined" />
+    <string id="RBM_MOD_004" text="Scratched" />
+    <string id="RBM_MOD_005" text="Scratched Loose" />
+    <string id="RBM_MOD_006" text="Scratched Rusty" />
+    <string id="RBM_MOD_007" text="Slightly Damaged" />
+    <string id="RBM_MOD_008" text="Very Highly Damaged" />
+    <!-- RBMCombat_lances.xml Strings -->
+    <string id="RBM_LAN_001" text="{.MI}Сосновый{.aj} {.MI}метательный{.aj} {.MI}дротик{.nn}" />
+    <string id="RBM_LAN_002" text="{.MI}Сосновый{.aj} {.MI}дротик{.nn}" />
+    <string id="RBM_LAN_003" text="{.MI}Сосновый{.aj} {.MI}метательный{.aj} {.MI}ланец{.nn}" />
+    <string id="RBM_LAN_004" text="{.MI}Метательный{.aj} {.MI}ланец{.nn} из ясеня" />
+    <string id="RBM_LAN_005" text="{.MI}Дротик{.nn} из ясеня" />
+    <string id="RBM_LAN_006" text="{.MI}Дубовый{.aj} {.MI}метательный{.aj} {.MI}ланец{.nn}" />
+    <string id="RBM_LAN_007" text="{.MI}Дубовый{.aj} {.MI}ангон{.nn}" />
+    <string id="RBM_LAN_008" text="{.MI}Метательный{.aj} {.MI}дротик{.nn} из махагони" />
+    <string id="RBM_LAN_009" text="{.MI}Дротик{.nn} из махагони" />
+    <string id="RBM_LAN_010" text="{.MI}Метательный{.aj} {.MI}ланец{.nn} из махагони" />
+    <string id="RBM_LAN_011" text="{.MI}Вландийский{.aj} {.MI}легкий{.aj} {.MI}ланец{.nn}" />
+    <string id="RBM_LAN_012" text="{.MI}Имперский{.aj} {.MI}легкий{.aj} {.MI}ланец{.nn}" />
+    <string id="RBM_LAN_013" text="{.MI}Хузаитский{.aj} {.MI}легкий{.aj} {.MI}ланец{.nn}" />
+    <string id="RBM_LAN_014" text="{.MI}Вландийский{.aj} {.MI}ланец{.nn}" />
+    <string id="RBM_LAN_015" text="{.MI}Имперский{.aj} {.MI}ланец{.nn}" />
+    <string id="RBM_LAN_016" text="{.MI}Восточный{.aj} {.MI}ланец{.nn} знати" />
+    <string id="RBM_LAN_017" text="{.FI}Восточный{.aj} {.FI}алебарда{.nn}" />
+    <string id="RBM_LAN_018" text="{.FI}Западный{.aj} {.FI}пика{.nn}" />
+    <string id="RBM_LAN_019" text="{.FI}Легкий{.aj} {.FI}менавла{.nn}" />
+    <!-- RBMCombat_ranged.xml Strings -->
+    <string id="RBM_RAN_001" text="330-{.MI}фунтовый{.aj} {.MI}восточный{.aj} {.MI}арбалет{.nn}" />
+    <string id="RBM_RAN_002" text="300-{.MI}фунтовый{.aj} {.MI}восточный{.aj} {.MI}арбалет{.nn}" />
+    <string id="RBM_RAN_003" text="270-{.MI}фунтовый{.aj} {.MI}восточный{.aj} {.MI}арбалет{.nn}" />
+    <string id="RBM_RAN_004" text="230-{.MI}фунтовый{.aj} {.MI}восточный{.aj} {.MI}арбалет{.nn}" />
+    <string id="RBM_RAN_005" text="200-{.MI}фунтовый{.aj} {.MI}восточный{.aj} {.MI}арбалет{.nn}" />
+    <string id="RBM_RAN_006" text="160-{.MI}фунтовый{.aj} {.MI}восточный{.aj} {.MI}арбалет{.nn}" />
+    <string id="RBM_RAN_007" text="120-{.MI}фунтовый{.aj} {.MI}восточный{.aj} {.MI}арбалет{.nn}" />
+    <string id="RBM_RAN_008" text="200-{.MI}фунтовый{.aj} {.MI}боевой{.aj} {.MI}длинный{.aj} {.MI}лук{.nn}" />
+    <string id="RBM_RAN_009" text="200-{.MI}фунтовый{.aj} {.MI}турнирный{.aj} {.MI}длинный{.aj} {.MI}лук{.nn}" />
+    <string id="RBM_RAN_010" text="180-{.MI}фунтовый{.aj} {.MI}боевой{.aj} {.MI}длинный{.aj} {.MI}лук{.nn}" />
+    <string id="RBM_RAN_011" text="170-{.MI}фунтовый{.aj} {.MI}боевой{.aj} {.MI}длинный{.aj} {.MI}лук{.nn}" />
+    <string id="RBM_RAN_012" text="166-{.MI}фунтовый{.aj} {.MI}составной{.aj} {.MI}боевой{.aj} {.MI}лук{.nn}" />
+    <string id="RBM_RAN_013" text="166-{.MI}фунтовый{.aj}  {.MI}турнирный{.aj} {.MI}составной{.aj} {.MI}лук{.nn}" />
+    <string id="RBM_RAN_014" text="160-{.MI}фунтовый{.aj} {.MI}боевой{.aj} {.MI}длинный{.aj} {.MI}лук{.nn}" />
+    <string id="RBM_RAN_015" text="150-{.MI}фунтовый{.aj} {.MI}боевой{.aj} {.MI}длинный{.aj} {.MI}лук{.nn}" />
+    <string id="RBM_RAN_016" text="140-{.MI}фунтовый{.aj} {.MI}боевой{.aj} {.MI}длинный{.aj} {.MI}лук{.nn}" />
+    <string id="RBM_RAN_017" text="135-{.MI}фунтовый{.aj} {.MI}составной{.aj} {.MI}боевой{.aj} {.MI}лук{.nn}" />
+    <string id="RBM_RAN_018" text="130-{.MI}фунтовый{.aj} {.MI}боевой{.aj} {.MI}длинный{.aj} {.MI}лук{.nn}" />
+    <string id="RBM_RAN_019" text="125-{.MI}фунтовый{.aj} {.MI}составной{.aj} {.MI}боевой{.aj} {.MI}лук{.nn}" />
+    <string id="RBM_RAN_020" text="120-{.MI}фунтовый{.aj} {.MI}боевой{.aj} {.MI}длинный{.aj} {.MI}лук{.nn}" />
+    <string id="RBM_RAN_021" text="120-{.MI}фунтовый{.aj} {.MI}составной{.aj} {.MI}боевой{.aj} {.MI}лук{.nn}" />
+    <string id="RBM_RAN_022" text="110-{.MI}фунтовый{.aj} {.MI}составной{.aj} {.MI}боевой{.aj} {.MI}лук{.nn}" />
+    <string id="RBM_RAN_023" text="100-{.MI}фунтовый{.aj} {.MI}составной{.aj} {.MI}боевой{.aj} {.MI}лук{.nn}" />
+    <string id="RBM_RAN_024" text="100-{.MI}фунтовый{.aj} {.MI}боевой{.aj} {.MI}длинный{.aj} {.MI}лук{.nn}" />
+    <string id="RBM_RAN_025" text="90-{.MI}фунтовый{.aj} {.MI}длинный{.aj} {.MI}лук{.nn}" />
+    <string id="RBM_RAN_026" text="90-{.MI}фунтовый{.aj} {.MI}составной{.aj} {.MI}лук{.nn}" />
+    <string id="RBM_RAN_027" text="70-{.MI}фунтовый{.aj} {.MI}составной{.aj} {.MI}лук{.nn}" />
+    <string id="RBM_RAN_028" text="60-{.MI}фунтовый{.aj} {.MI}составной{.aj} {.MI}лук{.nn}" />
+
+    <string id="RBM_RAN_029" text="100-{.MI}фунтовый{.aj} {.MI}восточный{.aj} {.MI}арбалет{.nn}" />
+    <string id="RBM_RAN_030" text="{.MI}Легкий{.aj} 80-{.MI}фунтовый{.aj} {.MI}восточный{.aj} {.MI}арбалет{.nn}" />
+    <string id="RBM_RAN_031" text="{.MI}Тяжелый{.aj} 80-{.MI}фунтовый{.aj} {.MI}многозарядный{.aj} {.MI}арбалет{.nn}" />
+    <string id="RBM_RAN_032" text="{.MI}Средний{.aj} 60-{.MI}фунтовый{.aj} {.MI}многозарядный{.aj} {.MI}арбалет{.nn}" />
+    <string id="RBM_RAN_033" text="{.MI}Легкий{.aj} 45-{.MI}фунтовый{.aj} {.MI}многозарядный{.aj} {.MI}арбалет{.nn}" />
+    <string id="RBM_RAN_034" text="{.MI}Камешек{.nnp} для пращи 35 г" />
+    <string id="RBM_RAN_035" text="{.MI}Камешек{.nnp} для пращи 50 г" />
+    <string id="RBM_RAN_036" text="{.MI}Камешек{.nnp} для пращи 80 г" />
+    <string id="RBM_RAN_037" text="{.MI}Камень{.nnp} для пращи 120 г" />
+    <string id="RBM_RAN_038" text="{.MI}Камень{.nnp} для пращи весом в пол-либры 164 г" />
+    <string id="RBM_RAN_039" text="{.MI}Камень{.nnp} для пращи весом в полмины 218 г" />
+    <string id="RBM_RAN_040" text="{.MI}Камень{.nnp} для пращи весом в одну либру 329 г" />
+    <string id="RBM_RAN_041" text="{.MI}Камень{.nnp} для пращи весом в одну мину 436 г" />
+    <string id="RBM_RAN_042" text="{.FI}Обтесанный{.ajp} {.FI}пуля{.nnp} для пращи 35 г" />
+    <string id="RBM_RAN_043" text="{.FI}Обтесанный{.ajp} {.FI}пуля{.nnp} для пращи 50 г" />
+    <string id="RBM_RAN_044" text="{.FI}Обтесанный{.ajp} {.FI}пуля{.nnp} для пращи 80 г" />
+    <string id="RBM_RAN_045" text="{.FI}Обтесанный{.ajp} {.FI}осадный{.ajp} {.FI}пуля{.nnp} для пращи 140 г" />
+    <string id="RBM_RAN_046" text="{.FI}Свинцовый{.ajp} {.FI}пуля{.nnp} для пращи 35 г" />
+    <string id="RBM_RAN_047" text="{.FI}Свинцовый{.ajp} {.FI}пуля{.nnp} для пращи 50 г" />
+    <string id="RBM_RAN_048" text="{.FI}Свинцовый{.ajp} {.FI}пуля{.nnp} для пращи 80 г" />
+    <string id="RBM_RAN_049" text="{.FI}Шерстяной{.aj} {.FI}праща{.nn} 18 дюймов" />
+    <string id="RBM_RAN_050" text="{.FI}Плетеный{.aj} {.FI}праща{.nn} 28 дюймов" />
+    <string id="RBM_RAN_051" text="{.FI}Укрепленный{.aj} {.FI}праща{.nn} 41 дюйм" />
+    <string id="RBM_RAN_052" text="{.MI}Имперский{.aj} {.MI}хейросифон{.nn}" />
+    <string id="RBM_RAN_053" text="{.FI}Шепчущий{.aj} {.FI}Тень{.nn} 150 фунтов" />
+    <!-- RBMCombat_shields.xml Strings -->
+    <string id="RBM_SHI_001" text="{.MI}Укрепленный{.aj} {.MI}небольшой{.aj} {.MI}круглый{.aj} {.MI}щит{.nn} на плечевом ремне" />
+    <string id="RBM_SHI_002" text="{.MI}Круглый{.aj} {.MI}степной{.aj} {.MI}щит{.nn} на плечевом ремне" />
+    <string id="RBM_SHI_003" text="{.MI}Восточный{.aj} {.MI}щит{.nn} всадника на плечевом ремне" />
+    <string id="RBM_SHI_004" text="{.MI}Племенной{.aj} {.MI}степной{.aj} {.MI}щит{.nn} на плечевом ремне" />
+    <string id="RBM_SHI_005" text="{.MI}Украшенный{.aj} {.MI}восточный{.aj} {.MI}щит{.nn} на плечевом ремне" />
+    <string id="RBM_SHI_006" text="{.MI}Маленький{.aj} {.MI}экю{.nn} всадника на плечевом ремне" />
+    <string id="RBM_SHI_007" text="{.MI}Маленький{.aj} {.MI}плоский{.aj} {.MI}экю{.nn} на плечевом ремне" />
+    <string id="RBM_SHI_008" text="{.MI}Маленький{.aj} {.MI}экю{.nn} на плечевом ремне" />
+    <string id="RBM_SHI_009" text="{.MI}Подранный{.aj} {.MI}каплевидный{.aj} {.MI}щит{.nn} наездника на плечевом ремне" />
+    <string id="RBM_SHI_010" text="{.MI}Деревянный{.aj} {.MI}каплевидный{.aj} {.MI}щит{.nn} на плечевом ремне" />
+    <string id="RBM_SHI_011" text="{.MI}Самодельный{.aj} {.MI}каплевидный{.aj} {.MI}щит{.nn} наездника на плечевом ремне" />
+    <string id="RBM_SHI_012" text="{.MI}Легкий{.aj} {.MI}каплевидный{.aj} {.MI}щит{.nn} всадника на плечевом ремне" />
+    <string id="RBM_SHI_013" text="{.MI}Каплевидный{.aj} {.MI}щит{.nn} всадника на плечевом ремне" />
+    <string id="RBM_SHI_014" text="{.MI}Укрепленный{.aj} {.MI}маленький{.aj} {.MI}щит{.nn} всадника на плечевом ремне" />
+    <string id="RBM_SHI_015" text="{.MI}Каплевидный{.aj} {.MI}щит{.nn} северного всадника на плечевом ремне" />
+    <string id="RBM_SHI_016" text="{.MI}Укрепленный{.aj} {.MI}щит{.nn} всадника на плечевом ремне" />
+    <string id="RBM_SHI_017" text="{.MI}Укрепленный{.aj} {.MI}каплевидный{.aj} {.MI}щит{.nn} всадника на плечевом ремне" />
+    <string id="RBM_SHI_018" text="{.MI}Фигурный{.aj} {.MI}экю{.nn} на плечевом ремне" />
+    <string id="RBM_SHI_019" text="{.MI}Тренировочный{.aj} {.MI}каплевидный{.aj} {.MI}щит{.nn} западного всадника на плечевом ремне" />
+    <string id="RBM_SHI_020" text="{.MI}Каплевидный{.aj} {.MI}щит{.nn} западного всадника на плечевом ремне" />
+    <string id="RBM_SHI_021" text="{.MI}Укрепленный{.aj} {.MI}каплевидный{.aj} {.MI}щит{.nn} с железной окантовкой на плечевом ремне" />
+    <string id="RBM_SHI_022" text="{.MI}Плоский{.aj} {.MI}экю{.nn} на плечевом ремне" />
+    <string id="RBM_SHI_023" text="{.MI}Широкий{.aj} {.MI}экю{.nn} на плечевом ремне" />
+    <string id="RBM_SHI_024" text="{.MI}Щит{.nn} рыцаря на плечевом ремне" />
+    <string id="RBM_SHI_025" text="{.MI}Укрепленный{.aj} скобами {.MI}экю{.nn} на плечевом ремне" />
+    <string id="RBM_SHI_026" text="{.MI}Тяжелый{.aj} {.MI}экю{.nn} на плечевом ремне" />
+    <string id="RBM_SHI_027" text="{.MI}Высокий{.aj} {.MI}экю{.nn} на плечевом ремне" />
+    <string id="RBM_SHI_028" text="{.MI}Подранный{.aj} {.MI}каплевидный{.aj} {.MI}щит{.nn} на плечевом ремне" />
+    <string id="RBM_SHI_029" text="{.MI}Тренировочный{.aj} {.MI}каплевидный{.aj} {.MI}щит{.nn} на плечевом ремне" />
+    <string id="RBM_SHI_030" text="{.MI}Каплевидный{.aj} {.MI}щит{.nn} с железной окантовкой на плечевом ремне" />
+    <string id="RBM_SHI_031" text="{.MI}Укрепленный{.aj} {.MI}плоский{.aj} {.MI}каплевидный{.aj} {.MI}щит{.nn} на плечевом ремне" />
+    <string id="RBM_SHI_032" text="{.MI}Каплевидный{.aj} {.MI}щит{.nn} на плечевом ремне" />
+    <string id="RBM_SHI_033" text="{.MI}Клепаный{.aj} {.MI}каплевидный{.aj} {.MI}щит{.nn} с оплеткой на плечевом ремне" />
+    <string id="RBM_SHI_034" text="{.MI}Усиленный{.aj} {.MI}каплевидный{.aj} {.MI}щит{.nn} на плечевом ремне" />
+    <string id="RBM_SHI_035" text="{.MI}Каплевидный{.aj} {.MI}щит{.nn} рыцаря на плечевом ремне" />
+    <string id="RBM_SHI_036" text="{.FI}Устанавливаемый{.aj} {.FI}павеза{.nn}" />
+    <string id="RBM_SHI_037" text="{.MI}Ветхий{.aj} {.MI}каплевидный{.aj} {.MI}щит{.nn} на плечевом ремне" />
+    <string id="RBM_SHI_038" text="{.MI}Каплевидный{.aj} {.MI}щит{.nn} с кожаной оплеткой на плечевом ремне" />
+    <string id="RBM_SHI_039" text="{.MI}Укрепленный{.aj} {.MI}каплевидный{.aj} {.MI}щит{.nn} на плечевом ремне" />
+    <string id="RBM_SHI_040" text="{.MI}Укрепленный{.aj} {.MI}дубовый{.aj} {.MI}каплевидный{.aj} {.MI}щит{.nn} на плечевом ремне" />
+    <string id="RBM_SHI_041" text="{.MI}Тренировочный{.aj} {.MI}самодельный{.aj} {.MI}каплевидный{.aj} {.MI}щит{.nn} на плечевом ремне" />
+    <string id="RBM_SHI_042" text="{.MI}Самодельный{.aj} {.MI}каплевидный{.aj} {.MI}щит{.nn} на плечевом ремне" />
+    <string id="RBM_SHI_043" text="{.MI}Тренировочный{.aj} {.MI}южный{.aj} {.MI}круглый{.aj} {.MI}щит{.nn}" />
+    <string id="RBM_SHI_044" text="{.MI}Южный{.aj} {.MI}круглый{.aj} {.MI}щит{.nn}" />
+    <string id="RBM_SHI_045" text="{.MI}Тренировочный{.aj} {.MI}северный{.aj} {.MI}круглый{.aj} {.MI}щит{.nn}" />
+    <string id="RBM_SHI_046" text="{.MI}Северный{.aj} {.MI}круглый{.aj} {.MI}щит{.nn}" />
+    <string id="RBM_SHI_047" text="{.MI}Каплевидный{.aj} {.MI}щит{.nn} северного всадника" />
+    <string id="RBM_SHI_048" text="{.MI}Тренировочный{.aj} {.MI}каплевидный{.aj} {.MI}щит{.nn} западного всадника" />
+    <string id="RBM_SHI_049" text="{.MI}Каплевидный{.aj} {.MI}щит{.nn} западного всадника" />
+    <string id="RBM_SHI_050" text="{.MI}Подранный{.aj} {.MI}каплевидный{.aj} {.MI}щит{.nn}" />
+    <string id="RBM_SHI_051" text="{.MI}Щит{.nn} горного застрельщика" />
+    <string id="RBM_SHI_052" text="{.MI}Железный{.aj} {.MI}укрепленный{.aj} {.MI}щит{.nn} горного застрельщика" />
+    <string id="RBM_SHI_053" text="{.MI}Бронзовый{.aj} {.MI}укрепленный{.aj} {.MI}щит{.nn} горного застрельщика" />
+    <string id="RBM_SHI_054" text="{.MI}Украшенный{.aj} {.MI}круглый{.aj} {.MI}щит{.nn} на плечевом ремне" />
+    <string id="RBM_SHI_055" text="{.MI}Круглый{.aj} {.MI}щит{.nn} горцев на плечевом ремне" />
+    <string id="RBM_SHI_056" text="{.MI}Большой{.aj} {.MI}круглый{.aj} {.MI}щит{.nn} на плечевом ремне" />
+    <string id="RBM_SHI_057" text="{.MI}Тяжелый{.aj} {.MI}круглый{.aj} {.MI}щит{.nn} на плечевом ремне" />
+    <string id="RBM_SHI_058" text="{.MI}Укрепленный{.aj} {.MI}большой{.aj} {.MI}круглый{.aj} {.MI}щит{.nn} на плечевом ремне" />
+    <!-- RBMCombat_unit_overhaul.xml Strings -->
+    <string id="RBM_OVH_001" text="Асерайский бывалый лучник" />
+    <string id="RBM_OVH_002" text="Вландийский средний всадник" />
+    <string id="RBM_OVH_003" text="Наемный конный лучник" />
+    <string id="RBM_OVH_004" text="Наемный конный лучник (вет.)" />
+    <string id="RBM_OVH_005" text="Наемный копейщик" />
+    <string id="RBM_OVH_006" text="Наемный пикинер" />
+    <string id="RBM_OVH_007" text="Элитный наемный пикинер" />
+    <string id="RBM_OVH_008" text="Наемный арбалетчик" />
+    <string id="RBM_OVH_009" text="Элитный наемный лучник с боевым луком" />
+    <string id="RBM_OVH_010" text="Всадник" />
+    <string id="RBM_OVH_011" text="Стургийский ударный воин" />
+    <string id="RBM_OVH_012" text="Сын боярина" />
+    <string id="RBM_OVH_013" text="Стургийский берсерк" />
+    <string id="RBM_OVH_014" text="Стургийский ульфхеднар" />
+    <string id="RBM_OVH_015" text="Баттанийский йомен-охотник" />
+    <string id="RBM_OVH_016" text="Баттанийский йомен-лучник" />
+    <string id="RBM_OVH_017" text="Баттанийский йомен-лучник (вет.)" />
+    <string id="RBM_OVH_018" text="Имперский обученный пращник" />
+    <string id="RBM_OVH_019" text="Имперский пращник (вет.)" />
+    <string id="RBM_OVH_020" text="Имперский легионер-пращник" />
+    <string id="RBM_OVH_021" text="Рыцарь Священного огня" />
+    <string id="RBM_OVH_022" text="Карахузаитский кочевник" />
+    <string id="RBM_OVH_023" text="Карахузаитский рейдер" />
+    <string id="RBM_OVH_024" text="Карахузаитский старейшина" />
+    <string id="RBM_OVH_025" text="Наемный варяг" />
+    <string id="RBM_OVH_026" text="Асерайский пращник" />
+    <string id="RBM_OVH_027" text="Элитный наемный варяг" />
+    <string id="RBM_OVH_028" text="Асерайский бывалый пращник" />
+    <string id="RBM_OVH_029" text="Наемный пращник" />
+    <string id="RBM_OVH_030" text="Наемный всадник" />
+    <string id="RBM_OVH_031" text="Асерайский опытный пращник" />
+    <string id="RBM_OVH_032" text="Наемный тяжёлый всадник" />
+    <string id="RBM_OVH_033" text="Сестра арбалета" />
+    <string id="RBM_OVH_034" text="Старшая сестра глефы" />
+    <string id="RBM_OVH_035" text="Сестра глефы" />
+    <string id="RBM_OVH_036" text="Имперский конный акрит" />
+    <string id="RBM_OVH_037" text="Джавал-новобранец с пращой" />
+    <string id="RBM_OVH_038" text="Джавал-пращник" />
+    <string id="RBM_OVH_039" text="Опытный джавал-пращник" />
+    <string id="RBM_OVH_040" text="Элитный наемный пращник" />
+    <!-- Trade Good Repricing Strings -->
+    <!-- Inventory Weight Column Strings -->
+    <string id="RBM_CON_105" text="Столбец веса в инвентаре" />
+    <string id="RBM_CON_106" text="Вес" />
+    <string id="RBM_CON_107" text="Логирование экономики" />
+    <string id="RBM_CON_108" text="Записывает цепочку поставок товаров и продовольствия из деревень в города в каталог logs/economy рядом с файлом настроек: суточное производство каждой деревни, каждый отправленный отряд крестьян с его численностью, составом и грузом, запасы продовольствия каждого города и состояние всех поселений в конце дня. Подробно и будет полезно только для тонкой настройки экономики." />
+    <string id="RBM_CON_109" text="Начальное золото" />
+    <string id="RBM_CON_110" text="Сумма золота в начале новой кампании, заменяющая результат создания персонажа. Применяется только к новой игре, загруженное сохранение сохраняет прежнее золото. По умолчанию: 5000." />
+    <!-- Spectate Strings -->
+    <string id="RBM_CON_099" text="Наблюдение за ИИ боями" />
+    <string id="RBM_CON_101" text="Минимум воинов с каждой стороны для наблюдения" />
+    <string id="RBM_CON_102" text="Сколько воинов должно быть у каждой стороны, чтобы предлагалось посмотреть сражение двух лордов под управлением ИИ. В стычке двух патрулей сложно предугадать кто одержит победу на самом деле. По умолчанию: 100." />
+    <string id="RBM_SPECTATE_001" text="Посмотреть это сражение?" />
+    <string id="RBM_SPECTATE_002" text="Две армии встретились в поле. Вы можете наблюдать за сражением свободной камерой, пока обеими сторонами командует ИИ. Выберите сторону для просмотра.{newline}{newline}Это только наблюдение: сражение на карте рассчитывается отдельно, и увиденное вами не влияет на его исход." />
+    <string id="RBM_SPECTATE_003" text="Смотреть" />
+    <string id="RBM_SPECTATE_004" text="Пропустить" />
+    <string id="RBM_SPECTATE_005" text="Атакующие: {NAME} ({COUNT} чел. · сила {POWER})" />
+    <string id="RBM_SPECTATE_006" text="Защитники: {NAME} ({COUNT} чел. · сила {POWER})" />
+    <string id="RBM_SPECTATE_007" text="Посмотреть этот штурм?" />
+    <string id="RBM_SPECTATE_008" text="Армия штурмует стены. Вы можете наблюдать за штурмом свободной камерой, пока обеими сторонами командует ИИ. Выберите сторону для просмотра.{newline}{newline}Это только наблюдение: осада на карте рассчитывается отдельно, и увиденное вами не влияет на её исход." />
+    <string id="RBM_CAMP_001" text="RBM Campaign: несовместимое сохранение" />
+    <string id="RBM_CAMP_002" text="Это сохранение было начато без включённых функций RBM Campaign.{newline}{newline}Первоначальная настройка экономики (казна поселений, достаток жителей, средства деревень и начальный уровень благополучия) выполняется только при СОЗДАНИИ кампании с включённым модулем RBM Campaign и не может быть применена к существующему сохранению. В этой кампании экономика будет работать в неполноценном и несбалансированном состоянии: рынки останутся бедными, казна и благополучие будут рассчитаны неправильно, а военная добыча и расходы на содержание войск будут искажены.{newline}{newline}Чтобы получить задуманный игровой опыт, начните НОВУЮ кампанию с включённым модулем RBM Campaign. Если вы хотите продолжить играть с ЭТИМ сохранением, отключите модуль RBM Campaign в меню настроек RBM и загрузите сохранение заново." />
+    <!-- RBMCombat_WS_items.xml Strings -->
+    <string id="RBM_WS_001" text="{.MI}Сапог{.nnp} мастера-ассасина" />
+    <string id="RBM_WS_002" text="{.MI}Доспех{.nn} мастера-ассасина" />
+    <string id="RBM_WS_003" text="{.MI}Накидка{.nn} мастера-ассасина" />
+    <string id="RBM_WS_004" text="{.MI}Кальрадский{.aj} {.MI}жидкий{.aj} {.MI}огонь{.nn}" />
+    <!-- RBMEconomy_trade_goods.xml Strings -->
+    <string id="RBM_E_001" text="{.FI}Простой{.aj} керамика" />
+    <string id="RBM_E_002" text="{.FI}Украшенный{.aj} посуда{@Plural}{.MI}Ящик{.nnp} украшенной посуды{\@}" />
+    <string id="RBM_E_003" text="{.MI}Эль{@Plural}{.FI}Бочка{.nnp} эля{\@}" />
+    <string id="RBM_E_004" text="{.FA}Овца{@Plural}{.FA}Овцы{\@}" />
+    <!-- Extra RBM item names (ids missing from RBM LOC-eng) -->
+    <string id="160aqzPm" text="{.MI}Полэкс{.nn}-{.FI}бритва{.nn}" /> <!-- Warrazor -->
+    <string id="18ZFPXsO" text="{.MI}Латный{.ajp} {.MI}сапог{.nnp} хускарла" /> <!-- Huscarl Plated Boots -->
+    <string id="eHyxxxoK" text="{.MI}Хауберк{.nn} хускарла" /> <!-- Huscarl Hauberk" -->
+    <string id="DMciP5z3" text="{.FI}Клетчатый{.aj} {.FI}длинный{.aj} {.FI}одежда{.nn}" /> <!-- Tartan Long Dress -->
+    <string id="SHZ0P7Iu" text="{.FI}Теплый{.aj} {.FI}кожаный{.aj} {.FI}накидка{.nn}" /> <!-- Padded Leather Cape -->
+    <string id="GdM7iaV9" text="{.FI}Роскошный{.aj} {.FI}стальной{.aj} {.FI}шапка{.nn}" /> <!-- Lordly Steel Cap -->
+    <string id="noqT1MMC" text="{.FI}Стальной{.aj} {.FI}шапка{.nn} с орнаментом" /> <!-- Ornate Steel Cap -->
+    <string id="K2xGw3Oo" text="Dummy Lower Average" /> <!-- Dummy Lower Average -->
+    <string id="Zx4h7jDy" text="Dummy Min Armor" /> <!-- Dummy Min Armor -->
+    <string id="wSUN0Dmo" text="Dummy Max Armor" /> <!-- Dummy Max Armor -->
+    <string id="gT8WENO3" text="Dummy Higher Average" /> <!-- Dummy Higher Average -->
+  </strings>
+</base>
