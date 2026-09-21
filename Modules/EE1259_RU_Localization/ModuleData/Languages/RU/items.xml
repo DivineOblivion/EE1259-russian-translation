@@ -548,7 +548,7 @@
     <string id="lt_western_type_xiv_1h_sword" text="{.MI}Западный{.aj} {.MI}меч{.nn} [Тип XIV]"/>
 
     <string id="lt_bandit_bag" text="{.MI}Мешок{.nn} грабителя"/>
-    <string id="200_pound_noble_war_longbow" text="{.MI}200-фунтовый{.aj} {.MI}боевой{.aj} {.MI}длинный{.aj} {.MI}лук{.nn} знати"/>
+    <string id="200_pound_noble_war_longbow" text="200-{.MI}фунтовый{.aj} {.MI}боевой{.aj} {.MI}длинный{.aj} {.MI}лук{.nn} знати"/>
 
     <string id="lt_cav_boots_spurs1" text="{.MI}Кожаный{.ajp} {.MI}кавалерийский{.ajp} {.MI}сапоги{.nnp} со шпорами"/>
     <string id="lt_cav_boots_spurs2" text="{.MI}Кожаный{.ajp} {.MI}кавалерийский{.ajp} {.MI}сапоги{.nnp} со шпорами"/>

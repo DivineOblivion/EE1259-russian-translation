@@ -21,16 +21,19 @@
     <string id="zv12jjyW" text="Гонец отправлен" />
     <string id="uy86VZX2" text="Гонец прибыл" />
 
-    <string id="JmgAuONd" text="О нет! По пути к {HERO_NAME}{.d} гонец повстречал лешего и бесследно исчез в лесу!" />  <!-- Я зумер, что такое Zork? -->
+    <string id="JmgAuONd" text="О нет! По пути к {HERO_NAME}{.d} на гонца напал дракон и съел его!" />  <!-- Я зумер, что такое Zork? -->
     <string id="YnRmSele" text="Гонец от {FACTION1_NAME}{.g} прибыл к {ADDRESSEE_TEXT}{.d}.{BRIBE_TEXT}" />
     <string id="C7XPJZAM" text="Гонец от {FACTION1_NAME}{.g} прибудет к {ADDRESSEE_TEXT}{.d} менее чем через час." />
     <string id="k5i2F6UD" text="Гонец от {FACTION1_NAME}{.g} прибудет к {ADDRESSEE_TEXT}{.d} через {TRAVEL_TIME} день." />
     <string id="qNWMZP0z" text="Гонец от {FACTION1_NAME}{.g} прибудет к {ADDRESSEE_TEXT}{.d} через {TRAVEL_TIME} дней." />
     <string id="G2NMbFDb" text="Гонец от {FACTION1_NAME}{.g} прибудет к {ADDRESSEE_TEXT}{.d} через {TRAVEL_TIME} час." />
     <string id="gfZgMSYD" text="Гонец от {FACTION1_NAME}{.g} прибудет к {ADDRESSEE_TEXT}{.d} через {TRAVEL_TIME} часов." />
+
     <string id="nYrezEOX" text="Гонец убит" />
+    <string id="kq3g73j2" text="Гонец съеден" />
+
     <string id="A5lug0JY" text="Ваш гонец попал в засаду и был убит разбойниками по пути к {HERO NAME}{.d}!" />
-    <string id="1rYSIMfX" text="Ваш гонец повстречал лешего и бесследно исчез в лесу по пути к {HERO NAME}{.d}!" /> !  <!-- Я зумер, что такое Zork? -->
+    <string id="1rYSIMfX" text="Ваш гонец был съеден драконом по пути к {HERO NAME}{.d}!" /> !  <!-- Я зумер, что такое Zork? -->
     <string id="J2T97gNx" text="Ваш гонец сбился с пути и теперь бесцельно бродит по свету." />
     <string id="hOOW2DMD" text="Ваш гонец нашёл карту сокровищ и вместо доставки сообщения отправился на поиски клада." />
     <string id="hc52yW8O" text="Ваш гонец забыл сообщение. Придётся отправить его ещё раз." />
@@ -151,7 +154,7 @@
     <string id="CxdpR6w4" text="Экспансионизм"/>
 
     <string id="ARNRwPrY" text="Образована коалиция"/>
-    <string id="qbLPBlIv" text="Неуклонное расширение владений {EXPANSIONIST_KINGDOM}{.g} вызывает всё больше опасений в этих землях. Для борьбы с ним была создана коалиция во главе с {COALITION_KINGDOM}{.i}!"/>
+    <string id="qbLPBlIv" text="Неуклонное расширение владений {EXPANSIONIST_KINGDOM}{.g} вызывает всё больше опасений в этих землях. Для борьбы с ним была создана коалиция во главе с {COALITION_KINGDOM}{.i}!"/>  <!-- Перевод рассчитан на глобальный мод без Кальрадии -->
 
     <string id="vB3RrMNf" text="{KINGDOM} заключило пакт о ненападении с {OTHER_KINGDOM}{.i}." />
     <string id="PdN5g5ub" text="{KINGDOM} заключило союз с {OTHER_KINGDOM}{.i}!" />
@@ -167,6 +170,7 @@
     <string id="IGJVx5XI" text="уничтожение"/>
 
     <string id="lQAaLeSy" text="У вас недостаточно полномочий для этого действия."/>
+    <string id="ke94ceNo" text="Фракция уничтожена."/>
 
     <string id="7QvXkcxH" text="Пожертвовать золото кланам из королевства"/>
     <string id="e7uxH1jc" text="Стоимость: {GOLD_COST} золота"/>

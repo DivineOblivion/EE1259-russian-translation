@@ -111,7 +111,7 @@
     <string id="4ATx01zS" text="{FIRSTNAME}{.nn} {.FA}Скала{.nn}" />
     <string id="4RWpqxwE" text="{FIRSTNAME}{.nn} {.MA}Барыш{.nn}" />
     <string id="4t5zOiVF" text="{FIRSTNAME}{.nn} {.MA}Столп{.nn}" />
-    <string id="4z1t75be" text="{FIRSTNAME}{.nn} из клана {CLAN_NAME}" />
+    <string id="4z1t75be" text="{FIRSTNAME}{.nn} из клана {CLAN_NAME}{.n}" />
     <string id="5utDJYUv" text="{FIRSTNAME}{.nn} {.MA}Нож{.nn}" />
     <string id="6ALN43LY" text="{FIRSTNAME}{.nn} {.MA}Звонарь{.nn}" />
     <string id="6gjSupBN" text="{FIRSTNAME}{.nn} {.MA}Пастуший{.aj} {.MA}Пирог{.nn}" />

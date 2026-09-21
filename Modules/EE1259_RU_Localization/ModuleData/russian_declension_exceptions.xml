@@ -34,8 +34,8 @@
         <Form case=".gp" value="каменцев" />
         <Form case=".d" value="каменцу" />
         <Form case=".dp" value="каменцам" />
-        <Form case=".a" value="каменца" />
-        <Form case=".ap" value="каменцев" />
+        <Form case=".a" value="каменец" />
+        <Form case=".ap" value="каменецы" />
         <Form case=".i" value="каменцем" />
         <Form case=".ip" value="каменцами" />
         <Form case=".l" value="каменце" />
@@ -197,17 +197,17 @@
     </Word>
 
     <Word value="Михалец">
-        <Form case=".p" value="Михалцы" />
-        <Form case=".g" value="Михалца" />
-        <Form case=".gp" value="Михалцев" />
-        <Form case=".d" value="Михалцу" />
-        <Form case=".dp" value="Михалцам" />
-        <Form case=".a" value="Михалца" />
-        <Form case=".ap" value="Михалцев" />
-        <Form case=".i" value="Михалцем" />
-        <Form case=".ip" value="Михалцами" />
-        <Form case=".l" value="Михалце" />
-        <Form case=".lp" value="Михалцах" />
+        <Form case=".p" value="Михальцы" />
+        <Form case=".g" value="Михальца" />
+        <Form case=".gp" value="Михальцев" />
+        <Form case=".d" value="Михальцу" />
+        <Form case=".dp" value="Михальцам" />
+        <Form case=".a" value="Михальца" />
+        <Form case=".ap" value="Михальцев" />
+        <Form case=".i" value="Михальцем" />
+        <Form case=".ip" value="Михальцами" />
+        <Form case=".l" value="Михальце" />
+        <Form case=".lp" value="Михальцах" />
     </Word>
 
     <Word value="Семёнец">
