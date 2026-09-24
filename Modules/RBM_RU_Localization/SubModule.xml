@@ -3,6 +3,7 @@
   <Name value="RBM RU Localization" />
   <Id value="RBM_RU_Localization" />
   <Version value="v1.0.0" />
+	<Author value="Anton M" />
   <SingleplayerModule value="true" />
   <MultiplayerModule value="false" />
 
