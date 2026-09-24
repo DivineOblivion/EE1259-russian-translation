@@ -40,10 +40,12 @@
    - Для руссификации подсказов на экране загрузок преместите `LT_EE1259_Map13` в `./Mount & Blade II Bannerlord/Modules` с заменой файла `ee_tips.txt`.
    - `EE1259_RU_Localization` и `RussianTextProcessorFix` основаные моды для руссификации мода EE 1259.
    - `Diplomacy_RU_Localization` для руссификации мода `Diplomacy`. (если используете, рекомендованный мод для установки вместе с `EE 1259`)
+   - `RBM_RU_Localization` для руссификации мода `RBM` (+`RBM_WS`). (если используете, рекомендованный мод для установки вместе с `EE 1259`)
 2. Порядок загрузки:
     - `RussianTextProcessorFix` поставить в самый низ
     - `EE1259_RU_Localization` в любое место после `LT_EE1259_Assets`
     - `Diplomacy_RU_Localization` в любое место после `Bannerlord.Diplomacy`
+    - `RBM_RU_Localization` в любое место после `RBM`
 
 ## Подробнее
 
@@ -54,6 +56,12 @@
 ### Diplomacy_RU_Localization
 
 Локализация мода `Diplomacy` на русский язык в виде отдельного мода с поддержкой склонений.
+
+### RBM_RU_Localization
+
+Локализация мода `RBM` на русский язык в виде отдельного мода с поддержкой склонений.
+
+Добрая половина остаётся на английском, т.к. разработчик не предоставил такой возможности в моде: <https://github.com/Fellow93/RealisticBattleProject/pull/20>
 
 ### RussianTextProcessorFix
 
