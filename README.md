@@ -21,7 +21,7 @@
 
 ## Поддерживаемые версии модов:
 
-- [EE1259](https://www.nexusmods.com/mountandblade2bannerlord/mods/6724): v9.1.0
+- [EE1259](https://www.nexusmods.com/mountandblade2bannerlord/mods/6724): v9.2.0
 - [Diplomacy](https://www.nexusmods.com/mountandblade2bannerlord/mods/832): v1.5.3
 - [RBM](https://www.nexusmods.com/mountandblade2bannerlord/mods/832): v4.5.0.1
 

@@ -63,10 +63,10 @@
     <string id="lord_rus_9_5" text="{.MA}Юрий{.nn} {.MA}Владимирович{.nn}"/>
     <string id="lord_rus_9_6" text="{.FA}Аграфена{.nn} {.FA}Мстиславна{.nn}"/>
     <string id="lord_rus_9_7" text="{.MA}Демид{.nn} {.MA}Владимирович{.nn}"/>
-    <string id="lord_rus_10_1" text="{.MA}Глеб{.nn} {.MA}Ростиславич{.nn}"/>
-    <string id="lord_rus_10_2" text="{.FA}Анна{.nn} {.FA}Всеволодовна{.nn}"/>
+    <string id="lord_rus_10_1" text="{.MA}Глеб{.nn} {.MA}Ярославич{.nn}"/>
+    <string id="lord_rus_10_2" text="{.FA}Анна{.nn} {.FA}Давыдовна{.nn}"/>
     <string id="lord_rus_10_3" text="{.MA}Иван{.nn} {.MA}Глебович{.nn}"/>
-    <string id="lord_rus_10_4" text="{.MA}Юрий{.nn} {.MA}Ярославич{.nn}"/>
+    <string id="lord_rus_10_4" text="{.MA}Юрий{.nn} {.MA}Святополчич{.nn}"/>
     <string id="lord_rus_10_5" text="{.FA}Мария{.nn} {.FA}Федоровна{.nn}"/>
     <string id="lord_rus_10_6" text="{.MA}Ярослав{.nn} {.MA}Юрьевич{.nn}"/>
     <string id="lord_rus_11_1.name" text="{.MA}Глеб{.nn} {.MA}Ростиславич{.nn}"/>

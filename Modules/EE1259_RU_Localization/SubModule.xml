@@ -2,7 +2,7 @@
 <Module>
   <Name value="EE1259 RU Localization" />
   <Id value="EE1259_RU_Localization" />
-  <Version value="v1.0.3" />
+  <Version value="v1.1.0" />
 	<Author value="Anton M" />
   <SingleplayerModule value="true" />
   <MultiplayerModule value="false" />
