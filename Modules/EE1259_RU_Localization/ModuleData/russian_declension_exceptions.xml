@@ -28,6 +28,14 @@
         <Form case=".lp" value="торопцах" />
     </Word>
 
+    <Word value="Оковц">
+        <Form case=".gp" value="Оковец" />
+    </Word>
+
+    <Word value="Свислочь">
+        <Form case=".g" value="Свислоча" />
+    </Word>
+
     <Word value="каменец">
         <Form case=".p" value="каменцы" />
         <Form case=".g" value="каменца" />
