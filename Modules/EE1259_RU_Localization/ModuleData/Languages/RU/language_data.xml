@@ -20,4 +20,5 @@
   <LanguageFile xml_path="RU/culture/polish.xml" />
   <LanguageFile xml_path="RU/culture/rus.xml" />
   <LanguageFile xml_path="RU/culture/swedish.xml" />
+  <VoiceFile xml_path="VoicedLines/voiced_lines_ru.xml" />
 </LanguageData>

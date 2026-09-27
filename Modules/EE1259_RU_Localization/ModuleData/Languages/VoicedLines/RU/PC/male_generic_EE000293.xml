@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rhubarbResult>
+  <metadata>
+    <soundFile>D:\projects\MB2\EE1259-russian-translation\Modules\EE1259_RU_Localization\ModuleData\Languages\VoicedLines\RU\PC\male_generic_EE000293.ogg</soundFile>
+    <duration>2.35</duration>
+  </metadata>
+  <mouthCues>
+    <mouthCue start="0.00" end="0.01">X</mouthCue>
+    <mouthCue start="0.01" end="0.08">B</mouthCue>
+    <mouthCue start="0.08" end="0.15">A</mouthCue>
+    <mouthCue start="0.15" end="0.26">D</mouthCue>
+    <mouthCue start="0.26" end="0.38">A</mouthCue>
+    <mouthCue start="0.38" end="0.42">B</mouthCue>
+    <mouthCue start="0.42" end="0.50">A</mouthCue>
+    <mouthCue start="0.50" end="0.66">D</mouthCue>
+    <mouthCue start="0.66" end="0.73">B</mouthCue>
+    <mouthCue start="0.73" end="0.87">D</mouthCue>
+    <mouthCue start="0.87" end="0.94">H</mouthCue>
+    <mouthCue start="0.94" end="1.01">F</mouthCue>
+    <mouthCue start="1.01" end="1.08">B</mouthCue>
+    <mouthCue start="1.08" end="1.22">F</mouthCue>
+    <mouthCue start="1.22" end="1.30">A</mouthCue>
+    <mouthCue start="1.30" end="1.35">E</mouthCue>
+    <mouthCue start="1.35" end="1.47">F</mouthCue>
+    <mouthCue start="1.47" end="2.03">B</mouthCue>
+    <mouthCue start="2.03" end="2.35">X</mouthCue>
+  </mouthCues>
+</rhubarbResult>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Base type="string">
+  <VoiceOvers>
+    <VoiceOver id="EE000289">
+      <Voice path="VoicedLines\RU\PC\male_generic_EE000289" />
+    </VoiceOver>
+    <VoiceOver id="EE000292">
+      <Voice path="VoicedLines\RU\PC\male_generic_EE000292" />
+    </VoiceOver>
+    <VoiceOver id="EE000293">
+      <Voice path="VoicedLines\RU\PC\male_generic_EE000293" />
+    </VoiceOver>
+    <VoiceOver id="EE000295">
+      <Voice path="VoicedLines\RU\PC\male_generic_EE000295" />
+    </VoiceOver>
+    <VoiceOver id="EE000296">
+      <Voice path="VoicedLines\RU\PC\male_generic_EE000296" />
+    </VoiceOver>
+    <VoiceOver id="EE000302">
+      <Voice path="VoicedLines\RU\PC\male_generic_EE000302" />
+    </VoiceOver>
+    <VoiceOver id="EE000394">
+      <Voice path="VoicedLines\RU\PC\male_generic_EE000394" />
+    </VoiceOver>
+    <VoiceOver id="EE000408">
+      <Voice path="VoicedLines\RU\PC\male_generic_EE000408" />
+    </VoiceOver>
+    <VoiceOver id="EE000409">
+      <Voice path="VoicedLines\RU\PC\male_generic_EE000409" />
+    </VoiceOver>
+  </VoiceOvers>
+</Base>
