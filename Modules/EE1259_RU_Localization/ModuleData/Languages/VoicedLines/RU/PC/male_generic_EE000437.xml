@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rhubarbResult>
+  <metadata>
+    <soundFile>D:\projects\MB2\EE1259-russian-translation\Modules\EE1259_RU_Localization\ModuleData\Languages\VoicedLines\RU\PC\male_generic_EE000437.ogg</soundFile>
+    <duration>2.19</duration>
+  </metadata>
+  <mouthCues>
+    <mouthCue start="0.00" end="0.12">X</mouthCue>
+    <mouthCue start="0.12" end="0.31">B</mouthCue>
+    <mouthCue start="0.31" end="0.38">H</mouthCue>
+    <mouthCue start="0.38" end="0.45">C</mouthCue>
+    <mouthCue start="0.45" end="0.52">E</mouthCue>
+    <mouthCue start="0.52" end="0.62">A</mouthCue>
+    <mouthCue start="0.62" end="0.70">C</mouthCue>
+    <mouthCue start="0.70" end="0.85">A</mouthCue>
+    <mouthCue start="0.85" end="0.90">C</mouthCue>
+    <mouthCue start="0.90" end="0.95">B</mouthCue>
+    <mouthCue start="0.95" end="1.02">G</mouthCue>
+    <mouthCue start="1.02" end="1.16">F</mouthCue>
+    <mouthCue start="1.16" end="1.58">B</mouthCue>
+    <mouthCue start="1.58" end="2.19">X</mouthCue>
+  </mouthCues>
+</rhubarbResult>

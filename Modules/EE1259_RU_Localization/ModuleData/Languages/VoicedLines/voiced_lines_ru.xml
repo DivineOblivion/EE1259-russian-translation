@@ -28,5 +28,14 @@
     <VoiceOver id="EE000409">
       <Voice path="VoicedLines\RU\PC\male_generic_EE000409" />
     </VoiceOver>
+    <VoiceOver id="EE000433">
+      <Voice path="VoicedLines\RU\PC\male_generic_EE000433" />
+    </VoiceOver>
+    <VoiceOver id="EE000435">
+      <Voice path="VoicedLines\RU\PC\male_generic_EE000435" />
+    </VoiceOver>
+    <VoiceOver id="EE000437">
+      <Voice path="VoicedLines\RU\PC\male_generic_EE000437" />
+    </VoiceOver>
   </VoiceOvers>
 </Base>
