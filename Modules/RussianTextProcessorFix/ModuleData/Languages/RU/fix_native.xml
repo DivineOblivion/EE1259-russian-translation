@@ -9,13 +9,21 @@
     <string id="C0llOApK" text="{.FI}Армия{.nn} {HERO}{.g}" />
     <string id="0bPb5btR" text="{LORD.NAME} является членом клана {CLAN_NAME} ({CLAN_DESCRIPTION} в составе {FACTION_NAME}{.g}), поддерживающего {RULER}{.a} в гражданской войне. {REPUTATION} – так о {?LORD.GENDER}ней{?}нем{\?} говорят." />
     <string id="JuPUG5wX" text="{LORD.NAME} – {._}{TITLE} {FACTION_NAME}{.g} и глава клана {CLAN_NAME} ({CLAN_DESCRIPTION}), который поддерживает {RULER}{.a} в гражданской войне. {REPUTATION} – так о {?LORD.GENDER}ней{?}нем{\?} говорят." />
+    <string id="17A2DDgD" text="{PEACEMAKER_RULER.NAME} из {KINGDOM_CONSIDERING_PEACE}{.g} {?PEACEMAKER_RULER.GENDER}решила{?}решил{\?} заключить мир с {KINGDOM}{.i} при поддержке советников." />
     <string id="Cae69FRp" text="{SETTLEMENT} находится под защитой {PARTY}{.g}." />
     <string id="patrolPartyName" text="{.MI}Патруль{.nn} {SETTLEMENT}{.g}" />
     <string id="shL0WElC" text="{.MI}Отряд{.nn} {TROOP.NAME}{.g}" />
     <string id="u4jhIFwG" text="{.MI}Отряд{.nn} {GANG_LEADER}{.g}" />
     <string id="P5YtNXHR" text="{.MI}Отряд{.nn} {LEADER.NAME}{.g}" />
     <string id="2LIV2cy7" text="{.MA}Мятежник{.nnp} из {SETTLEMENT}{.g}" />
+    <string id="1sbJQR4H" text="{.MA}Грабитель{.nnp}" />
+    <string id="e6csp4ha" text="{.MA}Степной{.ajp} {.MA}бандит{.nnp}" />
     <string id="ZqJ92UN4" text="Прибыл гонец, предлагающий выкуп за {CAPTIVE_HERO.NAME}{.a}." />
+    <string id="F4RMyaR5" text="Вы столкнулись с {._}{PARTY}{.i}." />
+    <string id="g7zo28KR" text="Вы столкнулись с {._}{PARTY}{.i}. У них нет никаких шансов против вашей мощи, и они сдаются." />
+    <string id="hqIIEur1" text="Вы столкнулись с {._}{ARMY}{.i}." />
+    <string id="trRLa9pi" text="Вы столкнулись с {._}{PARTY}{.i}. Если вы начнете сражение, {KINGDOM} объявит вам войну." />
+    <string id="XYAVu2f0" text="Преследует {TARGET_PARTY}{.a}." />
 
     <!-- RuFix -->
 
