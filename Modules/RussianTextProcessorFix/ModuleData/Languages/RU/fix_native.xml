@@ -25,6 +25,7 @@
     <string id="trRLa9pi" text="Вы столкнулись с {._}{PARTY}{.i}. Если вы начнете сражение, {KINGDOM} объявит вам войну." />
     <string id="XYAVu2f0" text="Преследует {TARGET_PARTY}{.a}." />
     <string id="OWCoBElc" text="Вы в плену у {._}{PARTY_NAME}{.g}." />
+    <string id="minuteabbr" text="мин" />
 
     <!-- RuFix -->
 
