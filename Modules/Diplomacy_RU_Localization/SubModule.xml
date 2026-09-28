@@ -2,7 +2,7 @@
 <Module>
   <Name value="Diplomacy RU Localization" />
   <Id value="Diplomacy_RU_Localization" />
-  <Version value="v1.0.1" />
+  <Version value="v1.0.2" />
 	<Author value="Anton M" />
   <SingleplayerModule value="true" />
   <MultiplayerModule value="false" />

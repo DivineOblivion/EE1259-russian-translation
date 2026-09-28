@@ -2,7 +2,7 @@
 <Module>
   <Name value="RussianTextProcessorFix" />
   <Id value="RussianTextProcessorFix" />
-  <Version value="v1.0.4" />
+  <Version value="v1.0.5" />
 	<Author value="Anton M" />
   <SingleplayerModule value="true" />
   <MultiplayerModule value="false" />
