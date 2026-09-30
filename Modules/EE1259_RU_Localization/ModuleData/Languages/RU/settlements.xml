@@ -342,18 +342,18 @@
     <string id="village_town_POL1_2" text="Олива"/>
     <string id="village_town_POL1_3" text="Лемборк"/>
     <string id="village_town_POL1_4" text="Жуково"/>
-    <string id="town_POL2" text="Плоцк"/>
+    <string id="town_POL2" text="{.MI}Плоцк"/>
     <string id="town_POL2_text" text="В XIII веке Плоцк был одним из важнейших центров Мазовии, одновременно являясь крупным церковным центром с величественным кафедральным собором и значимым политическим центром мазовецких князей. Стратегическое расположение города на высоком берегу реки Висла усиливало его значение как торгового узла, а его мощные укрепления, включая замок на холме, помогли защитить его в неспокойный период феодальных разделов в средневековой Польше."/>
     <string id="village_town_POL2_1" text="Гостынин"/>
     <string id="village_town_POL2_2" text="Лович"/>
     <string id="village_town_POL2_3" text="Вышогруд"/>
     <string id="village_town_POL2_4" text="Серпск"/>
-    <string id="town_POL3" text="Краков"/>
+    <string id="town_POL3" text="{.MI}Краков"/>
     <string id="village_town_POL3_1" text="Величка"/>
     <string id="village_town_POL3_2" text="Бохня"/>
     <string id="village_town_POL3_3" text="Мехув"/>
     <string id="village_town_POL3_4" text="Олькуш"/>
-    <string id="town_POL4" text="Сандомеж"/>
+    <string id="town_POL4" text="{.MI}Сандомеж"/>
     <string id="village_town_POL4_1" text="Турско"/>
     <string id="village_town_POL4_2" text="Поланец"/>
     <string id="village_town_POL4_3" text="Завихост"/>
@@ -362,7 +362,7 @@
     <string id="village_castle_POL1_1" text="Дарлово"/>
     <string id="village_castle_POL1_2" text="Штольп"/>
     <string id="village_castle_POL1_3" text="Бытув"/>
-    <string id="castle_POL2" text="Старогард"/>
+    <string id="castle_POL2" text="{.MI}Старогард"/>
     <string id="village_castle_POL2_1" text="Косьцежина"/>
     <string id="village_castle_POL2_2" text="Тчев"/>
     <string id="village_castle_POL2_3" text="Гнев"/>
@@ -374,7 +374,7 @@
     <string id="village_castle_POL4_1" text="Бялы-Бур"/>
     <string id="village_castle_POL4_2" text="Члухув"/>
     <string id="village_castle_POL4_3" text="Рацёнж"/>
-    <string id="castle_POL5" text="Цеханув"/>
+    <string id="castle_POL5" text="{.MI}Цеханув"/>
     <string id="village_castle_POL5_1" text="Пултуск"/>
     <string id="village_castle_POL5_2" text="Унежиж"/>
     <string id="village_castle_POL5_3" text="Шреньск"/>
@@ -402,12 +402,12 @@
     <string id="village_castle_POL10_2" text="Войнич"/>
     <string id="village_castle_POL10_3" text="Беч"/>
     <string id="village_castle_POL10_4" text="Кросно"/>
-    <string id="castle_POL11" text="Чехув"/>
+    <string id="castle_POL11" text="{.MI}Чехув"/>
     <string id="village_castle_POL11_1" text="Лелюв"/>
     <string id="village_castle_POL11_2" text="Енджеюв"/>
     <string id="village_castle_POL11_3" text="Хмельник"/>
     <string id="village_castle_POL11_4" text="Вислица"/>
-    <string id="castle_POL12" text="Жарнув"/>
+    <string id="castle_POL12" text="{.MI}Жарнув"/>
     <string id="village_castle_POL12_1" text="Сулеюв"/>
     <string id="village_castle_POL12_2" text="Скшинно"/>
     <string id="village_castle_POL12_3" text="Вонхоцк"/>
@@ -417,7 +417,7 @@
     <string id="village_castle_POL13_2" text="Ополе"/>
     <string id="village_castle_POL13_3" text="Солец"/>
     <string id="village_castle_POL13_4" text="Скарышев"/>
-    <string id="castle_POL14" text="Сецехув"/>
+    <string id="castle_POL14" text="{.MI}Сецехув"/>
     <string id="village_castle_POL14_1" text="Радом"/>
     <string id="village_castle_POL14_2" text="Коцк"/>
     <string id="village_castle_POL14_3" text="Лукув"/>
@@ -470,9 +470,9 @@
     <string id="village_town_RUS11_3" text="{.MI}Василев"/>
     <string id="village_town_RUS11_4" text="{.MI}Красн"/>
     <string id="castle_RUS1" text="{.FI}Вологда"/>
-    <string id="village_castle_RUS1_1" text="{.FI}Векшенга"/>
+    <string id="village_castle_RUS1_1" text="{.FI}Векшеньга"/>
     <string id="castle_RUS2" text="{.MI}Углич"/>
-    <string id="village_castle_RUS2_1" text="{.NI}Скнятино"/>
+    <string id="village_castle_RUS2_1" text="Скнятино"/>
     <string id="castle_RUS3" text="{.MI}Кашин"/>
     <string id="village_castle_RUS3_1" text="{.MI}Посад{.nnp}"/>  <!-- Посады -->
     <string id="castle_RUS4" text="{.MI}Ржев"/>
@@ -499,36 +499,36 @@
     <string id="village_castle_RUS10_1" text="{.MI}Несвиж"/>
     <string id="village_castle_RUS10_2" text="{.MI}Копыль"/>
     <string id="castle_RUS11" text="{.MI}Слуцк"/>
-    <string id="village_castle_RUS11_1" text="Кольчицы"/>
-    <string id="village_castle_RUS11_2" text="Глуск-Дубровицкий"/>
+    <string id="village_castle_RUS11_1" text="{.MI}Кольчица{.nnp}"/>  <!-- Кольчицы -->
+    <string id="village_castle_RUS11_2" text="{.MI}Глуск{.nn} {.MI}Дубровицкий{.aj}"/>
     <string id="castle_RUS12" text="{.MI}Рогачев"/>
     <string id="village_castle_RUS12_1" text="Лучино"/>
-    <string id="village_castle_RUS12_2" text="{.NI}Михалёво"/>
-    <string id="castle_RUS13" text="Волок Ламский"/>
+    <string id="village_castle_RUS12_2" text="Михалёво"/>
+    <string id="castle_RUS13" text="{.MI}Волок{.nn} {.MI}Ламский{.aj}"/>
     <string id="village_castle_RUS13_1" text="{.MI}Микулин"/>
     <string id="castle_RUS14" text="{.MI}Холм"/>
-    <string id="village_castle_RUS14_1" text="Угровск"/>
-    <string id="village_castle_RUS14_2" text="Верещин"/>
+    <string id="village_castle_RUS14_1" text="{.MI}Угровск"/>
+    <string id="village_castle_RUS14_2" text="{.MI}Верещин"/>
     <string id="village_castle_RUS14_3" text="Ухане"/>
-    <string id="village_castle_RUS14_4" text="Щекарев"/>
-    <string id="castle_RUS15" text="Червень"/>
-    <string id="village_castle_RUS15_1" text="Грабовец"/>
-    <string id="village_castle_RUS15_2" text="Сутейск"/>
-    <string id="castle_RUS16" text="Белз"/>
+    <string id="village_castle_RUS14_4" text="{.MI}Щекарев"/>
+    <string id="castle_RUS15" text="{.MI}Червень"/>
+    <string id="village_castle_RUS15_1" text="{.MI}Грабовец"/>
+    <string id="village_castle_RUS15_2" text="{.MI}Сутейск"/>
+    <string id="castle_RUS16" text="{.MI}Белз"/>
     <string id="village_castle_RUS16_1" text="{.MI}Львов"/>
-    <string id="village_castle_RUS16_2" text="Щекотов"/>
-    <string id="village_castle_RUS16_3" text="Звенигород"/>
-    <string id="castle_RUS17" text="Перемышль"/>
-    <string id="village_castle_RUS17_1" text="Ярославль"/>
-    <string id="village_castle_RUS17_2" text="Любачев"/>
-    <string id="village_castle_RUS17_3" text="Санок"/>
-    <string id="castle_RUS18" text="Броды"/>
-    <string id="village_castle_RUS18_1" text="Плеснеск"/>
-    <string id="village_castle_RUS18_2" text="Бужеск"/>
-    <string id="castle_RUS19" text="Теребовль"/>
-    <string id="village_castle_RUS19_1" text="Микулин"/>
-    <string id="village_castle_RUS19_2" text="Збараж"/>
-    <string id="castle_RUS20" text="Тихомль"/>
+    <string id="village_castle_RUS16_2" text="{.MI}Щекотов"/>
+    <string id="village_castle_RUS16_3" text="{.MI}Звенигород"/>
+    <string id="castle_RUS17" text="{.MI}Перемышль"/>
+    <string id="village_castle_RUS17_1" text="{.MI}Ярославль"/>
+    <string id="village_castle_RUS17_2" text="{.MI}Любачев"/>
+    <string id="village_castle_RUS17_3" text="{.MI}Санок"/>
+    <string id="castle_RUS18" text="{.MI}Брод{.nnp}"/>  <!-- Броды -->
+    <string id="village_castle_RUS18_1" text="{.MI}Плеснеск"/>
+    <string id="village_castle_RUS18_2" text="{.MI}Бужеск"/>
+    <string id="castle_RUS19" text="{.MI}Теребовль"/>
+    <string id="village_castle_RUS19_1" text="{.MI}Микулин"/>
+    <string id="village_castle_RUS19_2" text="{.MI}Збараж"/>
+    <string id="castle_RUS20" text="{.MI}Тихомль"/>
     <string id="village_castle_RUS20_1" text="Кременец"/>
     <string id="village_castle_RUS20_2" text="Шумск"/>
     <string id="castle_RUS21" text="Пересопница"/>
@@ -544,7 +544,7 @@
     <string id="castle_RUS24" text="{.MI}Черторийск"/>
     <string id="village_castle_RUS24_1" text="{.FI}Мельница"/>
     <string id="village_castle_RUS24_2" text="Степань"/>
-    <string id="castle_RUS25" text="Дрогичин"/>
+    <string id="castle_RUS25" text="{.MI}Дрогичин"/>
     <string id="village_castle_RUS25_1" text="{.MI}Бранск"/>
     <string id="village_castle_RUS25_2" text="{.MI}Бельск"/>
     <string id="castle_RUS26" text="{.MI}Корсунь"/>
@@ -570,7 +570,7 @@
     <string id="village_castle_RUS30_1" text="{.MI}Варович{.nnp}"/>  <!-- Варовичи -->
     <string id="village_castle_RUS30_2" text="{.MI}Чернобыль"/>
     <string id="village_castle_RUS30_3" text="{.MI}Брагин"/>
-    <string id="castle_RUS31" text="Белая"/>
+    <string id="castle_RUS31" text="{.FI}Белая{.aj}"/>
     <string id="village_castle_RUS31_1" text="{.MI}Солодовнич{.nnp}"/>  <!-- Солодовничи -->
     <string id="village_castle_RUS31_2" text="{.MI}Хлепень"/>
     <string id="castle_RUS32" text="{.FI}Вязьма"/>
@@ -594,7 +594,7 @@
     <string id="village_castle_RUS37_2" text="Копысь"/>
     <string id="village_castle_RUS37_3" text="Заруб"/>
     <string id="castle_RUS38" text="{.MI}Пропойск"/>
-    <string id="village_castle_RUS38_1" text="Радомля"/>
+    <string id="village_castle_RUS38_1" text="{.MI}Радомль"/>
     <string id="village_castle_RUS38_2" text="Новосёлки"/>
     <string id="village_castle_RUS38_3" text="Юдичи"/>
     <string id="castle_RUS39" text="{.MI}Мстиславль"/>

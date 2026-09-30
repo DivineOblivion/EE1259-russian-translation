@@ -28,6 +28,34 @@
         <Form case=".lp" value="торопцах" />
     </Word>
 
+    <Word value="грабовец">
+        <Form case=".p" value="грабовцы" />
+        <Form case=".g" value="грабовца" />
+        <Form case=".gp" value="грабовцев" />
+        <Form case=".d" value="грабовцу" />
+        <Form case=".dp" value="грабовцам" />
+        <Form case=".a" value="торопец" />
+        <Form case=".ap" value="грабовцы" />
+        <Form case=".i" value="грабовцем" />
+        <Form case=".ip" value="грабовцами" />
+        <Form case=".l" value="грабовце" />
+        <Form case=".lp" value="грабовцах" />
+    </Word>
+
+    <Word value="волок">
+        <Form case=".p" value="волоки" />
+        <Form case=".g" value="волока" />
+        <Form case=".gp" value="волоков" />
+        <Form case=".d" value="волоку" />
+        <Form case=".dp" value="волокам" />
+        <Form case=".a" value="волок" />
+        <Form case=".ap" value="волоки" />
+        <Form case=".i" value="волоком" />
+        <Form case=".ip" value="волоками" />
+        <Form case=".l" value="волоке" />
+        <Form case=".lp" value="волоках" />
+    </Word>
+
     <Word value="Оковц">
         <Form case=".gp" value="Оковец" />
     </Word>
