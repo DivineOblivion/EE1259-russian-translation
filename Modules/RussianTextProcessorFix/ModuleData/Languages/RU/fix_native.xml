@@ -16,6 +16,7 @@
     <string id="u4jhIFwG" text="{.MI}Отряд{.nn} {GANG_LEADER}{.g}" />
     <string id="P5YtNXHR" text="{.MI}Отряд{.nn} {LEADER.NAME}{.g}" />
     <string id="2LIV2cy7" text="{.MA}Мятежник{.nnp} из {SETTLEMENT}{.g}" />
+    <string id="9yaFxhGa" text="{.MA}Дезертир{.nnp}" />
     <string id="1sbJQR4H" text="{.MA}Грабитель{.nnp}" />
     <string id="e6csp4ha" text="{.MA}Степной{.ajp} {.MA}бандит{.nnp}" />
     <string id="ZqJ92UN4" text="Прибыл гонец, предлагающий выкуп за {CAPTIVE_HERO.NAME}{.a}." />
