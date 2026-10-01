@@ -380,6 +380,62 @@
         <Form case=".lp" value="Оборванцах" />
     </Word>
 
+    <Word value="ополченец">
+        <Form case=".p" value="ополченцы" />
+        <Form case=".g" value="ополченца" />
+        <Form case=".gp" value="ополченцев" />
+        <Form case=".d" value="ополченцу" />
+        <Form case=".dp" value="ополченцам" />
+        <Form case=".a" value="ополченца" />
+        <Form case=".ap" value="ополченцев" />
+        <Form case=".i" value="ополченцем" />
+        <Form case=".ip" value="ополченцами" />
+        <Form case=".l" value="ополченце" />
+        <Form case=".lp" value="ополченцах" />
+    </Word>
+
+    <Word value="оруженосец">
+        <Form case=".p" value="оруженосцы" />
+        <Form case=".g" value="оруженосца" />
+        <Form case=".gp" value="оруженосцев" />
+        <Form case=".d" value="оруженосцу" />
+        <Form case=".dp" value="оруженосцам" />
+        <Form case=".a" value="оруженосца" />
+        <Form case=".ap" value="оруженосцов" />
+        <Form case=".i" value="оруженосцем" />
+        <Form case=".ip" value="оруженосцами" />
+        <Form case=".l" value="оруженосце" />
+        <Form case=".lp" value="оруженосцах" />
+    </Word>
+
+    <Word value="гребец">
+        <Form case=".p" value="гребцы" />
+        <Form case=".g" value="гребца" />
+        <Form case=".gp" value="гребцов" />
+        <Form case=".d" value="гребцу" />
+        <Form case=".dp" value="гребцам" />
+        <Form case=".a" value="гребца" />
+        <Form case=".ap" value="гребцов" />
+        <Form case=".i" value="гребцом" />
+        <Form case=".ip" value="гребцами" />
+        <Form case=".l" value="гребце" />
+        <Form case=".lp" value="гребцах" />
+    </Word>
+
+    <Word value="пешец">
+        <Form case=".p" value="пешцы" />
+        <Form case=".g" value="пешца" />
+        <Form case=".gp" value="пешцов" />
+        <Form case=".d" value="пешцу" />
+        <Form case=".dp" value="пешцам" />
+        <Form case=".a" value="пешца" />
+        <Form case=".ap" value="пешцов" />
+        <Form case=".i" value="пешцом" />
+        <Form case=".ip" value="пешцами" />
+        <Form case=".l" value="пешце" />
+        <Form case=".lp" value="пешцах" />
+    </Word>
+
     <Word value="княжество">
         <Form case=".gp" value="княжеств" />
     </Word>
