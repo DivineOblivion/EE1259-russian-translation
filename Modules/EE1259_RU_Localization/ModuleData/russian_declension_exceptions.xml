@@ -31,15 +31,29 @@
     <Word value="грабовец">
         <Form case=".p" value="грабовцы" />
         <Form case=".g" value="грабовца" />
-        <Form case=".gp" value="грабовцев" />
+        <Form case=".gp" value="грабовцов" />
         <Form case=".d" value="грабовцу" />
         <Form case=".dp" value="грабовцам" />
-        <Form case=".a" value="торопец" />
+        <Form case=".a" value="грабовец" />
         <Form case=".ap" value="грабовцы" />
-        <Form case=".i" value="грабовцем" />
+        <Form case=".i" value="грабовцом" />
         <Form case=".ip" value="грабовцами" />
         <Form case=".l" value="грабовце" />
         <Form case=".lp" value="грабовцах" />
+    </Word>
+
+    <Word value="турец">
+        <Form case=".p" value="турцы" />
+        <Form case=".g" value="турца" />
+        <Form case=".gp" value="турцов" />
+        <Form case=".d" value="турцу" />
+        <Form case=".dp" value="турцам" />
+        <Form case=".a" value="турец" />
+        <Form case=".ap" value="турцы" />
+        <Form case=".i" value="турцом" />
+        <Form case=".ip" value="турцами" />
+        <Form case=".l" value="турце" />
+        <Form case=".lp" value="турцах" />
     </Word>
 
     <Word value="волок">
@@ -76,6 +90,34 @@
         <Form case=".ip" value="каменцами" />
         <Form case=".l" value="каменце" />
         <Form case=".lp" value="каменцах" />
+    </Word>
+
+    <Word value="кременец">
+        <Form case=".p" value="кременцы" />
+        <Form case=".g" value="кременца" />
+        <Form case=".gp" value="кременцев" />
+        <Form case=".d" value="кременцу" />
+        <Form case=".dp" value="кременцам" />
+        <Form case=".a" value="кременец" />
+        <Form case=".ap" value="кременецы" />
+        <Form case=".i" value="кременцем" />
+        <Form case=".ip" value="кременцами" />
+        <Form case=".l" value="кременце" />
+        <Form case=".lp" value="кременцах" />
+    </Word>
+
+    <Word value="ростовец">
+        <Form case=".p" value="ростовцы" />
+        <Form case=".g" value="ростовца" />
+        <Form case=".gp" value="ростовцев" />
+        <Form case=".d" value="ростовцу" />
+        <Form case=".dp" value="ростовцам" />
+        <Form case=".a" value="ростовец" />
+        <Form case=".ap" value="ростовцы" />
+        <Form case=".i" value="ростовцем" />
+        <Form case=".ip" value="ростовцами" />
+        <Form case=".l" value="ростовце" />
+        <Form case=".lp" value="ростовцах" />
     </Word>
 
     <Word value="литовец">
