@@ -570,7 +570,7 @@
     <string id="village_castle_RUS30_1" text="{.MI}Варович{.nnp}"/>  <!-- Варовичи -->
     <string id="village_castle_RUS30_2" text="{.MI}Чернобыль"/>
     <string id="village_castle_RUS30_3" text="{.MI}Брагин"/>
-    <string id="castle_RUS31" text="{.FI}Белая{.aj}"/>
+    <string id="castle_RUS31" text="{.FI}Белый{.aj}"/>
     <string id="village_castle_RUS31_1" text="{.MI}Солодовнич{.nnp}"/>  <!-- Солодовничи -->
     <string id="village_castle_RUS31_2" text="{.MI}Хлепень"/>
     <string id="castle_RUS32" text="{.FI}Вязьма"/>

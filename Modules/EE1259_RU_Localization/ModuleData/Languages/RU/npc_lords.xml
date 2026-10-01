@@ -236,24 +236,24 @@
     <string id="lord_pol_1_7.name" text="{.MA}Вартислав{.nn} II"/>
     <string id="lord_pol_2_1.name" text="{.MA}Свенца{.nn} {.MA}Старший{.aj}"/>
     <string id="lord_pol_3_1.name" text="{.MA}Якса{.nn} {.MA}Огоньчик{.nn}"/>
-    <string id="lord_pol_3_2.name" text="{.FA}Добрава{.nn} {.FA}Куявская{.aj}"/>
+    <string id="lord_pol_3_2.name" text="{.FA}Добрава{.nn} {.FA}Куявский{.aj}"/>
     <string id="lord_pol_3_3.name" text="{.MA}Ярост{.nn} {.MA}Якса{.nn}"/>
     <string id="lord_pol_3_4.name" text="{.FA}Збыслава{.nn} {.FA}Огоньчик{.nn}"/>
     <string id="lord_pol_4_1.name" text="{.MA}Земовит{.nn} I"/>
-    <string id="lord_pol_4_2.name" text="{.FA}Переяслава{.nn} {.FA}Галицкая{.aj}"/>
+    <string id="lord_pol_4_2.name" text="{.FA}Переяслава{.nn} {.FA}Галицкий{.aj}"/>
     <string id="lord_pol_4_3.name" text="{.MA}Конрад{.nn} II"/>
     <string id="lord_pol_4_4.name" text="{.MA}Болеслав{.nn} II"/>
     <string id="lord_pol_5_1.name" text="{.MA}Казимир{.nn} I"/>
     <string id="lord_pol_5_2.name" text="{.MA}Лешек{.nn} II {.MA}Чёрный{.aj}"/>
-    <string id="lord_pol_5_4.name" text="{.FA}Евфросинья{.nn} {.FA}Опольская{.aj}"/>
+    <string id="lord_pol_5_4.name" text="{.FA}Евфросинья{.nn} {.FA}Опольский{.aj}"/>
     <string id="lord_pol_7_1.name" text="{.MA}Вавжинец{.nn} {.MA}Корвин{.nn}"/>
     <string id="lord_pol_8_1.name" text="{.MA}Болеслав{.nn} V {.MA}Стыдливый{.aj}"/>
-    <string id="lord_pol_8_2.name" text="{.FA}Кинга{.nn} {.FA}Венгерская{.aj}"/>
-    <string id="lord_pol_8_3.name" text="{.FA}Саломея{.nn} {.FA}Польская{.aj}"/>
+    <string id="lord_pol_8_2.name" text="{.FA}Кинга{.nn} {.FA}Венгерский{.aj}"/>
+    <string id="lord_pol_8_3.name" text="{.FA}Саломея{.nn} {.FA}Польский{.aj}"/>
     <string id="lord_pol_9_1.name" text="{.MA}Клеменс{.nn} {.MA}Латошинский{.aj}"/>
     <string id="lord_pol_9_2.name" text="{.FA}Вислава"/>
     <string id="lord_pol_9_3.name" text="{.MA}Марек{.nn} из Латошина"/>
-    <string id="lord_pol_9_4.name" text="{.FA}Богуслава{.nn} {.FA}Латошинская{.aj}"/>
+    <string id="lord_pol_9_4.name" text="{.FA}Богуслава{.nn} {.FA}Латошинский{.aj}"/>
     <string id="lord_pol_9_5.name" text="{.MA}Сулислав{.nn} из Браниц"/>
     <string id="lord_pol_9_6.name" text="{.FA}Мирослава"/>
     <string id="lord_pol_9_7.name" text="{.FA}Вержбента{.nn} из Рущи"/>

@@ -341,7 +341,7 @@
     <string id="lt_balt_hat9tc" text="{.FI}Шапка"/>
     <string id="lt_balt_hat9tc_rings1" text="{.FI}Балтский{.aj} {.FI}шапка{.nn} - Кольца"/>
     <string id="lt_balt_hat9tc_rings2" text="{.FI}Балтский{.aj} {.FI}шапка{.nn} - Кольца"/>
-    <string id="lt_balt_hat_f_brass" text="{.FI}Балтский{.aj} {.FI}женская{.aj} {.FI}шапка{.nn} - Латунь"/>
+    <string id="lt_balt_hat_f_brass" text="{.FI}Балтский{.aj} {.FI}женский{.aj} {.FI}шапка{.nn} - Латунь"/>
     <string id="lt_balt_hat_m_brass" text="{.FI}Куршский{.aj} {.FI}шапка{.nn} с латунью"/>
     <string id="lt_baltic_female_cloak1" text="{.MI}Балтский{.aj} {.MI}женский{.aj} {.MI}плащ{.nn}"/>
     <string id="lt_baltic_female_cloak2" text="{.MI}Балтский{.aj} {.MI}женский{.aj} {.MI}плащ{.nn}"/>
