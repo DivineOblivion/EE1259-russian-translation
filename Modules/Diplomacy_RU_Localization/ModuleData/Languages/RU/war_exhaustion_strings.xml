@@ -7,7 +7,7 @@
     <!--<string id="" text="" />-->
     <string id="XmVTQ0bH" text="Военное истощение" />
 
-    <string id="BXluvRnJ" text="Горькое поражение"/>
+    <string id="BXluvRnJ" text="Сокрушительное поражение"/>
     <string id="0aZCy0at" text="Принудительный мир" />
 
     <string id="vLfbqXjq" text="Ваши войска и народ истощены войной с {ENEMY_KINGDOM}{.i} и больше не желают сражаться. Вам придётся принять условия поражения и выплатить военные репарации в размере {REPARATIONS}{GOLD_ICON}. Эти расходы будут распределены между всеми кланами королевства. {?ADD_TRIBUTE}Вы также обязуетесь ежедневно выплачивать дань в размере {TRIBUTE}{GOLD_ICON}.{?}{\?}{?FIEFS_TO_RETURN_LIST.ANY}{NEW_LINE} {NEW_LINE}Кроме того, вам придётся вернуть {ENEMY_KINGDOM}{.d} {FIEFS_TO_RETURN_LIST.START}{?FIEFS_TO_RETURN_LIST.IS_PLURAL} и {?}{\?}{FIEFS_TO_RETURN_LIST.END}.{NEW_LINE} {NEW_LINE}{?} {\?}Позор поражения обойдётся вам в {INFLUENCE} ед. влияния."/>
