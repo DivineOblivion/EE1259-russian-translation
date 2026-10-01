@@ -439,4 +439,8 @@
     <Word value="княжество">
         <Form case=".gp" value="княжеств" />
     </Word>
+
+    <Word value="Мстиславич">
+        <Form case=".i" value="Мстиславичем" />
+    </Word>
 </RussianDeclensionExceptions>

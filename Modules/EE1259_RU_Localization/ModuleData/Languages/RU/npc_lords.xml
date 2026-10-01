@@ -29,7 +29,7 @@
     <string id="lord_rus_2_5" text="{.MA}Константин{.nn} {.MA}Борисович{.nn}"/>
     <string id="lord_rus_3_1" text="{.MA}Глеб{.nn} {.MA}Василькович{.nn}"/>
     <string id="lord_rus_3_2" text="{.FA}Феодора{.nn} {.FA}Сартаковна{.nn}"/>
-    <string id="lord_rus_3_3" text="{.MA}Демьян{.nn} {.MA}Федорович{.nn}"/>
+    <string id="lord_rus_3_3" text="{.MA}Демьян{.nn} {.MA}Фёдорович{.nn}"/>
     <string id="lord_rus_3_4" text="{.FA}Аграфена{.nn} {.FA}Ярославна{.nn}"/>
     <string id="lord_rus_4_1" text="{.MA}Ярослав{.nn} {.MA}Ярославич{.nn}"/>
     <string id="lord_rus_4_2" text="{.FA}Ксения{.nn} {.FA}Юрьевна{.nn} {.FA}Ростовский{.aj}"/>
@@ -40,7 +40,7 @@
     <string id="lord_rus_5_1" text="{.MA}Акинф{.nn} {.MA}Гаврилович{.nn}"/>
     <string id="lord_rus_5_2" text="{.MA}Иван{.nn} {.MA}Гаврилович{.nn} {.MA}Морхиня{.nn}"/>
     <string id="lord_rus_5_3" text="{.FA}Анна{.nn} {.FA}Кашинский{.aj}"/>
-    <string id="lord_rus_5_4" text="{.MA}Федор{.nn} {.MA}Акинфеевич{.nn}"/>
+    <string id="lord_rus_5_4" text="{.MA}Фёдор{.nn} {.MA}Акинфеевич{.nn}"/>
     <string id="lord_rus_6_1" text="{.MA}Давыд{.nn} {.MA}Мстиславич{.nn}"/>
     <string id="lord_rus_6_2" text="{.FA}Анастасия{.nn} {.FA}Глебовна{.nn}"/>
     <string id="lord_rus_6_3" text="{.MA}Мстислав{.nn} {.MA}Давыдович{.nn}"/>
@@ -67,7 +67,7 @@
     <string id="lord_rus_10_2" text="{.FA}Анна{.nn} {.FA}Давыдовна{.nn}"/>
     <string id="lord_rus_10_3" text="{.MA}Иван{.nn} {.MA}Глебович{.nn}"/>
     <string id="lord_rus_10_4" text="{.MA}Юрий{.nn} {.MA}Святополчич{.nn}"/>
-    <string id="lord_rus_10_5" text="{.FA}Мария{.nn} {.FA}Федоровна{.nn}"/>
+    <string id="lord_rus_10_5" text="{.FA}Мария{.nn} {.FA}Фёдоровна{.nn}"/>
     <string id="lord_rus_10_6" text="{.MA}Ярослав{.nn} {.MA}Юрьевич{.nn}"/>
     <string id="lord_rus_11_1.name" text="{.MA}Глеб{.nn} {.MA}Ростиславич{.nn}"/>
     <string id="lord_rus_11_2.name" text="{.FA}Анастасия{.nn} {.FA}Вячеславна{.nn}"/>
@@ -75,10 +75,10 @@
     <string id="lord_rus_11_4.name" text="{.MA}Александр{.nn} {.MA}Глебович{.nn}"/>
     <string id="lord_rus_11_5.name" text="{.MA}Роман{.nn} {.MA}Глебович{.nn}"/>
     <string id="lord_rus_11_6.name" text="{.MA}Ростислав{.nn} {.MA}Всеволодович{.nn}"/>
-    <string id="lord_rus_11_7.name" text="{.MA}Федор{.nn} {.MA}Ростиславич{.nn} {.MA}Чермный{.aj}"/>
+    <string id="lord_rus_11_7.name" text="{.MA}Фёдор{.nn} {.MA}Ростиславич{.nn} {.MA}Чермный{.aj}"/>
     <string id="lord_rus_12_1.name" text="{.MA}Михаил{.nn} {.MA}Ростиславич{.nn}"/>
     <string id="lord_rus_12_2.name" text="{.FA}Анна{.nn} {.FA}Михайловна{.nn}"/>
-    <string id="lord_rus_12_3.name" text="{.MA}Федор{.nn} {.MA}Михайлович{.nn}"/>
+    <string id="lord_rus_12_3.name" text="{.MA}Фёдор{.nn} {.MA}Михайлович{.nn}"/>
     <string id="lord_rus_12_4.name" text="{.MA}Константин{.nn} {.MA}Ростиславич{.nn}"/>
     <string id="lord_rus_12_5.name" text="{.FA}Предслава"/>
     <string id="lord_rus_13_1.name" text="{.MA}Андрей{.nn} {.MA}Владимирович{.nn}"/>
@@ -170,7 +170,7 @@
     <string id="lord_nov_1_4.name" text="{.MA}Яков{.nn} {.MA}Михайлович{.nn}"/>
     <string id="lord_nov_1_5.name" text="{.MA}Дмитрий{.nn} {.MA}Александрович{.nn}"/>
     <string id="lord_nov_2_1.name" text="{.MA}Сбыслав{.nn} {.MA}Якунович{.nn}"/>
-    <string id="lord_nov_2_2.name" text="{.MA}Федор{.nn} {.MA}Сбыславич{.nn}"/>
+    <string id="lord_nov_2_2.name" text="{.MA}Фёдор{.nn} {.MA}Сбыславич{.nn}"/>
     <string id="lord_nov_2_3.name" text="{.FA}Ефросинья"/>
     <string id="lord_nov_2_4.name" text="{.MA}Елферий{.nn} {.MA}Сбыславич{.nn}"/>
     <string id="lord_nov_2_5.name" text="{.FA}Устинья"/>
@@ -179,7 +179,7 @@
     <string id="lord_nov_3_3.name" text="{.FA}Ольга"/>
     <string id="lord_nov_3_4.name" text="{.FA}Ульяна"/>
     <string id="lord_nov_4_1.name" text="{.MA}Андрей{.nn} {.MA}Климович{.nn}"/>
-    <string id="lord_nov_4_2.name" text="{.MA}Семен{.nn} {.MA}Климович{.nn}"/>
+    <string id="lord_nov_4_2.name" text="{.MA}Семён{.nn} {.MA}Климович{.nn}"/>
     <string id="lord_nov_4_3.name" text="{.FA}Василиса"/>
     <string id="lord_nov_4_4.name" text="{.FA}Мария"/>
     <string id="lord_nov_4_5.name" text="{.FA}Ирина"/>
@@ -187,11 +187,11 @@
     <string id="lord_nov_5_2.name" text="{.MA}Жирослав{.nn} {.MA}Давидович{.nn}"/>
     <string id="lord_nov_5_3.name" text="{.FA}Домна"/>
     <string id="lord_nov_5_4.name" text="{.MA}Михаил{.nn} {.MA}Павшинич{.nn}"/>
-    <string id="lord_nov_6_1.name" text="{.MA}Семен{.nn} {.MA}Михайлович{.nn}"/>
+    <string id="lord_nov_6_1.name" text="{.MA}Семён{.nn} {.MA}Михайлович{.nn}"/>
     <string id="lord_nov_6_2.name" text="{.MA}Степан{.nn} {.MA}Микулич{.nn}"/>
     <string id="lord_nov_6_3.name" text="{.FA}Сбыслава"/>
     <string id="lord_nov_6_4.name" text="{.FA}Аксинья"/>
-    <string id="lord_nov_6_5.name" text="{.MA}Матвей{.nn} {.MA}Семенович{.nn}"/>
+    <string id="lord_nov_6_5.name" text="{.MA}Матвей{.nn} {.MA}Семёнович{.nn}"/>
     <string id="lord_nov_7_1.name" text="{.MA}Василий{.nn} {.MA}Александрович{.nn}"/>
     <string id="lord_nov_7_2.name" text="{.MA}Дорогомил{.nn} {.MA}Гаврилович{.nn}"/>
     <string id="lord_nov_7_3.name" text="{.FA}Прасковья"/>
