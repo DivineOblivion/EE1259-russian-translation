@@ -274,7 +274,7 @@
     <string id="Settlements.Settlement.name.village_town_NOV1_4" text="{.FI}Усть-Волма"/>
     <string id="Settlements.Settlement.name.town_NOV2" text="{.MI}Плесков"/>
     <string id="Settlements.Settlement.name.village_town_NOV2_1" text="Дубровно"/>
-    <string id="Settlements.Settlement.name.village_town_NOV2_2" text="{.MI}Исад-городец"/>
+    <string id="Settlements.Settlement.name.village_town_NOV2_2" text="Исад-{.MI}городец{.nn}"/>
     <string id="Settlements.Settlement.name.village_town_NOV2_3" text="{.FI}Мда"/>
     <string id="Settlements.Settlement.name.village_town_NOV2_4" text="{.MI}Сторожинец"/>
     <string id="Settlements.Settlement.name.town_NOV3" text="{.FI}Ладога"/>

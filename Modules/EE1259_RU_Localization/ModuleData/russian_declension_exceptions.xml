@@ -56,6 +56,34 @@
         <Form case=".lp" value="турцах" />
     </Word>
 
+    <Word value="сторожинец">
+        <Form case=".p" value="сторожинцы" />
+        <Form case=".g" value="сторожинца" />
+        <Form case=".gp" value="сторожинцов" />
+        <Form case=".d" value="сторожинцу" />
+        <Form case=".dp" value="сторожинцам" />
+        <Form case=".a" value="сторожинец" />
+        <Form case=".ap" value="сторожинцы" />
+        <Form case=".i" value="сторожинцом" />
+        <Form case=".ip" value="сторожинцами" />
+        <Form case=".l" value="сторожинце" />
+        <Form case=".lp" value="сторожинцах" />
+    </Word>
+
+    <Word value="вдовец">
+        <Form case=".p" value="вдовцы" />
+        <Form case=".g" value="вдовца" />
+        <Form case=".gp" value="вдовцов" />
+        <Form case=".d" value="вдовцу" />
+        <Form case=".dp" value="вдовцам" />
+        <Form case=".a" value="вдовец" />
+        <Form case=".ap" value="вдовцы" />
+        <Form case=".i" value="вдовцом" />
+        <Form case=".ip" value="вдовцами" />
+        <Form case=".l" value="вдовце" />
+        <Form case=".lp" value="вдовцах" />
+    </Word>
+
     <Word value="волок">
         <Form case=".p" value="волоки" />
         <Form case=".g" value="волока" />
@@ -85,7 +113,7 @@
         <Form case=".d" value="каменцу" />
         <Form case=".dp" value="каменцам" />
         <Form case=".a" value="каменец" />
-        <Form case=".ap" value="каменецы" />
+        <Form case=".ap" value="каменцы" />
         <Form case=".i" value="каменцем" />
         <Form case=".ip" value="каменцами" />
         <Form case=".l" value="каменце" />
@@ -99,7 +127,7 @@
         <Form case=".d" value="кременцу" />
         <Form case=".dp" value="кременцам" />
         <Form case=".a" value="кременец" />
-        <Form case=".ap" value="кременецы" />
+        <Form case=".ap" value="кременцы" />
         <Form case=".i" value="кременцем" />
         <Form case=".ip" value="кременцами" />
         <Form case=".l" value="кременце" />
@@ -118,6 +146,34 @@
         <Form case=".ip" value="ростовцами" />
         <Form case=".l" value="ростовце" />
         <Form case=".lp" value="ростовцах" />
+    </Word>
+
+    <Word value="еменец">
+        <Form case=".p" value="еменцы" />
+        <Form case=".g" value="еменца" />
+        <Form case=".gp" value="еменцев" />
+        <Form case=".d" value="еменцу" />
+        <Form case=".dp" value="еменцам" />
+        <Form case=".a" value="еменец" />
+        <Form case=".ap" value="еменцы" />
+        <Form case=".i" value="еменцем" />
+        <Form case=".ip" value="еменцами" />
+        <Form case=".l" value="еменце" />
+        <Form case=".lp" value="еменцах" />
+    </Word>
+
+    <Word value="олонец">
+        <Form case=".p" value="олонцы" />
+        <Form case=".g" value="олонца" />
+        <Form case=".gp" value="олонцев" />
+        <Form case=".d" value="олонцу" />
+        <Form case=".dp" value="олонцам" />
+        <Form case=".a" value="олонец" />
+        <Form case=".ap" value="олонцы" />
+        <Form case=".i" value="олонцем" />
+        <Form case=".ip" value="олонцами" />
+        <Form case=".l" value="олонце" />
+        <Form case=".lp" value="олонцах" />
     </Word>
 
     <Word value="литовец">
