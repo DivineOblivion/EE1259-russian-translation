@@ -34,5 +34,6 @@
     <string id="WjB3SM1f" text="{.NI}Королевство{.nn} {CLAN_NAME}{.g}" />
     <string id="E63n30UM" text="{.FI}Империя{.nn} {CLAN_NAME}{.g}" />
     <string id="lSQeaVfw" text="{.FI}Империя{.nn} {CLAN_NAME}{.g}" />
+    <string id="lSQeaVfw" text="{.FI}Империя{.nn} {CLAN_NAME}{.g}" />
   </strings>
 </base>
