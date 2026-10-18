@@ -121,8 +121,8 @@
     <string id="wanderer6_swedish" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Адский{.aj}{?}{.MA}Адский{.aj}{\?} (Helvændin)"/>
     <string id="wanderer7_swedish" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Кораблестроительница{.nn}{?}{.MA}Корабел{.nn}{\?} (Skepnman)"/>
     <string id="wanderer8_swedish" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Непоколебимый{.aj}{?}{.MA}Непоколебимый{.aj}{\?} (Stadfallin)"/>
-    <string id="wanderer9_swedish" text="{FIRSTNAME}{.nn} {.FA}Кровавый{.aj} {.FA}Дева{.aj} (Blodmö)"/>
-    <string id="wanderer10_swedish" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Подручный{.nn}{?}{.MA}Подручный{.nn}{\?} лекаря (Lækthræng)"/>
+    <string id="wanderer9_swedish" text="{FIRSTNAME}{.nn} {.FA}Кровавый{.aj} {.FA}Дева{.nn} (Blodmö)"/>
+    <string id="wanderer10_swedish" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Подручный{.aj}{?}{.MA}Подручный{.aj}{\?} лекаря (Lækthræng)"/>
     <string id="wanderer11_swedish" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Безродный{.aj}{?}{.MA}Безродный{.aj}{\?} (Ættløs)"/>
     <string id="wanderer12_swedish" text="{FIRSTNAME}{.nn} {.FA}Странствующий{.aj} {.FA}Дева{.aj} (Vandramö)"/>
     <string id="wanderer13_swedish" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Странница{.nn}{?}{.MA}Странник{.nn}{\?} (Väghfarande)"/>

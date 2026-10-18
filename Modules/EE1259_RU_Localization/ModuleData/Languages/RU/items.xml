@@ -555,6 +555,9 @@
     <string id="lt_cloak1_teuton1" text="{.MI}Тевтонский{.aj} {.MI}плащ{.nn}"/>
     <string id="lt_cloak1_teuton2" text="{.MI}Тевтонский{.aj} {.MI}плащ{.nn}"/>
     <string id="lt_cloak1_teuton3" text="{.MI}Тевтонский{.aj} {.MI}плащ{.nn}"/>
+    <string id="lt_club1" text="{.FI}Дубина{.nn}"/>
+    <string id="lt_club2" text="{.FI}Дубина{.nn}"/>
+    <string id="lt_club3" text="{.FI}Дубина{.nn}"/>
     <string id="lt_coat_of_plates_piast" text="{.FI}Бригантина{.nn} Пястов"/>
     <string id="lt_coat_of_plates_pomerania" text="{.FI}Бригантина{.nn} Грифичей"/>
     <string id="lt_horse_harness_half_mail_piast" text="{.MI}Полукольчужный{.aj} {.MI}бард{.nn} Пястов"/>

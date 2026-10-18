@@ -23,6 +23,9 @@
     <string id="baltic_old_lv" text="{.MA}Латыш{.nnp}"/>
     <string id="baltic_old_lv_desc" text="Балты, живущие вдоль юго-восточного побережья Балтийского моря, имеют свои собственные языки, самобытные культурные обычаи и языческие верования. Они делятся на племена, каждое из которых возглавляет свой вождь. Сохраняя независимость, эти племена объединены общей культурой и религией."/>
 
+    <string id="latvianfactionformalname" text="{.MA}Балт{.nnp}"/>
+    <string id="latvianfactioninformalname" text="{.MA}Балт{.nnp}"/>
+    
     <string id="balticdescription" text="Балты, живущие вдоль юго-восточного побережья Балтийского моря, имеют свои собственные языки, самобытные культурные обычаи и языческие верования. Они делятся на племена, каждое из которых возглавляет свой вождь. Сохраняя независимость, эти племена объединены общей культурой и религией."/>
     <string id="balticfactionadjective" text="балтский{.aj}"/>
     <string id="balticcultureadjective" text="балтский{.aj}"/>
@@ -103,6 +106,7 @@
     <string id="danishcultureneutralterm" text="{.MA}Датчанин{.nnp}"/>
     <string id="danishmembers" text="{.MA}Датчанин{.nnp}"/>
     <string id="danishrfather" text="{.MA}Бьорн"/>
+    <string id="danishfather" text="{.MA}Бьорн"/>
     <string id="danishmother" text="Эльсе"/>
     <string id="danishofficial" text="{.MA}барон"/>
     <string id="danishofficialf" text="{.FA}баронесса"/>
