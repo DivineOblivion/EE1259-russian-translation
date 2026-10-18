@@ -623,7 +623,7 @@
     <string id="EE000605" text="Хороший подарок. Благодарю тебя.[ib:confident2][if:convo_approving][rb:positive]"/>
     <string id="EE000606" text="Благодарю тебя за щедрость.[ib:normal2][if:convo_relaxed_happy][rb:positive]"/>
     <string id="EE000607" text="Я ценю это. Спасибо.[ib:normal][if:happy][rb:positive]"/>
-    <string id="EE000608" text="Недостаточно динар"/>
+    <string id="EE000608" text="Недостаточно динаров"/>
     <string id="EE000609" text="Нельзя передать воинов через гонца."/>
     <string id="EE000610" text="Нельзя передавать товары или пленных через гонца."/>
     <string id="EE000611" text="{newline}В состоянии войны: цена удвоена"/>
@@ -662,7 +662,7 @@
     <string id="EE000644" text="{HERO_NAME} недавно был освобождён и пока не готов к встрече."/>
     <string id="EE000645" text="{HERO_NAME} в пути."/>
     <string id="EE000646" text="Сплочённость нашей армии на исходе! Следует восстановить её, пока армия не распалась."/>
-    <string id="EE000647" text="Ваш лорд недоволен вашим неподобающим видом. ({RELATION_CHANGE} с {LORD_NAME})"/>
+    <string id="EE000647" text="Ваш господин недоволен вашим неподобающим видом. ({RELATION_CHANGE} с {LORD_NAME})"/>
     <string id="EE000648" text="Боевой дух отряда {MORALE_ICON} падает — воины стыдятся, что их предводитель - нагой."/>
     <string id="EE000649" text="Стража выставляет вас вон за неподобающее поведение — ты явился без одежды."/>
     <string id="EE000650" text="За непристойный вид вы теряете уважение всех собравшихся."/>

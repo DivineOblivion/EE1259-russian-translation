@@ -28,6 +28,14 @@
     <string id="OWCoBElc" text="Вы в плену у {._}{PARTY_NAME}{.g}." />
     <string id="minuteabbr" text="мин" />
 
+    <string id="l4pRw7pO" text="{.MI}Вооруженный{.aj} {.MI}караван{.nn} {OWNER.NAME}{.g}" />
+    <string id="LjUhEJxz" text="{.MI}Караван{.nn} {OWNER.NAME}{.g}" />
+    <string id="CjACwTk4" text="{.MI}Конвой{.nn} {OWNER.NAME}{.g}" />
+    <string id="YG8K0ejL" text="{.MI}Вооруженный{.aj} {.MI}конвой{.nn} {OWNER.NAME}{.g}" />
+    <string id="07qBenIW" text="{.MI}кувшин{.nn} эля" />
+    <string id="07QlFlXK" text="{.FI}тарелка{.nn} селедки" />
+    <string id="0qc11kmz" text="{.FI}тарелка{.nn} пельменей с бараниной" />
+
     <!-- RuFix -->
 
     <string id="br0N6SSH" text="{adjectiveGenderCreator(ITEMNAME)}Надломленный{?IS_PLURAL_WORD_GROUP(ITEMNAME)}{.jp}{?}{.j}{\?} {._}{ITEMNAME}{.n}" />
