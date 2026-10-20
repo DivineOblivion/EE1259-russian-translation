@@ -20,10 +20,10 @@
   - Перевёл то, чего не было в шаблоне
 - BETA: Русская озвучка реплик из EE 1259 (12/53)
 
-## Поддерживаемые версии модов:
+## Поддерживаемые версии модов
 
-- [EE1259](https://www.nexusmods.com/mountandblade2bannerlord/mods/6724): v9.2.0
-- [Diplomacy](https://www.nexusmods.com/mountandblade2bannerlord/mods/832): v1.5.3
+- [EE1259](https://www.nexusmods.com/mountandblade2bannerlord/mods/6724): v9.3.1
+- [Diplomacy](https://www.nexusmods.com/mountandblade2bannerlord/mods/832): v1.5.4
 - [RBM](https://www.nexusmods.com/mountandblade2bannerlord/mods/832): v4.5.3
 
 ## Подготовка к установке
