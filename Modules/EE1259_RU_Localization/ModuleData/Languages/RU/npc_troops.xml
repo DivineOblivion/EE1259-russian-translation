@@ -67,8 +67,8 @@
     <string id="crusader_17" text="{.MA}Крестоносный{.aj} {.MA}сержант{.nn} «Dienende Bruder»"/>
     <string id="crusader_18" text="{.MA}Крестоносный{.aj} {.MA}воин{.nn} с гвизармой (полубрат)"/>
     <string id="crusader_19" text="{.MA}Крестоносный{.aj} {.MA}вульжер{.nn} «Hellebardier»"/>
-    <string id="crusader_20" text="{.MA}Крестоносный{.aj} {.MA}горожанин{.nn} с топором"/>
-    <string id="crusader_21" text="{.MA}Крестоносный{.aj} {.MA}горожанин{.nn}-{.MA}копейщик{.nn}"/>
+    <string id="crusader_20" text="{.MA}Крестоносный{.aj} {.MA}бюргер{.nn} с топором"/>
+    <string id="crusader_21" text="{.MA}Крестоносный{.aj} {.MA}бюргер{.nn}-{.MA}копейщик{.nn}"/>
     <string id="crusader_22" text="{.MA}Крестоносный{.aj} {.MA}оруженосец{.nn} «Reiseknappe»"/>
     <string id="crusader_23" text="{.MA}Крестоносный{.aj} {.MA}младший{.aj} {.MA}светский{.aj} {.MA}рыцарь{.nn} «Platendienst»"/>
     <string id="crusader_24" text="{.MA}Крестоносный{.aj} {.MA}светский{.aj} {.MA}рыцарь{.nn} «Mitbruder Rossdienst»"/>
@@ -139,8 +139,8 @@
     <string id="german_17" text="{.MA}Немецкий{.aj} {.MA}сержант{.nn}"/>
     <string id="german_18" text="{.MA}Немецкий{.aj} {.MA}воин{.nn} с гвизармой"/>
     <string id="german_19" text="{.MA}Немецкий{.aj} {.MA}вульжер{.nn} «Hellebardier»"/>
-    <string id="german_20" text="{.MA}Немецкий{.aj} {.MA}горожанин{.nn} с топором"/>
-    <string id="german_21" text="{.MA}Немецкий{.aj} {.MA}горожанин{.nn}-{.MA}копейщик{.nn}"/>
+    <string id="german_20" text="{.MA}Немецкий{.aj} {.MA}бюргер{.nn} с топором"/>
+    <string id="german_21" text="{.MA}Немецкий{.aj} {.MA}бюргер{.nn}-{.MA}копейщик{.nn}"/>
     <string id="german_22" text="{.MA}Немецкий{.aj} {.MA}оруженосец{.nn} «Reiseknappe»"/>
     <string id="german_23" text="{.MA}Немецкий{.aj} {.MA}младший{.aj} {.MA}светский{.aj} {.MA}рыцарь{.nn}"/>
     <string id="german_24" text="{.MA}Немецкий{.aj} {.MA}светский{.aj} {.MA}рыцарь{.nn}"/>
