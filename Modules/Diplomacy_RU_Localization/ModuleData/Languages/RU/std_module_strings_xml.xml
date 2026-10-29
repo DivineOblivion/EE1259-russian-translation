@@ -99,9 +99,9 @@
     <string id="UQZmdLzc" text="Невозможно, пока вы в состоянии войны." />
     <string id="qIa19an4" text="Союз заключён" />
     <string id="3pbwc8sh" text="Предложение заключить союз"/>
-    <string id="QbOqatd7" text="{KINGDOM} предлагает заключить союз с {PLAYER_KINGDOM}{.i}." />
+    <string id="QbOqatd7" text="{KINGDOM} {?IS_PLURAL_WORD_GROUP(KINGDOM)}предлагают{:}предлагает{\?} заключить союз с {PLAYER_KINGDOM}{.i}." />
 
-    <string id="384jX28Q" text="{KINGDOM} разрывает союз с {PLAYER_KINGDOM}{.i}."/>
+    <string id="384jX28Q" text="{KINGDOM} {?IS_PLURAL_WORD_GROUP(KINGDOM)}разрывают{:}разрывает{\?} союз с {PLAYER_KINGDOM}{.i}."/>
     <string id="D1ZQKZr1" text="Союз расторгнут" />
 
     <string id="0WPWbx70" text="Заключить союз" />
@@ -136,7 +136,7 @@
     <string id="noWHMN1W" text ="Пакты о ненападении" />
 
     <string id="yj4XFa5T" text="Предложение пакта о ненападении"/>
-    <string id="gyLjlpJB" text="{KINGDOM} предлагает заключить пакт о ненападении с {PLAYER_KINGDOM}{.i}."/>
+    <string id="gyLjlpJB" text="{KINGDOM} {?IS_PLURAL_WORD_GROUP(KINGDOM)}предлагают{:}предлагает{\?} заключить пакт о ненападении с {PLAYER_KINGDOM}{.i}."/>
 
     <string id="9pY0NQrk" text="Заключить пакт"/>
     <string id="9zlQNtlX" text="Заключить пакт о ненападении сроком на {DAYS} дней."/>
@@ -144,7 +144,7 @@
     <string id="1occw3EF" text="Статистика"/>
     <string id="OvbY5qxL" text="Обзор"/>
 
-    <string id="UDC8eW7s" text="{ALLIED_KINGDOM} вступает в войну против {ENEMY_KINGDOM}{.g} на стороне своего союзника {KINGDOM}{.g}."/>
+    <string id="UDC8eW7s" text="{ALLIED_KINGDOM} {?IS_PLURAL_WORD_GROUP(ALLIED_KINGDOM)}вступают{:}вступает{\?} в войну против {ENEMY_KINGDOM}{.g} на стороне своего союзника {KINGDOM}{.g}."/>
 
     <string id="pdI7Tjtj" text="Срок действия пакта о ненападении истёк"/>
     <string id="uWY09LJb" text="Срок действия пакта о ненападении между {KINGDOM}{.i} и {OTHER_KINGDOM}{.i} истёк."/>

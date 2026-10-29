@@ -10,7 +10,7 @@
     <string id="0bPb5btR" text="{LORD.NAME} является членом клана {CLAN_NAME} ({CLAN_DESCRIPTION} в составе {FACTION_NAME}{.g}), поддерживающего {RULER}{.a} в гражданской войне. {REPUTATION} – так о {?LORD.GENDER}ней{?}нем{\?} говорят." />
     <string id="JuPUG5wX" text="{LORD.NAME} – {._}{TITLE} {FACTION_NAME}{.g} и глава клана {CLAN_NAME} ({CLAN_DESCRIPTION}), который поддерживает {RULER}{.a} в гражданской войне. {REPUTATION} – так о {?LORD.GENDER}ней{?}нем{\?} говорят." />
     <string id="17A2DDgD" text="{PEACEMAKER_RULER.NAME} из {KINGDOM_CONSIDERING_PEACE}{.g} {?PEACEMAKER_RULER.GENDER}решила{?}решил{\?} заключить мир с {KINGDOM}{.i} при поддержке советников." />
-    <string id="Cae69FRp" text="{SETTLEMENT} находится под защитой {PARTY}{.g}." />
+    <string id="Cae69FRp" text="{SETTLEMENT} {?IS_PLURAL_WORD_GROUP(SETTLEMENT)}находятся{?}находится{\?} под защитой {PARTY}{.g}." />
     <string id="patrolPartyName" text="{.MI}Патруль{.nn} {SETTLEMENT}{.g}" />
     <string id="shL0WElC" text="{.MI}Отряд{.nn} {TROOP.NAME}{.g}" />
     <string id="u4jhIFwG" text="{.MI}Отряд{.nn} {GANG_LEADER}{.g}" />
@@ -23,7 +23,7 @@
     <string id="F4RMyaR5" text="Вы столкнулись с {._}{PARTY}{.i}." />
     <string id="g7zo28KR" text="Вы столкнулись с {._}{PARTY}{.i}. У них нет никаких шансов против вашей мощи, и они сдаются." />
     <string id="hqIIEur1" text="Вы столкнулись с {._}{ARMY}{.i}." />
-    <string id="trRLa9pi" text="Вы столкнулись с {._}{PARTY}{.i}. Если вы начнете сражение, {KINGDOM} объявит вам войну." />
+    <string id="trRLa9pi" text="Вы столкнулись с {._}{PARTY}{.i}. Если вы начнете сражение, {KINGDOM} {?IS_PLURAL_WORD_GROUP(KINGDOM)}объявят{?}объявит{\?} вам войну." />
     <string id="XYAVu2f0" text="Преследует {TARGET_PARTY}{.a}." />
     <string id="OWCoBElc" text="Вы в плену у {._}{PARTY_NAME}{.g}." />
     <string id="minuteabbr" text="мин" />
@@ -148,7 +148,7 @@
     <string id="ajePb62s" text="{FIRSTNAME}{.nn} {.FA}Ртуть{.nn}" />
     <string id="aqp9ZtXb" text="{FIRSTNAME}{.nn} {.FA}Бородавка{.nn}" />
     <string id="asePjBVy" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Вольноотпущенница{.nn}{?}{.MA}Вольноотпущенник{.nn}{\?}" />
-    <string id="awCsv4UM" text="{.FA}Малютка{.nn} {FIRSTNAME}{.nn}" />
+    <string id="awCsv4UM" text="{?FEMALE}{.FA}Малютка{.nn}{?}{.MA}Малютка{.nn}{\?} {FIRSTNAME}{.nn}" />
     <string id="AZbJuZwF" text="{FIRSTNAME}{.nn} {.FA}Свинчатка{.nn}" />
     <string id="BC4BC0ZC" text="{FIRSTNAME}{.nn} {.FA}Специя{.nn}" />
     <string id="Bk62qb7O" text="{FIRSTNAME}{.nn} {.MA}Железный{.aj} {.MA}Череп{.nn}" />
@@ -172,7 +172,7 @@
     <string id="gbAztaSq" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Потрошительница{.nn}{?}{.MA}Потрошитель{.nn}{\?}" />
     <string id="glTzcivI" text="{FIRSTNAME}{.nn} {.MA}Ручей{.nn}" />
     <string id="gSmXyxue" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Кожевница{.nn}{?}{.MA}Кожевник{.nn}{\?}" />
-    <string id="iCSVZj2e" text="{FIRSTNAME}{.nn} {?FEMALE}{?NORTHERN}{.FI}Дальнеходящий{.aj}{?}{.FA}Караванщица{.nn}{\?}{?}{?NORTHERN}{.MA}Дальнеходящий{?}{.MA}Караванщик{.nn}{\?}{\?}" />
+    <string id="iCSVZj2e" text="{FIRSTNAME}{.nn} {?FEMALE}{?NORTHERN}{.FA}Дальнеходящий{.aj}{?}{.FA}Караванщица{.nn}{\?}{?}{?NORTHERN}{.MA}Дальнеходящий{.aj}{?}{.MA}Караванщик{.nn}{\?}{\?}" />
     <string id="JiAmC0NZ" text="{FIRSTNAME}{.nn} {.MA}Мул{.nn}" />
     <string id="Jin8cj45" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Чеканщица{.nn}{?}{.MA}Чеканщик{.nn}{\?}" />
     <string id="K4MRSU6i" text="{FIRSTNAME}{.nn} {.MA}Соня{.nn}" />
@@ -212,7 +212,7 @@
     <string id="TtaEimaV" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Мостовой{.aj}{?}{.MA}Мостовой{.aj}{\?}" />
     <string id="tTFUSJoe" text="{FIRSTNAME}{.nn} {.MA}Кузнец{.nn}" />
     <string id="TVRbkuhC" text="{FIRSTNAME}{.nn} {.MA}Трезубец{.nn}" />
-    <string id="TW4iKHCt" text="{FIRSTNAME}{.nn} {.FA}Вонючка{.nn}" />
+    <string id="TW4iKHCt" text="{FIRSTNAME}{.nn} {.MA}Вонючка{.nn}" />
     <string id="TX48zCzF" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Плотница{.nn}{?}{.MA}Плотник{.nn}{\?}" />
     <string id="tx7iJMnc" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Шелковница{.nn}{?}{.MA}Шелковник{.nn}{\?}" />
     <string id="tzuN76ma" text="{FIRSTNAME}{.nn} {.MA}Рубака{.nn}" />
@@ -240,7 +240,7 @@
     <string id="YYYBGdh5" text="{FIRSTNAME}{.nn} {.FA}Лампада{.nn}" />
     <string id="YYyoYwH2" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Пастушка{.nn}{?}{.MA}Пастух{.nn}{\?}" />
     <string id="Z48lYHBl" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Овечка{.nn}{?}{.MA}Ягненок{.nn}{\?}" />
-    <string id="z8LbFyNA" text="{FIRSTNAME}{.nn} {.FA}Собачья{.nn} {.FA}Морда{.nn}" />
+    <string id="z8LbFyNA" text="{FIRSTNAME}{.nn} {.PR}{.FA}Собачья{.nn} {.FA}Морда{.nn}" />
     <string id="zE3sKAb2" text="{FIRSTNAME}{.nn} {.MA}Гончар{.nn}" />
     <string id="zo13Dkoh" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Пальцеломка{.nn}{?}{.MA}Пальцелом{.nn}{\?}" />
     <string id="zrDWbEJR" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Привратница{.nn}{?}{.MA}Привратник{.nn}{\?}" />

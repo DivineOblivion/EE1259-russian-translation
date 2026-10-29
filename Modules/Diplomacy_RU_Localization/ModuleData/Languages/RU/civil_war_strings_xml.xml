@@ -120,7 +120,7 @@
     <string id="FReliminated" text="Этот клан больше не существует." />
     <string id="FRfailed" text="Вы меня не убедили. Мой клан не присоединится к вашей фракции." />
     <string id="FRgoodbye" text="Хорошо. Поговорим о чём-нибудь другом." />
-    <string id="FRhearArg" text="Скажите, почему я должен пойти с вами на такой риск." />
+    <string id="FRhearArg" text="Скажите, почему мне стоит пойти с вами на такой риск." />
     <string id="FRhesitnt" text="Я пока не могу поддержать ваше требование. Вам придётся меня убедить." />
     <string id="FRintroTx" text="{FACTION_RECRUITMENT_RESPONSE}" />
     <string id="FRisMember" text="Этот клан уже поддерживает вашу фракцию." />

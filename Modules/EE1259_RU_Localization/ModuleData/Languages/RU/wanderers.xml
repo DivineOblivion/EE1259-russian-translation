@@ -21,11 +21,11 @@
     <string id="wanderer3_baltic" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Крепкий{.aj}{?}{.MA}Крепкий{.aj}{\?} (Drutas)"/>
     <string id="wanderer4_baltic" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Конокрадка{.nn}{?}{.MA}Конокрад{.nn}{\?} (Arkliavagis)"/>
     <string id="wanderer5_baltic" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Лохмотница{.nn}{?}{.MA}Лохмотник{.nn}{\?} (Skarmalius)"/>
-    <string id="wanderer6_baltic" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Чернозубый{.aj}{?}{.MA}Чернозубый{.aj} (Juodadantis)"/>
+    <string id="wanderer6_baltic" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Чернозубый{.aj}{?}{.MA}Чернозубый{.aj}{\?} (Juodadantis)"/>
     <string id="wanderer7_baltic" text="{FIRSTNAME}{.nn} {.MA}Бродяга{.nn} (Valkata)"/>
-    <string id="wanderer8_baltic" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Косоглазый{.aj}{?}{.MA}Косоглазый{.aj} (Kreivažiūris)"/>
-    <string id="wanderer9_baltic" text="{FIRSTNAME}{.nn} {?FEMALE}{.MA}Пастушка{.nn}{?}{.MA}Пастух{.nn}{\?} коров (Karvavedis)"/>
-    <string id="wanderer10_baltic" text="{FIRSTNAME}{.nn} {.MA}Замарашка (Murzė)"/>
+    <string id="wanderer8_baltic" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Косоглазый{.aj}{?}{.MA}Косоглазый{.aj}{\?} (Kreivažiūris)"/>
+    <string id="wanderer9_baltic" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Пастушка{.nn}{?}{.MA}Пастух{.nn}{\?} коров (Karvavedis)"/>
+    <string id="wanderer10_baltic" text="{FIRSTNAME}{.nn} {.MA}Замарашка{.nn} (Murzė)"/>
     <string id="wanderer11_baltic" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Оборванка{.nn}{?}{.MA}Оборванец{.nn}{\?} (Driskius)"/>
 
     <string id="wanderer0_crusader" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Ученый{.aj}{?}{.MA}Ученый{.aj}{\?} (Der Gelehrter)"/>
@@ -46,7 +46,7 @@
     <string id="wanderer0_danish" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Умелый{.aj}{?}{.MA}Умелый{.aj}{\?} (Snjallr)"/> 
     <string id="wanderer1_danish" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Силачка{.nn}{?}{.MA}Силач{.nn}{\?} (Kraftmaðr)"/> 
     <string id="wanderer2_danish" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Серый{.aj}{?}{.MA}Серый{.aj}{\?} (Grámann)"/> 
-    <string id="wanderer3_danish" text="{FIRSTNAME}{.nn} {.MA}Бурый{.aj} {.MA}Зверь{.aj} (Brundýri)"/> 
+    <string id="wanderer3_danish" text="{FIRSTNAME}{.nn} {.MA}Бурый{.aj} {.MA}Зверь{.nn} (Brundýri)"/>
     <string id="wanderer4_danish" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Лгунья{.nn}{?}{.MA}Лжец{.nn}{\?} (Lygari)"/> 
     <string id="wanderer5_danish" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Сапожница{.nn}{?}{.MA}Сапожник{.nn}{\?} (Skomaðr)"/> 
     <string id="wanderer6_danish" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Горянка{.nn}{?}{.MA}Горец{.nn}{\?} (Fjældmand)"/> 
@@ -64,7 +64,7 @@
     <string id="wanderer3_estonian" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Коренастый{.aj}{?}{.MA}Коренастый{.aj}{\?} (Jässakas)"/>
     <string id="wanderer4_estonian" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Конокрадка{.nn}{?}{.MA}Конокрад{.nn}{\?} (Hobusevaras)"/>
     <string id="wanderer5_estonian" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Потрёпанный{.aj}{?}{.MA}Потрёпанный{.aj}{\?} (Räbal)"/>
-    <string id="wanderer6_estonian" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Чернозубый{.aj}{?}{.MA}Чернозубый{.aj} (Mustahammas)"/>
+    <string id="wanderer6_estonian" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Чернозубый{.aj}{?}{.MA}Чернозубый{.aj}{\?} (Mustahammas)"/>
     <string id="wanderer7_estonian" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Скиталица{.nn}{?}{.MA}Скиталец{.nn}{\?} (Hulkija)"/>
     <string id="wanderer8_estonian" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Проклятый{.aj}{?}{.MA}Проклятый{.aj}{\?} (Neetud)"/>
     <string id="wanderer9_estonian" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Скотокрадка{.nn}{?}{.MA}Скотокрад{.nn}{\?} (Lehmavaras)"/>
@@ -117,14 +117,14 @@
     <string id="wanderer2_swedish" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Отступница{.nn}{?}{.MA}Отступник{.nn}{\?} (Affallin)"/>
     <string id="wanderer3_swedish" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Стойкий{.aj}{?}{.MA}Стойкий{.aj}{\?} (Härfast)"/>
     <string id="wanderer4_swedish" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Изгнанный{.aj}{?}{.MA}Изгнанный{.aj}{\?} (Utfallen)"/>
-    <string id="wanderer5_swedish" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Тихий{.aj} {.MA}Убийца{.nn}{?}{.MA}Тихий{.aj} {.MA}Убийца{.nn}{\?} (Tystslaghare)"/>
+    <string id="wanderer5_swedish" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Тихий{.aj} {.FA}Убийца{.nn}{:}{.MA}Тихий{.aj} {.MA}Убийца{.nn}{\?} (Tystslaghare)"/>
     <string id="wanderer6_swedish" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Адский{.aj}{?}{.MA}Адский{.aj}{\?} (Helvændin)"/>
     <string id="wanderer7_swedish" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Кораблестроительница{.nn}{?}{.MA}Корабел{.nn}{\?} (Skepnman)"/>
     <string id="wanderer8_swedish" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Непоколебимый{.aj}{?}{.MA}Непоколебимый{.aj}{\?} (Stadfallin)"/>
     <string id="wanderer9_swedish" text="{FIRSTNAME}{.nn} {.FA}Кровавый{.aj} {.FA}Дева{.nn} (Blodmö)"/>
     <string id="wanderer10_swedish" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Подручный{.aj}{?}{.MA}Подручный{.aj}{\?} лекаря (Lækthræng)"/>
     <string id="wanderer11_swedish" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Безродный{.aj}{?}{.MA}Безродный{.aj}{\?} (Ættløs)"/>
-    <string id="wanderer12_swedish" text="{FIRSTNAME}{.nn} {.FA}Странствующий{.aj} {.FA}Дева{.aj} (Vandramö)"/>
+    <string id="wanderer12_swedish" text="{FIRSTNAME}{.nn} {.FA}Странствующий{.aj} {.FA}Дева{.nn} (Vandramö)"/>
     <string id="wanderer13_swedish" text="{FIRSTNAME}{.nn} {?FEMALE}{.FA}Странница{.nn}{?}{.MA}Странник{.nn}{\?} (Väghfarande)"/>
     
     <string id="wanderer11_mongol" text="{FIRSTNAME} {.MA}Жеребёнок{.nn}"/>
