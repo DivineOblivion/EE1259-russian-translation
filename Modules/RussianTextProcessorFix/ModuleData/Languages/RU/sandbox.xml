@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Русский" />
+  </tags>
+  <strings>
+    <string id="kXVHwjoV" text="Вы прибыли в свое владение – {SETTLEMENT_LINK}. {PROSPERITY_INFO} {MORALE_INFO}" />
+    <string id="M5iR1e5h" text="Вы прибыли в свое владение – {SETTLEMENT_LINK}. {PROSPERITY_INFO}" />
+    <string id="0bPb5btR" text="{LORD.NAME} является членом клана {CLAN_NAME} ({CLAN_DESCRIPTION} в составе {FACTION_NAME}{.g}), поддерживающего {RULER}{.a} в гражданской войне. {REPUTATION} – так о {?LORD.GENDER}ней{?}нем{\?} говорят." />
+    <string id="JuPUG5wX" text="{LORD.NAME} – {._}{TITLE} {FACTION_NAME}{.g} и глава клана {CLAN_NAME} ({CLAN_DESCRIPTION}), который поддерживает {RULER}{.a} в гражданской войне. {REPUTATION} – так о {?LORD.GENDER}ней{?}нем{\?} говорят." />
+    <string id="17A2DDgD" text="{PEACEMAKER_RULER.NAME} из {KINGDOM_CONSIDERING_PEACE}{.g} {?PEACEMAKER_RULER.GENDER}решила{?}решил{\?} заключить мир с {KINGDOM}{.i} при поддержке советников." />
+    <string id="Cae69FRp" text="{SETTLEMENT} {?IS_PLURAL_WORD_GROUP(SETTLEMENT)}находятся{?}находится{\?} под защитой {PARTY}{.g}." />
+    <string id="shL0WElC" text="{.MI}Отряд{.nn} {TROOP.NAME}{.g}" />
+    <string id="u4jhIFwG" text="{.MI}Отряд{.nn} {GANG_LEADER}{.g}" />
+    <string id="P5YtNXHR" text="{.MI}Отряд{.nn} {LEADER.NAME}{.g}" />
+    <string id="2LIV2cy7" text="{.MA}Мятежник{.nnp} из {SETTLEMENT}{.g}" />
+    <string id="9yaFxhGa" text="{.MA}Дезертир{.nnp}" />
+    <string id="ZqJ92UN4" text="Прибыл гонец, предлагающий выкуп за {CAPTIVE_HERO.NAME}{.a}." />
+    <string id="XYAVu2f0" text="Преследует {TARGET_PARTY}{.a}." />
+
+    <string id="07qBenIW" text="{.MI}кувшин{.nn} эля" />
+    <string id="07QlFlXK" text="{.FI}тарелка{.nn} селедки" />
+    <string id="0qc11kmz" text="{.FI}тарелка{.nn} пельменей с бараниной" />
+  </strings>
+</base>
