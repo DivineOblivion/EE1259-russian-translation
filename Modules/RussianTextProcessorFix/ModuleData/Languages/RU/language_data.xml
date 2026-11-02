@@ -2,6 +2,8 @@
 <LanguageData id="Русский" name="Русский" subtitle_extension="ru" supported_iso="ru,rus,ru-ru,ru-md" text_processor="TaleWorlds.Localization.TextProcessor.LanguageProcessors.RussianTextProcessor" under_development="false">
   <LanguageFile xml_path="RU/native.xml" />
   <LanguageFile xml_path="RU/sandbox.xml" />
+  <LanguageFile xml_path="RU/sandboxcore.xml" />
   <LanguageFile xml_path="RU/navaldlc.xml" />
+  <LanguageFile xml_path="RU/items.xml" />
   <LanguageFile xml_path="RU/wanderers.xml" />
 </LanguageData>

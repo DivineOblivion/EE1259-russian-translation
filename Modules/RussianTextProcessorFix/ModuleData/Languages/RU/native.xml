@@ -4,10 +4,9 @@
     <tag language="Русский" />
   </tags>
   <strings>
-    <string id="C0llOApK" text="{.FI}Армия{.nn} {HERO}{.g}" />
-    <string id="patrolPartyName" text="{.MI}Патруль{.nn} {SETTLEMENT}{.g}" />
     <string id="1sbJQR4H" text="{.MA}Грабитель{.nnp}" />
     <string id="e6csp4ha" text="{.MA}Степной{.ajp} {.MA}бандит{.nnp}" />
+
     <string id="F4RMyaR5" text="Вы столкнулись с {._}{PARTY}{.i}." />
     <string id="g7zo28KR" text="Вы столкнулись с {._}{PARTY}{.i}. У них нет никаких шансов против вашей мощи, и они сдаются." />
     <string id="hqIIEur1" text="Вы столкнулись с {._}{ARMY}{.i}." />
@@ -15,10 +14,10 @@
     <string id="OWCoBElc" text="Вы в плену у {._}{PARTY_NAME}{.g}." />
     <string id="minuteabbr" text="мин" />
 
+    <string id="C0llOApK" text="{.FI}Армия{.nn} {HERO}{.g}" />
+    <string id="patrolPartyName" text="{.MI}Патруль{.nn} {SETTLEMENT}{.g}" />
     <string id="l4pRw7pO" text="{.MI}Вооруженный{.aj} {.MI}караван{.nn} {OWNER.NAME}{.g}" />
     <string id="LjUhEJxz" text="{.MI}Караван{.nn} {OWNER.NAME}{.g}" />
-
-    <!-- RuFix -->
 
     <string id="br0N6SSH" text="{adjectiveGenderCreator(ITEMNAME)}Надломленный{?IS_PLURAL_WORD_GROUP(ITEMNAME)}{.jp}{?}{.j}{\?} {._}{ITEMNAME}{.n}" />
   </strings>

@@ -17,9 +17,9 @@
     <string id="9yaFxhGa" text="{.MA}Дезертир{.nnp}" />
     <string id="ZqJ92UN4" text="Прибыл гонец, предлагающий выкуп за {CAPTIVE_HERO.NAME}{.a}." />
     <string id="XYAVu2f0" text="Преследует {TARGET_PARTY}{.a}." />
+    <string id="5bzk75Ql" text="Вступает в бой с {._}{TARGET_PARTY}{.i}." />
+    <string id="OpzzCPiP" text="Следует за {._}{TARGET_PARTY}{.i}." />
+    <string id="NRpbagbZ" text="Бежит к {._}{TARGET_PARTY}{.d}." />
 
-    <string id="07qBenIW" text="{.MI}кувшин{.nn} эля" />
-    <string id="07QlFlXK" text="{.FI}тарелка{.nn} селедки" />
-    <string id="0qc11kmz" text="{.FI}тарелка{.nn} пельменей с бараниной" />
   </strings>
 </base>

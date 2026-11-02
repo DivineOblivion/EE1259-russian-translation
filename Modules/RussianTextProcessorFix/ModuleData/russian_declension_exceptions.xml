@@ -29,17 +29,17 @@
     </Word>
 
     <Word value="палец">
-        <Form case=".p" value="палцы" />
-        <Form case=".g" value="палца" />
-        <Form case=".gp" value="палцев" />
-        <Form case=".d" value="палцу" />
-        <Form case=".dp" value="палцам" />
-        <Form case=".a" value="палца" />
-        <Form case=".ap" value="палцев" />
-        <Form case=".i" value="палцем" />
-        <Form case=".ip" value="палцами" />
-        <Form case=".l" value="палце" />
-        <Form case=".lp" value="палцах" />
+        <Form case=".p" value="пальцы" />
+        <Form case=".g" value="пальца" />
+        <Form case=".gp" value="пальцев" />
+        <Form case=".d" value="пальцу" />
+        <Form case=".dp" value="пальцам" />
+        <Form case=".a" value="пальца" />
+        <Form case=".ap" value="пальцев" />
+        <Form case=".i" value="пальцем" />
+        <Form case=".ip" value="пальцами" />
+        <Form case=".l" value="пальце" />
+        <Form case=".lp" value="пальцах" />
     </Word>
 
     <Word value="щитоносец">

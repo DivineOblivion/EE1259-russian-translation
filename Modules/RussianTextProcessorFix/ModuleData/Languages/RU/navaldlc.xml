@@ -4,7 +4,6 @@
     <tag language="Русский" />
   </tags>
   <strings>
-    <string id="US2w3NXN" text="{.MI}Позолоченный{.ajp} {.MI}сапог{.nnp} налетчика" />
     <string id="CjACwTk4" text="{.MI}Конвой{.nn} {OWNER.NAME}{.g}" />
     <string id="YG8K0ejL" text="{.MI}Вооруженный{.aj} {.MI}конвой{.nn} {OWNER.NAME}{.g}" />
   </strings>

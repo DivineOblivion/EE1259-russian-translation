@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Русский" />
+  </tags>
+  <strings>
+    <string id="0cQ3jk43" text="{.MI}Китовый{.aj} {.MI}жир{.nn}{@Plural}{.FI}Бочка{.nnp} китового жира{\@}" />
+    <string id="45kZUyjh" text="{.FI}Оливка{.nnp}{@Plural}{.FI}Бочка{.nnp} оливок{\@}" />
+    <string id="4kvKQuXM" text="{.FI}Шкура{.nnp}{@Plural}{.MI}Тюк{.nnp} шкур{\@}" />
+    <string id="5ac8Boz1" text="{.FI}Доска{.nnp}{@Plural}{.MI}Штабель{.nnp} досок{\@}" />
+    <string id="ExjMoUiT" text="{.FI}Твердый{.aj} {.FI}древесина{.nn}{@Plural}{.NI}Бревно{.nnp} твердой древесины{\@}" />
+    <string id="FhOkxlXJ" text="{.MI}Моржовый{.aj} {.MI}клык{.nn}{@Plural}{.FI}Мера{.nnp} моржового клыка{\@}" />
+    <string id="ITTGMEUJ" text="{.MI}Финик{.nnp}{@Plural}{.MI}мешок{.nnp} с финиками{\@}" />
+    <string id="Itv3fgJm" text="{.NI}Зерно{.nn}{@Plural}{.MI}Мешок{.nnp} с зерном{\@}" />
+    <string id="LmwhFv5p" text="{.NI}Мясо{.nn}{@Plural}{.MI}Ящик{.nnp} мяса{\@}" />
+    <string id="n3cjEB0X" text="{.MI}Инструмент{.nnp}{@Plural}{.MI}Ящик{.nnp} инструментов{\@}" />
+    <string id="WSk5Sibs" text="{.MI}Сыр{.nn}{@Plural}{.FI}Бочка{.nnp} сыра{\@}" />
+
+    <string id="07qBenIW" text="{.MI}кувшин{.nn} эля" />
+    <string id="07QlFlXK" text="{.FI}тарелка{.nn} селедки" />
+    <string id="0qc11kmz" text="{.FI}тарелка{.nn} пельменей с бараниной" />
+
+    <string id="3WdXljdt" text="{.MA}Крепкий{.aj} {.MA}нахазан{.nn}" />
+
+    <string id="US2w3NXN" text="{.MI}Позолоченный{.ajp} {.MI}сапог{.nnp} налетчика" />
+    <string id="2XEbqNQz" text="{.FI}Украшенный{.ajp} {.FI}имперский{.ajp} {.FI}латный{.ajp} {.FI}рукавица{.nnp}" />
+    <string id="42KNket2" text="{.MI}Сапог{.nnp} горцев" />
+    <string id="4a99jSHC" text="{.MI}Степной{.ajp} {.MI}кожаный{.ajp} {.MI}наплечник{.nnp}" />
+    <string id="4HcrY0S2" text="{.FI}Кожаный{.ajp} {.FI}перчатка{.nnp} с меховой оторочкой" />
+    <string id="4xUR2kAj" text="{.FI}Тяжелый{.aj} {.FI}имперский{.aj} {.FI}булава{.nn}" />
+    <string id="4YTJJaTG" text="{.FI}Тяжелый{.aj} {.FI}сабля{.nn}" />
+    <string id="8frVbv2b" text="{.MI}Северный{.ajp} {.MI}пластинчатый{.ajp} {.MI}наплечник{.nnp}" />
+    <string id="9cHyHQ7a" text="{.MI}Пластинчатый{.ajp} {.MI}латный{.ajp} {.MI}сапог{.nnp}" />
+    <string id="9Eyd2qGo" text="{.MI}Укрепленный{.ajp} {.MI}замшевый{.ajp} {.MI}сапог{.nnp}" />
+    <string id="a3vHlztg" text="{.FI}Пластинчатый{.ajp} {.FI}рукавица{.nnp} с накладками" />
+    <string id="aR1Tl119" text="{.MI}Сапог{.nnp} налетчика" />
+    <string id="Bl72Ribb" text="{.MI}Кожаный{.ajp} {.MI}наплечник{.nnp} с подкладом" />
+    <string id="BLeQnEKZ" text="{.MI}Кожаный{.ajp} {.MI}сапог{.nnp}" />
+    <string id="c7UNJSNi" text="{.MI}Наплечник{.nnp} из плетеной кожи" />
+    <string id="cCaHNMwf" text="{.FI}Ножной{.ajp} {.FI}обмотка{.nnp} горцев" />
+    <string id="cwC8Jp99" text="{.MI}Меховой{.ajp} {.MI}наплечник{.nnp} горцев" />
+    <string id="CyJiWngO" text="{.MI}Бронзовый{.ajp} {.MI}чешуйчатый{.ajp} {.MI}наплечник{.nnp}" />
+    <string id="D9JrTpwU" text="{.MI}Сапог{.nnp} с фигурным верхом" />
+    <string id="dPQGxmJ7" text="{.FI}Укрепленный{.ajp} {.FI}кольчужный{.ajp} {.FI}рукавица{.nnp}" /> 
+    <string id="eTKxlDl1" text="{.MI}Сапог{.nnp} полководца горцев" />
+    <string id="Fb7PrJuc" text="{.MI}Сапог{.nnp} с накладками" />
+    <string id="FexNLsO5" text="{.MI}Имперский{.ajp} {.MI}дротик{.nnp}" />
+    <string id="FyXM8Iob" text="{.MI}Тканевый{.ajp} {.MI}подплечник{.nnp} пустынника" />
+    <string id="g51zVsKU" text="{.FI}Кольчужный{.ajp} {.FI}рукавица{.nnp}" />
+    <string id="G8FQ2exX" text="{.FI}Укрепленный{.ajp} пластинами {.FI}рукавица{.nnp}" />
+    <string id="gfvG04SP" text="{.MI}Кожаный{.ajp} {.MI}наплечник{.nnp} пустынника" />
+    <string id="gXbmGrGL" text="{.MI}Украшенный{.ajp} {.MI}имперский{.ajp} {.MI}сапог{.nnp}" />
+    <string id="hTRaPvRa" text="{.MI}Кожаный{.ajp} {.MI}сапог{.nnp} горцев" />
+    <string id="I1ZBVhON" text="{.MI}Степной{.ajp} {.MI}клепаный{.ajp} {.MI}наплечник{.nnp}" />
+    <string id="ICsecuVv" text="{.MI}Наплечный{.ajp} {.MI}щиток{.nnp} из обработанной кожи" />
+    <string id="INWSxn7C" text="{.MI}Бронзовый{.ajp} {.MI}пластинчатый{.ajp} {.MI}наплечник{.nnp}" />
+    <string id="iqaRjMhe" text="{.MI}Черненый{.ajp} {.MI}сапог{.nnp}" />
+    <string id="iVataLxL" text="{.FI}Кожаный{.ajp} {.FI}полоска{.nnp} поверх мягкого одеяния" />
+    <string id="J00AF9Qv" text="{.MI}Сапог{.nnp} из плетеной кожи" />
+    <string id="J3YHMkL3" text="{.FI}Теплый{.ajp} {.FI}рукавица{.nnp}" />
+    <string id="JkLoAelJ" text="{.MI}Кольчужный{.ajp} {.MI}наплечник{.nnp}" />
+    <string id="Jm3AiUo3" text="{.FI}Простой{.aj} {.FI}накидка{.nn}" />
+    <string id="Kgnm0FkE" text="{.MI}Кожаный{.ajp} {.MI}ботинок{.nnp}" />
+    <string id="L0aYVd65" text="{.MI}Полукафтан{.nn} простолюдина" />
+    <string id="lIJ1EVBh" text="{.FI}Кожаный{.ajp} {.FI}перчатка{.nnp}" />
+    <string id="LOPavWRp" text="{.MI}Ботинок{.nnp} с ремешками" />
+    <string id="Lt8nT1hb" text="{.MI}Пластинчатый{.ajp} {.MI}наплечник{.nnp}" />
+    <string id="M0n609ut" text="{.MI}Кольчужный{.ajp} {.MI}наплечный{.ajp} {.MI}щиток{.nnp}" />
+    <string id="ms4AKynl" text="{.MI}Латный{.ajp} {.MI}сапог{.nnp}" />
+    <string id="mStaaxFF" text="{.MI}Кольчужный{.ajp} {.MI}наплечник{.nnp} пустынника" />
+    <string id="oEvhhNNR" text="{.MI}Кожаный{.ajp} {.MI}сапог{.nnp} всадника" />
+    <string id="oH8iFEv7" text="{.MI}Городской{.ajp} {.MI}сапог{.nnp} в гармошку" />
+    <string id="Oo0baNaq" text="{.MI}Сапог{.nnp} с грубой обмоткой" />
+    <string id="p9cQARqf" text="{.FI}Кольчуга{.nn} высокородного" />
+    <string id="PLtQdf23" text="{.FI}Укрепленный{.ajp} {.FI}теплый{.ajp} {.FI}рукавица{.nnp}" />
+    <string id="QcCC59DA" text="{.MI}Клепаный{.ajp} {.MI}узкий{.ajp} {.MI}наплечник{.nnp}" />
+    <string id="qdMP2qWG" text="{.MI}Кольчужный{.ajp} {.MI}укрепленный{.ajp} {.MI}наплечник{.nnp}" />
+    <string id="qFV7uqVW" text="{.NI}Короткий{.aj} {.NI}копье{.nn}" />
+    <string id="4Q4JVfuT" text="{.PR}{.FI}Медвежья{.nn} {.FI}шкура{.nn}" />
+    <string id="aGvBKCG8" text="{.PR}{.FI}Волчья{.nn} {.FI}голова{.nn}" />
+    <string id="FOx5vZSJ" text="{.FI}Укрепленный{.aj} {.PR}{.FI}медвежья{.nn} {.FI}шкура{.nn}" />
+    <string id="GXmDq2KR" text="{.PR}{.FI}Медвежья{.nn} {.FI}голова{.nn}" />
+    <string id="KKWEkA4P" text="{.FI}Грубый{.aj} {.PR}{.FI}медвежья{.nn} {.FI}шкура{.nn}" />    
+    <string id="zmEnxUpL" text="{.FI}Имперский{.aj} {.FI}чешуйчатый{.aj} {.FI}броня{.nn}" />
+    <string id="ZOa7p47T" text="{.MI}Сапог{.nnp} с накладками с фигурным верхом" />
+    <string id="vwVFF1XJ" text="{.MI}Меховой{.ajp} {.MI}сапог{.nnp} горцев" />
+    <string id="WahziEXA" text="{.MI}Обмотанный{.ajp} {.MI}кожаный{.ajp} {.MI}сапог{.nnp}" />
+    <string id="wrbea2oa" text="{.MI}Болт{.nnp}" />
+    <string id="WrwO8xsN" text="{.MI}Стеганый{.ajp} {.MI}кожаный{.ajp} {.MI}наплечник{.nnp}" />
+    <string id="XGX6DbFL" text="{.FI}Пластинчатый{.ajp} {.FI}рукавица{.nnp}" />
+    <string id="xn5CfwON" text="{.MI}Воинский{.ajp} {.MI}наплечник{.nnp} с подкладом" />
+    <string id="y1YTxkmn" text="{.MI}Плечевой{.ajp} {.MI}ремень{.nnp}" />
+    <string id="y9uMjAKT" text="{.MI}Укрепленный{.ajp} {.MI}замшевый{.ajp} {.MI}наплечник{.nnp}" />
+    <string id="YEUFtX4G" text="{.PR}{.MI}Волчий{.nnp} {.MI}наплечник{.nnp}" />
+  </strings>
+</base>
