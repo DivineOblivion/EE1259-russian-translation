@@ -1609,6 +1609,8 @@
     <string id="EE001722" text="{SCOUT_FOCUS_0}"/>
     <string id="EE001723" text="Показывать только лучшее снаряжение"/>
     <string id="EE001724" text="Текущие владения: {COUNT}"/>
+    <string id="EE001725" text="Будет участвовать в сражениях."/>
+    <string id="EE001726" text="Останется в лагере на время сражений."/>
 
     <string id="EE1259ArmyHealthy" text="Боеспособные"/>
     <string id="EE1259ArmyLordsPartyMen" text="В отрядах лордов"/>
